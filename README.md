@@ -35,4 +35,14 @@ Why?
 - Chunking
 - Retrieval
 - Vector DB
-- Evaluatio
+- Evaluation
+
+
+Agentic RAG Survey (2026)
+https://arxiv.org/html/2501.09136v4
+Why?
+- Agent-based RAG
+- Planning
+- Reflection
+- Multi-agent systems
+- Future direction
