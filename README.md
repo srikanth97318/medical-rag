@@ -26,9 +26,11 @@ using
 # Layer-wise Research Resources
 ## Layer 0 — Foundation
 -RAG Survey :
--Retrieval-Augmented Generation for Large Language Models: A Survey
+Retrieval-Augmented Generation for Large Language Models: A Survey
 https://arxiv.org/abs/2312.10997
+
 Why?
+
 -Complete RAG overview
 -Chunking
 -Retrieval
