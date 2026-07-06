@@ -31,8 +31,8 @@ https://arxiv.org/abs/2312.10997
 
 Why?
 
--Complete RAG overview
--Chunking
--Retrieval
--Vector DB
--Evaluatio
+- Complete RAG overview
+- Chunking
+- Retrieval
+- Vector DB
+- Evaluatio
