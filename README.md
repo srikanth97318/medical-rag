@@ -192,7 +192,6 @@ The datasets were:
 - Embedded
 - Indexed using FAISS
 
-```
 
 # 📊 Evaluation Framework
 
