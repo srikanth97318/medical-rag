@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/raw/*
+data/processed/*
+indexes/*
+results/*
+vector_store/*
+evaluation_report.json
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!indexes/.gitkeep
+!results/.gitkeep
+.streamlit/

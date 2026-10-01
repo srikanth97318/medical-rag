@@ -1,0 +1,5 @@
+[
+  {"query_id":"demo-1","query":"What symptoms are associated with the sample condition?","category":"SUPPORTED"},
+  {"query_id":"demo-2","query":"What is the cause and treatment of a rare condition absent from this knowledge base?","category":"NOT_COVERED"},
+  {"query_id":"demo-3","query":"Who won the football match yesterday?","category":"OFF_TOPIC"}
+]

@@ -1,0 +1,2001 @@
+Patient_ID,Age,Gender,Symptom_1,Symptom_2,Symptom_3,Heart_Rate_bpm,Body_Temperature_C,Blood_Pressure_mmHg,Oxygen_Saturation_%,Diagnosis,Severity,Treatment_Plan
+1,74,Male,Fatigue,Sore throat,Fever,69,39.4,132/91,94,Flu,Moderate,Medication and rest
+2,66,Female,Sore throat,Fatigue,Cough,95,39.0,174/98,98,Healthy,Mild,Rest and fluids
+3,32,Male,Body ache,Sore throat,Fatigue,77,36.8,136/60,96,Healthy,Mild,Rest and fluids
+4,21,Female,Shortness of breath,Headache,Cough,72,38.9,147/82,99,Healthy,Mild,Rest and fluids
+5,53,Male,Runny nose,Sore throat,Fatigue,100,36.6,109/106,92,Healthy,Mild,Rest and fluids
+6,22,Male,Sore throat,Fever,Cough,90,39.5,107/92,93,Flu,Moderate,Medication and rest
+7,21,Male,Sore throat,Fatigue,Cough,71,37.5,126/82,93,Bronchitis,Severe,Hospitalization and medication
+8,71,Male,Headache,Shortness of breath,Runny nose,64,38.6,153/99,99,Healthy,Mild,Rest and fluids
+9,56,Female,Shortness of breath,Fever,Headache,103,36.2,152/71,96,Cold,Mild,Rest and fluids
+10,53,Male,Cough,Fever,Headache,62,39.5,111/104,98,Flu,Moderate,Medication and rest
+11,72,Female,Shortness of breath,Fatigue,Headache,83,37.0,152/62,90,Healthy,Mild,Rest and fluids
+12,28,Female,Runny nose,Sore throat,Cough,63,36.3,151/96,96,Cold,Mild,Rest and fluids
+13,78,Male,Body ache,Shortness of breath,Headache,117,38.9,149/113,97,Healthy,Mild,Rest and fluids
+14,23,Male,Shortness of breath,Cough,Headache,118,37.0,179/70,90,Bronchitis,Severe,Hospitalization and medication
+15,55,Female,Headache,Fatigue,Sore throat,103,37.7,125/98,96,Healthy,Mild,Rest and fluids
+16,19,Female,Fatigue,Fever,Runny nose,101,39.8,100/67,91,Pneumonia,Severe,Hospitalization and medication
+17,46,Male,Headache,Runny nose,Fatigue,65,38.2,131/67,99,Healthy,Mild,Rest and fluids
+18,68,Female,Runny nose,Headache,Body ache,94,38.4,175/111,91,Healthy,Mild,Rest and fluids
+19,31,Male,Headache,Fatigue,Sore throat,63,35.7,169/93,98,Cold,Mild,Rest and fluids
+20,46,Female,Fatigue,Sore throat,Cough,85,35.5,161/110,90,Bronchitis,Severe,Hospitalization and medication
+21,58,Male,Sore throat,Body ache,Fatigue,95,38.3,142/80,98,Healthy,Mild,Rest and fluids
+22,73,Female,Fever,Fatigue,Body ache,60,37.1,177/89,97,Healthy,Mild,Rest and fluids
+23,30,Female,Headache,Cough,Body ache,87,38.6,177/85,94,Bronchitis,Severe,Hospitalization and medication
+24,69,Male,Headache,Body ache,Fever,107,39.0,154/65,94,Pneumonia,Severe,Hospitalization and medication
+25,60,Female,Body ache,Fatigue,Runny nose,64,39.2,159/90,91,Healthy,Mild,Rest and fluids
+26,45,Female,Fever,Cough,Shortness of breath,98,37.3,161/76,90,Bronchitis,Severe,Hospitalization and medication
+27,49,Female,Headache,Sore throat,Fever,92,40.0,120/118,96,Flu,Moderate,Medication and rest
+28,75,Male,Cough,Shortness of breath,Body ache,118,38.5,124/103,91,Bronchitis,Severe,Hospitalization and medication
+29,51,Male,Sore throat,Shortness of breath,Fatigue,103,37.7,162/100,90,Healthy,Mild,Rest and fluids
+30,35,Female,Cough,Fever,Fatigue,119,37.4,119/60,98,Healthy,Mild,Rest and fluids
+31,18,Female,Fatigue,Headache,Runny nose,117,38.9,108/101,92,Healthy,Mild,Rest and fluids
+32,62,Female,Runny nose,Fever,Fatigue,116,36.8,176/100,96,Healthy,Mild,Rest and fluids
+33,24,Female,Fatigue,Cough,Shortness of breath,105,39.2,159/114,94,Bronchitis,Severe,Hospitalization and medication
+34,64,Female,Fever,Headache,Cough,97,39.7,126/75,91,Flu,Moderate,Medication and rest
+35,53,Female,Runny nose,Cough,Headache,74,39.9,166/79,90,Bronchitis,Severe,Hospitalization and medication
+36,53,Female,Fever,Cough,Runny nose,101,39.2,127/113,90,Pneumonia,Severe,Hospitalization and medication
+37,62,Male,Fever,Runny nose,Sore throat,108,36.9,176/119,96,Healthy,Mild,Rest and fluids
+38,71,Female,Cough,Body ache,Shortness of breath,63,36.6,153/92,90,Bronchitis,Severe,Hospitalization and medication
+39,27,Male,Headache,Fatigue,Sore throat,94,37.7,112/67,93,Healthy,Mild,Rest and fluids
+40,67,Female,Cough,Fatigue,Body ache,105,36.8,104/108,98,Healthy,Mild,Rest and fluids
+41,78,Male,Cough,Body ache,Sore throat,65,37.1,105/73,91,Bronchitis,Severe,Hospitalization and medication
+42,23,Female,Fatigue,Shortness of breath,Body ache,98,39.8,150/83,93,Healthy,Mild,Rest and fluids
+43,78,Female,Shortness of breath,Fever,Fatigue,70,39.4,156/69,93,Flu,Moderate,Medication and rest
+44,32,Female,Shortness of breath,Fatigue,Headache,73,39.0,108/60,91,Healthy,Mild,Rest and fluids
+45,38,Male,Runny nose,Sore throat,Fatigue,92,36.3,123/61,94,Healthy,Mild,Rest and fluids
+46,36,Female,Fever,Headache,Fatigue,107,37.4,90/110,93,Healthy,Mild,Rest and fluids
+47,71,Female,Runny nose,Cough,Fever,70,37.4,97/115,98,Healthy,Mild,Rest and fluids
+48,37,Female,Runny nose,Fatigue,Shortness of breath,112,37.0,98/105,96,Healthy,Mild,Rest and fluids
+49,55,Male,Shortness of breath,Sore throat,Runny nose,91,36.3,174/116,90,Healthy,Mild,Rest and fluids
+50,31,Female,Fever,Headache,Body ache,62,37.7,115/79,99,Healthy,Mild,Rest and fluids
+51,49,Female,Runny nose,Fever,Shortness of breath,83,36.3,98/64,92,Healthy,Mild,Rest and fluids
+52,55,Female,Headache,Body ache,Shortness of breath,118,40.0,124/99,97,Healthy,Mild,Rest and fluids
+53,49,Female,Headache,Cough,Fatigue,110,36.2,104/114,98,Cold,Mild,Rest and fluids
+54,38,Male,Runny nose,Headache,Body ache,91,38.3,146/95,99,Healthy,Mild,Rest and fluids
+55,73,Male,Sore throat,Shortness of breath,Fatigue,91,36.4,134/119,91,Healthy,Mild,Rest and fluids
+56,50,Male,Shortness of breath,Fatigue,Headache,60,39.3,99/102,97,Healthy,Mild,Rest and fluids
+57,38,Male,Headache,Sore throat,Cough,83,37.9,144/89,92,Bronchitis,Severe,Hospitalization and medication
+58,77,Female,Fatigue,Fever,Cough,107,35.8,93/118,92,Bronchitis,Severe,Hospitalization and medication
+59,49,Male,Fever,Fatigue,Cough,94,37.7,146/81,94,Bronchitis,Severe,Hospitalization and medication
+60,61,Female,Fever,Headache,Sore throat,91,37.8,150/93,93,Healthy,Mild,Rest and fluids
+61,45,Male,Sore throat,Headache,Body ache,107,39.5,156/117,96,Healthy,Mild,Rest and fluids
+62,76,Female,Headache,Sore throat,Shortness of breath,60,36.4,152/112,90,Healthy,Mild,Rest and fluids
+63,47,Male,Runny nose,Fatigue,Fever,116,38.9,145/66,92,Pneumonia,Severe,Hospitalization and medication
+64,49,Male,Cough,Sore throat,Fatigue,103,36.9,162/68,92,Bronchitis,Severe,Hospitalization and medication
+65,33,Female,Sore throat,Fever,Fatigue,87,37.5,141/118,99,Healthy,Mild,Rest and fluids
+66,79,Male,Headache,Fever,Body ache,96,35.8,165/96,94,Healthy,Mild,Rest and fluids
+67,23,Male,Runny nose,Body ache,Headache,89,38.2,115/75,93,Healthy,Mild,Rest and fluids
+68,29,Female,Body ache,Headache,Fatigue,99,37.8,151/90,93,Healthy,Mild,Rest and fluids
+69,59,Female,Fever,Shortness of breath,Headache,91,36.3,138/109,92,Healthy,Mild,Rest and fluids
+70,32,Female,Shortness of breath,Fever,Cough,66,39.2,99/63,94,Flu,Moderate,Medication and rest
+71,50,Male,Cough,Shortness of breath,Runny nose,82,35.8,102/91,96,Cold,Mild,Rest and fluids
+72,79,Male,Fatigue,Body ache,Headache,94,37.7,173/83,94,Healthy,Mild,Rest and fluids
+73,65,Male,Headache,Runny nose,Sore throat,112,36.5,122/115,99,Healthy,Mild,Rest and fluids
+74,70,Female,Runny nose,Sore throat,Cough,86,39.3,162/63,90,Bronchitis,Severe,Hospitalization and medication
+75,66,Male,Body ache,Fatigue,Fever,98,39.3,163/99,95,Flu,Moderate,Medication and rest
+76,20,Male,Runny nose,Sore throat,Fatigue,106,37.8,153/78,93,Healthy,Mild,Rest and fluids
+77,31,Female,Shortness of breath,Runny nose,Headache,118,35.6,120/64,99,Cold,Mild,Rest and fluids
+78,51,Female,Headache,Fatigue,Runny nose,71,36.7,92/63,93,Healthy,Mild,Rest and fluids
+79,24,Female,Runny nose,Fatigue,Shortness of breath,99,39.2,106/67,96,Healthy,Mild,Rest and fluids
+80,64,Male,Headache,Fever,Shortness of breath,107,38.5,169/112,91,Pneumonia,Severe,Hospitalization and medication
+81,61,Female,Body ache,Sore throat,Runny nose,105,36.8,139/110,98,Healthy,Mild,Rest and fluids
+82,55,Female,Headache,Cough,Body ache,115,39.3,134/92,92,Bronchitis,Severe,Hospitalization and medication
+83,41,Female,Runny nose,Headache,Shortness of breath,84,39.6,159/76,93,Healthy,Mild,Rest and fluids
+84,27,Female,Runny nose,Body ache,Fatigue,111,38.8,164/96,99,Healthy,Mild,Rest and fluids
+85,53,Female,Runny nose,Fever,Body ache,88,39.2,131/83,94,Flu,Moderate,Medication and rest
+86,63,Female,Shortness of breath,Headache,Fatigue,95,39.0,161/95,99,Healthy,Mild,Rest and fluids
+87,70,Male,Body ache,Shortness of breath,Cough,74,39.8,113/68,95,Healthy,Mild,Rest and fluids
+88,70,Female,Body ache,Fatigue,Sore throat,83,38.9,100/77,97,Healthy,Mild,Rest and fluids
+89,73,Male,Shortness of breath,Cough,Headache,117,38.9,128/76,95,Healthy,Mild,Rest and fluids
+90,31,Male,Body ache,Shortness of breath,Fatigue,90,36.7,91/75,93,Healthy,Mild,Rest and fluids
+91,57,Male,Runny nose,Sore throat,Cough,113,36.5,124/96,97,Healthy,Mild,Rest and fluids
+92,39,Female,Fever,Sore throat,Runny nose,72,39.6,119/66,96,Flu,Moderate,Medication and rest
+93,71,Male,Shortness of breath,Cough,Runny nose,100,37.3,174/61,93,Bronchitis,Severe,Hospitalization and medication
+94,72,Female,Shortness of breath,Sore throat,Runny nose,90,36.5,96/101,92,Healthy,Mild,Rest and fluids
+95,62,Female,Body ache,Shortness of breath,Headache,110,36.1,91/79,94,Healthy,Mild,Rest and fluids
+96,35,Female,Fatigue,Body ache,Sore throat,75,38.3,128/96,91,Healthy,Mild,Rest and fluids
+97,67,Male,Body ache,Fever,Fatigue,117,39.1,137/99,97,Flu,Moderate,Medication and rest
+98,63,Male,Sore throat,Fever,Runny nose,104,36.5,116/98,91,Healthy,Mild,Rest and fluids
+99,44,Male,Headache,Shortness of breath,Body ache,96,35.8,148/95,91,Healthy,Mild,Rest and fluids
+100,53,Female,Fatigue,Sore throat,Body ache,90,36.4,128/99,97,Cold,Mild,Rest and fluids
+101,54,Male,Fever,Runny nose,Headache,80,37.9,171/76,90,Healthy,Mild,Rest and fluids
+102,54,Male,Runny nose,Shortness of breath,Fatigue,109,36.8,102/81,97,Healthy,Mild,Rest and fluids
+103,34,Male,Fatigue,Body ache,Sore throat,77,37.3,130/78,96,Healthy,Mild,Rest and fluids
+104,44,Female,Fever,Sore throat,Headache,75,37.6,116/96,90,Healthy,Mild,Rest and fluids
+105,69,Female,Sore throat,Cough,Runny nose,77,39.2,96/102,92,Bronchitis,Severe,Hospitalization and medication
+106,59,Female,Fever,Fatigue,Headache,97,36.0,96/86,93,Healthy,Mild,Rest and fluids
+107,54,Female,Sore throat,Headache,Fatigue,97,38.4,130/66,93,Healthy,Mild,Rest and fluids
+108,51,Female,Headache,Shortness of breath,Body ache,88,38.9,140/104,91,Healthy,Mild,Rest and fluids
+109,36,Female,Shortness of breath,Headache,Sore throat,102,39.0,162/95,92,Healthy,Mild,Rest and fluids
+110,47,Female,Shortness of breath,Runny nose,Sore throat,117,37.2,137/112,99,Healthy,Mild,Rest and fluids
+111,57,Female,Sore throat,Cough,Fever,117,36.7,168/90,95,Healthy,Mild,Rest and fluids
+112,34,Male,Sore throat,Runny nose,Shortness of breath,96,35.9,123/87,90,Healthy,Mild,Rest and fluids
+113,57,Male,Fatigue,Fever,Sore throat,63,38.5,152/64,97,Flu,Moderate,Medication and rest
+114,58,Female,Headache,Fatigue,Fever,95,37.4,100/115,90,Healthy,Mild,Rest and fluids
+115,29,Male,Body ache,Fatigue,Headache,69,37.3,172/67,92,Healthy,Mild,Rest and fluids
+116,52,Female,Body ache,Runny nose,Fever,83,37.9,123/97,94,Healthy,Mild,Rest and fluids
+117,69,Male,Cough,Headache,Runny nose,74,37.5,138/118,95,Healthy,Mild,Rest and fluids
+118,47,Male,Shortness of breath,Runny nose,Sore throat,91,37.0,177/105,99,Healthy,Mild,Rest and fluids
+119,64,Female,Headache,Sore throat,Shortness of breath,64,38.1,128/118,99,Healthy,Mild,Rest and fluids
+120,50,Male,Fever,Cough,Shortness of breath,87,39.2,99/109,98,Flu,Moderate,Medication and rest
+121,30,Male,Cough,Headache,Shortness of breath,94,36.3,172/105,98,Cold,Mild,Rest and fluids
+122,58,Female,Fever,Fatigue,Runny nose,117,36.6,169/116,97,Healthy,Mild,Rest and fluids
+123,27,Male,Body ache,Fatigue,Shortness of breath,106,37.5,124/105,91,Healthy,Mild,Rest and fluids
+124,68,Female,Fatigue,Cough,Runny nose,80,38.5,135/60,98,Healthy,Mild,Rest and fluids
+125,68,Female,Body ache,Cough,Runny nose,107,38.2,135/93,95,Healthy,Mild,Rest and fluids
+126,25,Female,Headache,Body ache,Fatigue,84,38.6,148/60,94,Healthy,Mild,Rest and fluids
+127,46,Male,Runny nose,Cough,Body ache,94,36.3,92/67,96,Cold,Mild,Rest and fluids
+128,36,Male,Fever,Fatigue,Cough,90,37.7,117/106,95,Healthy,Mild,Rest and fluids
+129,25,Male,Fever,Fatigue,Headache,114,38.4,120/104,93,Pneumonia,Severe,Hospitalization and medication
+130,54,Male,Shortness of breath,Runny nose,Body ache,65,36.9,108/118,97,Healthy,Mild,Rest and fluids
+131,34,Female,Fever,Headache,Shortness of breath,92,37.2,166/115,99,Healthy,Mild,Rest and fluids
+132,42,Male,Headache,Shortness of breath,Body ache,80,35.5,138/74,92,Healthy,Mild,Rest and fluids
+133,73,Male,Runny nose,Cough,Headache,65,37.5,112/79,94,Bronchitis,Severe,Hospitalization and medication
+134,57,Male,Body ache,Shortness of breath,Cough,69,38.2,121/86,90,Bronchitis,Severe,Hospitalization and medication
+135,25,Female,Runny nose,Headache,Cough,117,38.1,173/103,96,Healthy,Mild,Rest and fluids
+136,45,Female,Shortness of breath,Fatigue,Cough,74,36.6,138/103,95,Healthy,Mild,Rest and fluids
+137,77,Female,Cough,Shortness of breath,Body ache,63,37.0,163/113,95,Healthy,Mild,Rest and fluids
+138,33,Female,Runny nose,Shortness of breath,Headache,96,36.7,123/84,94,Healthy,Mild,Rest and fluids
+139,64,Female,Runny nose,Cough,Sore throat,93,38.0,158/80,94,Bronchitis,Severe,Hospitalization and medication
+140,18,Female,Cough,Fatigue,Shortness of breath,105,39.8,110/90,99,Healthy,Mild,Rest and fluids
+141,63,Female,Headache,Fever,Fatigue,80,35.6,166/79,94,Healthy,Mild,Rest and fluids
+142,70,Female,Cough,Runny nose,Body ache,81,36.8,95/103,99,Healthy,Mild,Rest and fluids
+143,79,Male,Runny nose,Fatigue,Cough,91,38.0,98/116,99,Healthy,Mild,Rest and fluids
+144,26,Male,Sore throat,Shortness of breath,Runny nose,63,37.5,107/118,98,Healthy,Mild,Rest and fluids
+145,46,Male,Fatigue,Fever,Shortness of breath,72,39.3,97/102,93,Flu,Moderate,Medication and rest
+146,40,Female,Runny nose,Fatigue,Sore throat,74,38.0,150/115,98,Healthy,Mild,Rest and fluids
+147,47,Female,Shortness of breath,Body ache,Headache,112,37.8,151/72,91,Healthy,Mild,Rest and fluids
+148,65,Female,Cough,Fatigue,Shortness of breath,65,35.7,147/82,93,Bronchitis,Severe,Hospitalization and medication
+149,36,Female,Headache,Runny nose,Fatigue,97,38.8,115/68,95,Healthy,Mild,Rest and fluids
+150,29,Male,Shortness of breath,Fatigue,Headache,110,36.7,100/92,99,Healthy,Mild,Rest and fluids
+151,71,Female,Runny nose,Headache,Sore throat,87,36.6,91/75,97,Healthy,Mild,Rest and fluids
+152,23,Male,Headache,Body ache,Cough,93,38.3,117/83,93,Bronchitis,Severe,Hospitalization and medication
+153,54,Female,Runny nose,Shortness of breath,Headache,73,35.5,165/80,91,Healthy,Mild,Rest and fluids
+154,59,Male,Fatigue,Body ache,Headache,75,39.3,165/98,97,Healthy,Mild,Rest and fluids
+155,55,Male,Fatigue,Cough,Fever,81,37.3,174/92,91,Bronchitis,Severe,Hospitalization and medication
+156,75,Female,Cough,Body ache,Headache,116,38.1,156/62,90,Bronchitis,Severe,Hospitalization and medication
+157,41,Female,Sore throat,Headache,Shortness of breath,74,39.0,110/64,90,Healthy,Mild,Rest and fluids
+158,25,Male,Fever,Fatigue,Headache,102,39.1,98/114,90,Pneumonia,Severe,Hospitalization and medication
+159,46,Male,Fever,Shortness of breath,Headache,66,38.8,142/118,98,Flu,Moderate,Medication and rest
+160,72,Female,Shortness of breath,Fatigue,Sore throat,108,36.0,132/108,98,Cold,Mild,Rest and fluids
+161,39,Male,Body ache,Sore throat,Fatigue,106,37.9,119/79,92,Healthy,Mild,Rest and fluids
+162,77,Female,Sore throat,Fatigue,Cough,82,38.1,110/96,92,Bronchitis,Severe,Hospitalization and medication
+163,71,Male,Body ache,Headache,Shortness of breath,66,36.6,118/117,95,Healthy,Mild,Rest and fluids
+164,46,Female,Headache,Cough,Shortness of breath,75,36.9,91/87,96,Healthy,Mild,Rest and fluids
+165,74,Male,Fever,Cough,Shortness of breath,74,39.6,149/109,96,Flu,Moderate,Medication and rest
+166,35,Female,Cough,Fatigue,Fever,75,37.0,170/90,94,Bronchitis,Severe,Hospitalization and medication
+167,51,Male,Cough,Body ache,Fatigue,68,39.0,160/92,96,Healthy,Mild,Rest and fluids
+168,63,Male,Headache,Fever,Runny nose,119,37.9,174/109,95,Healthy,Mild,Rest and fluids
+169,34,Female,Headache,Shortness of breath,Sore throat,83,36.6,166/89,91,Healthy,Mild,Rest and fluids
+170,54,Female,Cough,Fatigue,Fever,74,36.6,176/71,98,Healthy,Mild,Rest and fluids
+171,54,Male,Cough,Fever,Sore throat,103,37.4,99/114,99,Healthy,Mild,Rest and fluids
+172,65,Male,Sore throat,Runny nose,Fever,102,39.3,172/70,98,Flu,Moderate,Medication and rest
+173,57,Female,Cough,Body ache,Fatigue,71,39.7,106/62,92,Bronchitis,Severe,Hospitalization and medication
+174,75,Male,Sore throat,Runny nose,Fatigue,106,37.2,131/71,92,Healthy,Mild,Rest and fluids
+175,39,Male,Shortness of breath,Headache,Fatigue,88,37.2,160/102,93,Healthy,Mild,Rest and fluids
+176,49,Male,Body ache,Runny nose,Headache,93,36.3,124/67,98,Cold,Mild,Rest and fluids
+177,73,Male,Sore throat,Runny nose,Headache,94,36.5,178/112,98,Healthy,Mild,Rest and fluids
+178,73,Female,Sore throat,Fatigue,Shortness of breath,103,38.9,151/116,94,Healthy,Mild,Rest and fluids
+179,61,Female,Shortness of breath,Cough,Headache,109,38.0,112/75,95,Healthy,Mild,Rest and fluids
+180,37,Male,Fever,Body ache,Sore throat,89,35.7,132/105,93,Healthy,Mild,Rest and fluids
+181,44,Female,Sore throat,Cough,Runny nose,75,37.0,101/77,98,Healthy,Mild,Rest and fluids
+182,46,Male,Fever,Runny nose,Headache,117,38.2,137/90,90,Pneumonia,Severe,Hospitalization and medication
+183,46,Male,Cough,Headache,Body ache,64,38.1,167/106,93,Bronchitis,Severe,Hospitalization and medication
+184,71,Male,Cough,Fatigue,Runny nose,107,39.6,100/70,92,Bronchitis,Severe,Hospitalization and medication
+185,52,Male,Body ache,Shortness of breath,Fatigue,116,39.9,102/93,90,Healthy,Mild,Rest and fluids
+186,73,Male,Fever,Cough,Headache,93,37.2,141/89,95,Healthy,Mild,Rest and fluids
+187,55,Female,Shortness of breath,Fatigue,Body ache,93,39.6,160/67,97,Healthy,Mild,Rest and fluids
+188,42,Female,Sore throat,Headache,Body ache,112,38.6,125/102,96,Healthy,Mild,Rest and fluids
+189,39,Female,Body ache,Cough,Fatigue,78,39.4,125/102,98,Healthy,Mild,Rest and fluids
+190,59,Male,Cough,Fever,Body ache,106,39.5,159/108,94,Pneumonia,Severe,Hospitalization and medication
+191,27,Male,Body ache,Fatigue,Cough,91,38.2,90/109,90,Bronchitis,Severe,Hospitalization and medication
+192,62,Male,Shortness of breath,Fatigue,Body ache,105,35.7,171/108,95,Healthy,Mild,Rest and fluids
+193,47,Female,Fever,Runny nose,Shortness of breath,98,38.5,150/86,95,Flu,Moderate,Medication and rest
+194,78,Female,Headache,Sore throat,Cough,86,36.0,170/109,93,Bronchitis,Severe,Hospitalization and medication
+195,62,Female,Fever,Runny nose,Cough,75,36.9,158/66,92,Bronchitis,Severe,Hospitalization and medication
+196,55,Female,Shortness of breath,Body ache,Runny nose,94,38.8,148/98,99,Healthy,Mild,Rest and fluids
+197,51,Female,Fever,Fatigue,Sore throat,108,38.7,163/69,92,Pneumonia,Severe,Hospitalization and medication
+198,55,Male,Fatigue,Cough,Shortness of breath,82,38.0,98/85,92,Bronchitis,Severe,Hospitalization and medication
+199,67,Female,Headache,Cough,Body ache,84,37.2,177/102,94,Bronchitis,Severe,Hospitalization and medication
+200,19,Female,Body ache,Sore throat,Fever,73,39.1,131/99,93,Flu,Moderate,Medication and rest
+201,69,Male,Fatigue,Runny nose,Cough,98,38.2,114/114,99,Healthy,Mild,Rest and fluids
+202,71,Female,Cough,Headache,Sore throat,83,35.7,130/64,99,Cold,Mild,Rest and fluids
+203,52,Female,Sore throat,Headache,Body ache,110,38.8,132/116,96,Healthy,Mild,Rest and fluids
+204,78,Female,Shortness of breath,Fatigue,Runny nose,85,38.7,114/71,92,Healthy,Mild,Rest and fluids
+205,63,Male,Runny nose,Headache,Shortness of breath,116,38.0,94/107,96,Healthy,Mild,Rest and fluids
+206,69,Male,Sore throat,Body ache,Headache,84,39.7,115/81,98,Healthy,Mild,Rest and fluids
+207,63,Male,Fatigue,Body ache,Fever,87,35.6,160/78,96,Cold,Mild,Rest and fluids
+208,48,Female,Cough,Fever,Shortness of breath,115,39.3,163/64,91,Pneumonia,Severe,Hospitalization and medication
+209,31,Male,Cough,Sore throat,Fever,87,35.9,170/95,92,Bronchitis,Severe,Hospitalization and medication
+210,73,Female,Runny nose,Cough,Fatigue,97,35.6,140/78,90,Bronchitis,Severe,Hospitalization and medication
+211,59,Female,Shortness of breath,Runny nose,Fatigue,112,38.5,141/92,94,Healthy,Mild,Rest and fluids
+212,64,Male,Sore throat,Headache,Cough,93,36.9,175/62,97,Healthy,Mild,Rest and fluids
+213,27,Female,Cough,Headache,Body ache,79,36.4,136/113,96,Cold,Mild,Rest and fluids
+214,65,Male,Body ache,Fatigue,Fever,104,36.4,157/107,98,Cold,Mild,Rest and fluids
+215,24,Female,Sore throat,Body ache,Runny nose,105,38.1,174/63,91,Healthy,Mild,Rest and fluids
+216,56,Female,Headache,Fever,Runny nose,102,37.7,159/72,90,Healthy,Mild,Rest and fluids
+217,79,Male,Fatigue,Headache,Runny nose,107,37.4,150/90,90,Healthy,Mild,Rest and fluids
+218,43,Male,Fever,Body ache,Headache,97,39.0,108/61,92,Flu,Moderate,Medication and rest
+219,61,Female,Body ache,Cough,Shortness of breath,119,37.7,174/78,96,Healthy,Mild,Rest and fluids
+220,68,Female,Fatigue,Cough,Body ache,77,36.0,102/100,95,Healthy,Mild,Rest and fluids
+221,29,Male,Runny nose,Cough,Fever,85,35.9,104/95,90,Bronchitis,Severe,Hospitalization and medication
+222,63,Female,Headache,Fatigue,Fever,113,36.5,160/103,99,Healthy,Mild,Rest and fluids
+223,77,Male,Cough,Fatigue,Headache,77,36.4,155/64,92,Bronchitis,Severe,Hospitalization and medication
+224,49,Male,Sore throat,Shortness of breath,Fatigue,62,37.0,133/107,96,Healthy,Mild,Rest and fluids
+225,59,Male,Body ache,Runny nose,Fatigue,70,36.9,169/110,99,Healthy,Mild,Rest and fluids
+226,46,Female,Cough,Headache,Fever,97,36.2,175/69,93,Bronchitis,Severe,Hospitalization and medication
+227,47,Female,Shortness of breath,Fever,Fatigue,60,36.5,159/103,92,Healthy,Mild,Rest and fluids
+228,58,Male,Cough,Fatigue,Body ache,86,37.1,158/60,95,Healthy,Mild,Rest and fluids
+229,40,Male,Fatigue,Body ache,Cough,73,37.4,101/90,95,Healthy,Mild,Rest and fluids
+230,43,Male,Fever,Shortness of breath,Sore throat,115,36.6,92/100,90,Healthy,Mild,Rest and fluids
+231,21,Female,Fever,Body ache,Headache,90,37.1,90/96,93,Healthy,Mild,Rest and fluids
+232,66,Male,Runny nose,Headache,Sore throat,86,37.8,147/101,98,Healthy,Mild,Rest and fluids
+233,47,Female,Fever,Fatigue,Sore throat,110,36.6,99/115,99,Healthy,Mild,Rest and fluids
+234,24,Male,Headache,Cough,Sore throat,73,37.9,139/115,96,Healthy,Mild,Rest and fluids
+235,65,Male,Headache,Runny nose,Body ache,72,37.9,96/91,96,Healthy,Mild,Rest and fluids
+236,37,Male,Sore throat,Cough,Fever,62,36.0,145/60,96,Cold,Mild,Rest and fluids
+237,36,Male,Runny nose,Shortness of breath,Body ache,86,38.3,118/96,95,Healthy,Mild,Rest and fluids
+238,54,Female,Fatigue,Runny nose,Fever,119,39.2,133/108,96,Flu,Moderate,Medication and rest
+239,36,Male,Fever,Body ache,Shortness of breath,65,36.4,151/85,95,Healthy,Mild,Rest and fluids
+240,19,Female,Fever,Fatigue,Headache,107,35.9,90/113,92,Healthy,Mild,Rest and fluids
+241,20,Male,Fatigue,Sore throat,Runny nose,91,39.8,146/119,96,Healthy,Mild,Rest and fluids
+242,56,Female,Sore throat,Fatigue,Shortness of breath,85,38.4,106/105,91,Healthy,Mild,Rest and fluids
+243,62,Female,Runny nose,Headache,Body ache,117,39.6,128/77,97,Healthy,Mild,Rest and fluids
+244,23,Male,Fatigue,Sore throat,Fever,117,39.0,166/73,98,Flu,Moderate,Medication and rest
+245,18,Male,Headache,Cough,Runny nose,107,38.6,93/81,92,Bronchitis,Severe,Hospitalization and medication
+246,38,Male,Fever,Body ache,Sore throat,79,36.1,108/62,91,Healthy,Mild,Rest and fluids
+247,72,Female,Fatigue,Headache,Sore throat,89,38.6,124/82,96,Healthy,Mild,Rest and fluids
+248,51,Female,Runny nose,Fever,Headache,107,36.5,144/62,98,Healthy,Mild,Rest and fluids
+249,39,Female,Shortness of breath,Fever,Sore throat,79,37.9,145/102,98,Healthy,Mild,Rest and fluids
+250,27,Female,Headache,Fatigue,Fever,80,38.5,145/60,92,Flu,Moderate,Medication and rest
+251,68,Female,Fever,Headache,Fatigue,83,39.1,162/103,96,Flu,Moderate,Medication and rest
+252,28,Female,Shortness of breath,Sore throat,Headache,66,39.7,155/113,98,Healthy,Mild,Rest and fluids
+253,23,Male,Cough,Headache,Body ache,93,35.9,110/94,99,Cold,Mild,Rest and fluids
+254,21,Female,Runny nose,Shortness of breath,Headache,94,35.8,170/64,94,Healthy,Mild,Rest and fluids
+255,77,Female,Headache,Fatigue,Fever,114,39.6,139/82,98,Flu,Moderate,Medication and rest
+256,57,Male,Sore throat,Headache,Fatigue,77,39.8,129/67,90,Healthy,Mild,Rest and fluids
+257,62,Male,Fatigue,Cough,Sore throat,66,39.2,121/114,91,Bronchitis,Severe,Hospitalization and medication
+258,56,Male,Fatigue,Shortness of breath,Runny nose,61,35.5,90/110,92,Healthy,Mild,Rest and fluids
+259,73,Male,Headache,Fatigue,Fever,119,37.5,105/77,98,Healthy,Mild,Rest and fluids
+260,47,Female,Fever,Runny nose,Shortness of breath,93,36.1,164/86,93,Healthy,Mild,Rest and fluids
+261,67,Male,Headache,Sore throat,Shortness of breath,109,38.3,105/96,91,Healthy,Mild,Rest and fluids
+262,39,Female,Body ache,Fatigue,Fever,73,35.8,149/101,91,Healthy,Mild,Rest and fluids
+263,71,Male,Body ache,Sore throat,Headache,98,39.8,117/116,93,Healthy,Mild,Rest and fluids
+264,25,Male,Sore throat,Runny nose,Cough,117,39.6,127/94,98,Healthy,Mild,Rest and fluids
+265,37,Male,Body ache,Fever,Runny nose,104,36.8,112/109,91,Healthy,Mild,Rest and fluids
+266,35,Male,Runny nose,Body ache,Headache,75,37.9,129/82,96,Healthy,Mild,Rest and fluids
+267,30,Female,Body ache,Runny nose,Shortness of breath,64,37.6,95/114,92,Healthy,Mild,Rest and fluids
+268,34,Male,Fever,Headache,Fatigue,92,37.6,145/94,93,Healthy,Mild,Rest and fluids
+269,66,Male,Runny nose,Body ache,Shortness of breath,73,36.4,90/103,90,Healthy,Mild,Rest and fluids
+270,33,Female,Runny nose,Fatigue,Headache,91,37.4,171/103,92,Healthy,Mild,Rest and fluids
+271,63,Female,Runny nose,Shortness of breath,Cough,107,39.7,116/69,96,Healthy,Mild,Rest and fluids
+272,18,Female,Sore throat,Headache,Cough,81,36.9,129/118,90,Bronchitis,Severe,Hospitalization and medication
+273,26,Female,Body ache,Sore throat,Runny nose,81,37.1,150/62,97,Healthy,Mild,Rest and fluids
+274,66,Male,Sore throat,Headache,Fever,116,36.8,149/71,99,Healthy,Mild,Rest and fluids
+275,78,Female,Sore throat,Cough,Shortness of breath,90,35.7,125/86,97,Cold,Mild,Rest and fluids
+276,37,Female,Fatigue,Body ache,Shortness of breath,119,38.4,128/118,97,Healthy,Mild,Rest and fluids
+277,64,Female,Fatigue,Sore throat,Cough,76,40.0,158/116,91,Bronchitis,Severe,Hospitalization and medication
+278,25,Female,Fever,Fatigue,Sore throat,76,37.5,174/83,99,Healthy,Mild,Rest and fluids
+279,34,Female,Headache,Runny nose,Shortness of breath,119,38.5,165/70,92,Healthy,Mild,Rest and fluids
+280,26,Male,Sore throat,Shortness of breath,Fatigue,77,39.7,177/86,97,Healthy,Mild,Rest and fluids
+281,22,Male,Cough,Fatigue,Shortness of breath,118,37.7,146/89,98,Healthy,Mild,Rest and fluids
+282,57,Female,Fatigue,Body ache,Shortness of breath,118,39.4,123/107,95,Healthy,Mild,Rest and fluids
+283,67,Female,Cough,Body ache,Headache,89,39.9,100/66,92,Bronchitis,Severe,Hospitalization and medication
+284,47,Female,Body ache,Headache,Fever,77,39.2,95/105,90,Flu,Moderate,Medication and rest
+285,27,Male,Fever,Runny nose,Shortness of breath,104,37.9,131/80,90,Healthy,Mild,Rest and fluids
+286,77,Female,Sore throat,Fatigue,Shortness of breath,81,37.2,100/80,97,Healthy,Mild,Rest and fluids
+287,35,Male,Runny nose,Cough,Sore throat,100,35.5,131/60,96,Cold,Mild,Rest and fluids
+288,35,Female,Runny nose,Cough,Headache,107,39.4,161/79,91,Bronchitis,Severe,Hospitalization and medication
+289,77,Female,Fatigue,Shortness of breath,Headache,116,38.9,101/82,93,Healthy,Mild,Rest and fluids
+290,23,Male,Fever,Body ache,Runny nose,63,39.1,159/87,99,Flu,Moderate,Medication and rest
+291,66,Male,Sore throat,Fever,Body ache,80,36.6,148/113,99,Healthy,Mild,Rest and fluids
+292,31,Male,Shortness of breath,Fever,Runny nose,95,38.4,132/103,93,Flu,Moderate,Medication and rest
+293,24,Male,Body ache,Fatigue,Headache,106,37.0,121/119,95,Healthy,Mild,Rest and fluids
+294,43,Female,Shortness of breath,Sore throat,Body ache,119,38.7,117/85,90,Healthy,Mild,Rest and fluids
+295,48,Female,Fatigue,Fever,Cough,72,36.0,103/112,90,Bronchitis,Severe,Hospitalization and medication
+296,50,Male,Cough,Sore throat,Fever,81,35.9,153/87,94,Bronchitis,Severe,Hospitalization and medication
+297,73,Male,Headache,Shortness of breath,Runny nose,85,38.9,128/119,93,Healthy,Mild,Rest and fluids
+298,47,Female,Runny nose,Body ache,Sore throat,105,38.2,140/67,97,Healthy,Mild,Rest and fluids
+299,22,Female,Body ache,Shortness of breath,Fatigue,104,38.4,131/94,96,Healthy,Mild,Rest and fluids
+300,57,Male,Headache,Fatigue,Shortness of breath,72,39.7,148/81,93,Healthy,Mild,Rest and fluids
+301,46,Female,Cough,Fever,Body ache,79,39.2,130/97,94,Flu,Moderate,Medication and rest
+302,36,Female,Runny nose,Headache,Cough,89,38.8,127/114,98,Healthy,Mild,Rest and fluids
+303,43,Female,Fatigue,Shortness of breath,Runny nose,112,37.1,111/74,99,Healthy,Mild,Rest and fluids
+304,27,Male,Cough,Sore throat,Fatigue,77,38.8,145/77,90,Bronchitis,Severe,Hospitalization and medication
+305,53,Male,Cough,Runny nose,Fever,96,39.5,113/113,90,Flu,Moderate,Medication and rest
+306,55,Male,Fever,Sore throat,Fatigue,119,35.7,91/68,93,Healthy,Mild,Rest and fluids
+307,50,Female,Cough,Sore throat,Runny nose,69,35.6,145/98,95,Healthy,Mild,Rest and fluids
+308,63,Female,Sore throat,Cough,Headache,75,38.5,107/88,93,Bronchitis,Severe,Hospitalization and medication
+309,42,Male,Body ache,Runny nose,Sore throat,95,38.1,148/80,92,Healthy,Mild,Rest and fluids
+310,48,Male,Shortness of breath,Body ache,Fever,67,37.7,178/61,91,Healthy,Mild,Rest and fluids
+311,79,Female,Shortness of breath,Runny nose,Fatigue,90,37.6,173/61,99,Healthy,Mild,Rest and fluids
+312,39,Male,Body ache,Runny nose,Headache,104,39.6,157/119,93,Healthy,Mild,Rest and fluids
+313,32,Female,Shortness of breath,Cough,Body ache,116,35.6,178/76,91,Bronchitis,Severe,Hospitalization and medication
+314,35,Female,Runny nose,Cough,Shortness of breath,95,37.6,164/68,95,Healthy,Mild,Rest and fluids
+315,50,Female,Headache,Fatigue,Body ache,61,37.0,175/93,90,Healthy,Mild,Rest and fluids
+316,78,Female,Cough,Fatigue,Body ache,83,37.8,133/75,91,Bronchitis,Severe,Hospitalization and medication
+317,49,Female,Body ache,Shortness of breath,Cough,94,35.8,111/112,99,Cold,Mild,Rest and fluids
+318,48,Female,Body ache,Shortness of breath,Fever,118,35.8,126/90,99,Cold,Mild,Rest and fluids
+319,42,Male,Fatigue,Body ache,Runny nose,109,36.0,160/89,92,Healthy,Mild,Rest and fluids
+320,50,Male,Sore throat,Headache,Shortness of breath,65,39.1,110/118,96,Healthy,Mild,Rest and fluids
+321,29,Male,Shortness of breath,Body ache,Fatigue,106,37.9,121/117,91,Healthy,Mild,Rest and fluids
+322,58,Female,Sore throat,Fatigue,Fever,95,35.6,159/94,90,Healthy,Mild,Rest and fluids
+323,26,Female,Sore throat,Cough,Headache,64,39.8,101/106,92,Bronchitis,Severe,Hospitalization and medication
+324,51,Male,Sore throat,Runny nose,Fever,80,39.6,143/82,93,Flu,Moderate,Medication and rest
+325,35,Male,Cough,Fever,Sore throat,68,37.2,133/70,98,Healthy,Mild,Rest and fluids
+326,59,Female,Fatigue,Shortness of breath,Cough,88,39.5,146/89,95,Healthy,Mild,Rest and fluids
+327,41,Male,Cough,Fatigue,Sore throat,99,38.7,168/116,98,Healthy,Mild,Rest and fluids
+328,25,Male,Fever,Fatigue,Shortness of breath,77,35.9,174/91,93,Healthy,Mild,Rest and fluids
+329,19,Male,Body ache,Sore throat,Fatigue,117,35.9,149/86,98,Cold,Mild,Rest and fluids
+330,65,Male,Shortness of breath,Headache,Fever,75,35.6,93/103,94,Healthy,Mild,Rest and fluids
+331,38,Female,Shortness of breath,Body ache,Fever,102,39.9,120/84,93,Pneumonia,Severe,Hospitalization and medication
+332,69,Female,Shortness of breath,Fatigue,Body ache,71,37.3,139/92,93,Healthy,Mild,Rest and fluids
+333,47,Male,Cough,Body ache,Fatigue,119,37.3,175/68,96,Healthy,Mild,Rest and fluids
+334,57,Male,Fatigue,Body ache,Fever,93,35.9,97/110,93,Healthy,Mild,Rest and fluids
+335,44,Male,Fatigue,Cough,Headache,103,38.1,113/78,90,Bronchitis,Severe,Hospitalization and medication
+336,47,Female,Fatigue,Fever,Body ache,66,36.3,120/67,97,Cold,Mild,Rest and fluids
+337,37,Female,Fever,Runny nose,Cough,67,38.7,116/102,99,Flu,Moderate,Medication and rest
+338,75,Female,Fever,Shortness of breath,Fatigue,79,38.9,136/64,91,Flu,Moderate,Medication and rest
+339,57,Female,Cough,Fever,Fatigue,76,39.4,98/107,96,Flu,Moderate,Medication and rest
+340,69,Male,Sore throat,Body ache,Fatigue,93,38.3,118/99,98,Healthy,Mild,Rest and fluids
+341,59,Male,Sore throat,Shortness of breath,Fatigue,92,37.9,147/98,92,Healthy,Mild,Rest and fluids
+342,22,Female,Fatigue,Shortness of breath,Runny nose,114,36.9,141/91,96,Healthy,Mild,Rest and fluids
+343,76,Male,Sore throat,Body ache,Shortness of breath,116,36.1,169/103,92,Healthy,Mild,Rest and fluids
+344,24,Female,Fever,Sore throat,Shortness of breath,79,36.6,135/103,93,Healthy,Mild,Rest and fluids
+345,29,Female,Fever,Shortness of breath,Cough,96,37.7,175/66,94,Bronchitis,Severe,Hospitalization and medication
+346,53,Male,Shortness of breath,Runny nose,Fever,72,35.6,105/78,99,Cold,Mild,Rest and fluids
+347,40,Male,Cough,Fever,Fatigue,107,36.5,97/89,90,Bronchitis,Severe,Hospitalization and medication
+348,46,Male,Fatigue,Runny nose,Shortness of breath,64,37.4,105/61,91,Healthy,Mild,Rest and fluids
+349,60,Male,Runny nose,Body ache,Headache,98,37.6,90/111,93,Healthy,Mild,Rest and fluids
+350,47,Female,Runny nose,Fatigue,Shortness of breath,98,38.4,112/86,91,Healthy,Mild,Rest and fluids
+351,44,Female,Fatigue,Runny nose,Cough,81,39.4,120/63,92,Bronchitis,Severe,Hospitalization and medication
+352,25,Female,Fatigue,Shortness of breath,Cough,82,38.2,114/66,90,Bronchitis,Severe,Hospitalization and medication
+353,29,Male,Body ache,Fever,Shortness of breath,91,40.0,96/62,96,Flu,Moderate,Medication and rest
+354,65,Female,Fatigue,Body ache,Shortness of breath,76,38.9,92/101,99,Healthy,Mild,Rest and fluids
+355,35,Female,Body ache,Shortness of breath,Cough,105,35.8,155/113,94,Bronchitis,Severe,Hospitalization and medication
+356,29,Male,Runny nose,Headache,Fatigue,112,35.9,103/101,92,Healthy,Mild,Rest and fluids
+357,24,Female,Sore throat,Fatigue,Fever,68,38.5,158/79,97,Flu,Moderate,Medication and rest
+358,39,Male,Body ache,Cough,Runny nose,71,37.4,169/91,95,Healthy,Mild,Rest and fluids
+359,49,Female,Fever,Fatigue,Headache,68,39.6,115/91,99,Flu,Moderate,Medication and rest
+360,21,Male,Runny nose,Cough,Headache,117,38.1,127/115,90,Bronchitis,Severe,Hospitalization and medication
+361,73,Female,Fatigue,Runny nose,Fever,89,38.0,143/60,92,Healthy,Mild,Rest and fluids
+362,29,Male,Cough,Sore throat,Headache,119,38.9,128/87,97,Healthy,Mild,Rest and fluids
+363,51,Female,Cough,Runny nose,Fatigue,98,38.7,178/84,98,Healthy,Mild,Rest and fluids
+364,54,Female,Body ache,Sore throat,Fatigue,112,38.9,165/111,99,Healthy,Mild,Rest and fluids
+365,50,Female,Fatigue,Fever,Headache,92,39.4,115/98,98,Flu,Moderate,Medication and rest
+366,23,Female,Cough,Fever,Shortness of breath,119,36.1,100/73,91,Bronchitis,Severe,Hospitalization and medication
+367,26,Male,Fatigue,Headache,Cough,64,38.9,171/87,98,Healthy,Mild,Rest and fluids
+368,53,Female,Body ache,Sore throat,Headache,110,40.0,166/106,99,Healthy,Mild,Rest and fluids
+369,57,Female,Body ache,Fever,Headache,104,39.0,117/60,95,Flu,Moderate,Medication and rest
+370,53,Female,Sore throat,Shortness of breath,Fatigue,65,35.6,142/72,90,Healthy,Mild,Rest and fluids
+371,79,Female,Headache,Shortness of breath,Fever,93,37.6,103/68,95,Healthy,Mild,Rest and fluids
+372,60,Male,Body ache,Fever,Runny nose,64,36.9,102/86,90,Healthy,Mild,Rest and fluids
+373,19,Female,Headache,Fever,Shortness of breath,112,36.8,151/107,90,Healthy,Mild,Rest and fluids
+374,27,Female,Sore throat,Fever,Headache,60,37.6,102/96,93,Healthy,Mild,Rest and fluids
+375,60,Female,Body ache,Runny nose,Headache,95,35.7,107/112,94,Healthy,Mild,Rest and fluids
+376,23,Female,Runny nose,Fatigue,Fever,63,38.4,152/77,92,Flu,Moderate,Medication and rest
+377,65,Male,Fever,Cough,Shortness of breath,60,36.5,178/111,92,Bronchitis,Severe,Hospitalization and medication
+378,75,Female,Sore throat,Fever,Shortness of breath,105,37.7,135/81,93,Healthy,Mild,Rest and fluids
+379,75,Male,Fever,Body ache,Headache,65,36.3,110/87,91,Healthy,Mild,Rest and fluids
+380,19,Female,Fever,Body ache,Shortness of breath,102,37.8,112/63,97,Healthy,Mild,Rest and fluids
+381,63,Male,Fever,Body ache,Headache,111,35.8,174/115,90,Healthy,Mild,Rest and fluids
+382,37,Female,Headache,Runny nose,Body ache,69,38.4,103/83,96,Healthy,Mild,Rest and fluids
+383,28,Male,Fever,Runny nose,Sore throat,67,38.6,128/76,94,Flu,Moderate,Medication and rest
+384,34,Female,Fever,Shortness of breath,Fatigue,113,38.1,172/113,95,Flu,Moderate,Medication and rest
+385,22,Male,Body ache,Fatigue,Runny nose,88,38.5,125/119,96,Healthy,Mild,Rest and fluids
+386,64,Female,Fatigue,Body ache,Runny nose,108,37.6,129/105,95,Healthy,Mild,Rest and fluids
+387,66,Female,Shortness of breath,Cough,Fever,99,36.1,120/74,98,Cold,Mild,Rest and fluids
+388,23,Male,Shortness of breath,Fatigue,Headache,66,36.6,145/70,96,Healthy,Mild,Rest and fluids
+389,37,Female,Body ache,Sore throat,Cough,83,38.0,98/87,96,Healthy,Mild,Rest and fluids
+390,58,Female,Body ache,Fever,Fatigue,94,37.5,99/72,99,Healthy,Mild,Rest and fluids
+391,26,Male,Fever,Cough,Runny nose,99,36.9,142/80,95,Healthy,Mild,Rest and fluids
+392,79,Female,Runny nose,Body ache,Fever,108,36.0,93/81,97,Cold,Mild,Rest and fluids
+393,23,Female,Cough,Fatigue,Sore throat,109,36.9,155/77,99,Healthy,Mild,Rest and fluids
+394,30,Male,Shortness of breath,Body ache,Fever,95,37.0,130/61,99,Healthy,Mild,Rest and fluids
+395,31,Female,Body ache,Shortness of breath,Fever,111,37.9,157/90,97,Healthy,Mild,Rest and fluids
+396,24,Female,Sore throat,Body ache,Headache,118,39.2,142/91,96,Healthy,Mild,Rest and fluids
+397,23,Male,Shortness of breath,Sore throat,Fatigue,67,36.6,110/111,93,Healthy,Mild,Rest and fluids
+398,21,Male,Sore throat,Fatigue,Headache,104,37.5,167/117,94,Healthy,Mild,Rest and fluids
+399,49,Female,Runny nose,Body ache,Cough,87,37.2,171/116,98,Healthy,Mild,Rest and fluids
+400,61,Male,Body ache,Shortness of breath,Runny nose,68,38.2,167/67,92,Healthy,Mild,Rest and fluids
+401,41,Female,Cough,Sore throat,Shortness of breath,63,38.8,118/93,98,Healthy,Mild,Rest and fluids
+402,67,Female,Shortness of breath,Cough,Fever,83,39.9,167/75,97,Flu,Moderate,Medication and rest
+403,34,Female,Fatigue,Headache,Shortness of breath,84,38.3,142/75,95,Healthy,Mild,Rest and fluids
+404,70,Female,Headache,Cough,Fever,93,38.8,138/61,95,Flu,Moderate,Medication and rest
+405,53,Female,Body ache,Headache,Fever,93,39.0,163/113,98,Flu,Moderate,Medication and rest
+406,34,Female,Cough,Runny nose,Sore throat,102,39.8,121/112,98,Healthy,Mild,Rest and fluids
+407,52,Male,Headache,Cough,Fever,77,38.1,97/112,94,Flu,Moderate,Medication and rest
+408,37,Male,Headache,Fever,Sore throat,103,36.9,111/104,98,Healthy,Mild,Rest and fluids
+409,73,Female,Fatigue,Sore throat,Shortness of breath,80,38.8,130/72,95,Healthy,Mild,Rest and fluids
+410,34,Female,Body ache,Runny nose,Cough,109,35.7,166/67,95,Healthy,Mild,Rest and fluids
+411,32,Male,Runny nose,Fever,Headache,106,36.2,137/75,94,Healthy,Mild,Rest and fluids
+412,67,Female,Fever,Headache,Sore throat,94,36.8,171/84,91,Healthy,Mild,Rest and fluids
+413,28,Male,Headache,Cough,Fever,99,36.3,164/78,97,Cold,Mild,Rest and fluids
+414,57,Male,Shortness of breath,Runny nose,Sore throat,100,36.3,90/94,91,Healthy,Mild,Rest and fluids
+415,59,Male,Runny nose,Headache,Fever,78,38.0,155/80,96,Healthy,Mild,Rest and fluids
+416,27,Male,Headache,Sore throat,Fatigue,88,38.4,148/98,92,Healthy,Mild,Rest and fluids
+417,32,Female,Fatigue,Fever,Runny nose,64,38.4,170/70,98,Flu,Moderate,Medication and rest
+418,57,Male,Cough,Runny nose,Headache,62,38.9,146/81,91,Bronchitis,Severe,Hospitalization and medication
+419,47,Male,Body ache,Cough,Headache,111,39.8,100/77,91,Bronchitis,Severe,Hospitalization and medication
+420,40,Male,Headache,Fever,Cough,111,39.5,177/117,99,Flu,Moderate,Medication and rest
+421,32,Female,Fever,Sore throat,Body ache,98,35.7,165/60,93,Healthy,Mild,Rest and fluids
+422,30,Male,Cough,Headache,Fever,108,37.8,145/82,95,Healthy,Mild,Rest and fluids
+423,56,Male,Sore throat,Fatigue,Body ache,89,35.7,174/111,93,Healthy,Mild,Rest and fluids
+424,64,Female,Fever,Fatigue,Shortness of breath,112,38.7,99/81,92,Pneumonia,Severe,Hospitalization and medication
+425,70,Male,Runny nose,Body ache,Headache,76,37.2,153/72,98,Healthy,Mild,Rest and fluids
+426,21,Male,Shortness of breath,Fatigue,Headache,67,38.8,145/91,91,Healthy,Mild,Rest and fluids
+427,44,Female,Sore throat,Shortness of breath,Body ache,83,35.9,115/69,99,Cold,Mild,Rest and fluids
+428,51,Male,Headache,Fatigue,Runny nose,111,37.4,131/80,99,Healthy,Mild,Rest and fluids
+429,60,Female,Fatigue,Fever,Body ache,112,37.6,144/101,91,Healthy,Mild,Rest and fluids
+430,22,Female,Fever,Cough,Shortness of breath,104,38.4,159/70,90,Pneumonia,Severe,Hospitalization and medication
+431,60,Male,Body ache,Sore throat,Fatigue,69,36.0,116/82,97,Cold,Mild,Rest and fluids
+432,40,Male,Shortness of breath,Fever,Body ache,81,38.2,162/91,97,Flu,Moderate,Medication and rest
+433,46,Female,Fever,Runny nose,Fatigue,82,39.8,118/72,97,Flu,Moderate,Medication and rest
+434,19,Female,Headache,Body ache,Shortness of breath,84,37.5,120/75,94,Healthy,Mild,Rest and fluids
+435,35,Male,Fatigue,Shortness of breath,Runny nose,63,38.7,136/93,91,Healthy,Mild,Rest and fluids
+436,57,Female,Fever,Cough,Body ache,99,39.4,175/60,94,Flu,Moderate,Medication and rest
+437,64,Female,Runny nose,Headache,Sore throat,102,38.0,167/90,94,Healthy,Mild,Rest and fluids
+438,73,Female,Headache,Sore throat,Shortness of breath,101,38.1,139/75,97,Healthy,Mild,Rest and fluids
+439,41,Male,Fatigue,Fever,Cough,74,36.4,111/101,99,Cold,Mild,Rest and fluids
+440,79,Female,Fever,Body ache,Runny nose,74,36.2,158/96,91,Healthy,Mild,Rest and fluids
+441,21,Female,Runny nose,Cough,Body ache,98,37.5,105/80,93,Bronchitis,Severe,Hospitalization and medication
+442,73,Female,Runny nose,Cough,Headache,62,36.5,112/75,99,Healthy,Mild,Rest and fluids
+443,53,Male,Cough,Fatigue,Body ache,114,35.7,138/89,94,Bronchitis,Severe,Hospitalization and medication
+444,43,Male,Body ache,Runny nose,Sore throat,119,39.8,107/90,96,Healthy,Mild,Rest and fluids
+445,36,Male,Fever,Shortness of breath,Fatigue,86,36.7,157/105,94,Healthy,Mild,Rest and fluids
+446,55,Male,Sore throat,Body ache,Shortness of breath,75,36.3,159/86,96,Cold,Mild,Rest and fluids
+447,20,Female,Headache,Fever,Fatigue,101,37.6,117/68,92,Healthy,Mild,Rest and fluids
+448,73,Male,Cough,Body ache,Runny nose,78,37.7,175/111,95,Healthy,Mild,Rest and fluids
+449,71,Male,Fatigue,Cough,Shortness of breath,105,37.1,110/71,96,Healthy,Mild,Rest and fluids
+450,40,Female,Shortness of breath,Body ache,Runny nose,117,37.4,179/73,94,Healthy,Mild,Rest and fluids
+451,39,Female,Shortness of breath,Body ache,Fatigue,80,37.6,175/80,95,Healthy,Mild,Rest and fluids
+452,52,Male,Cough,Runny nose,Shortness of breath,109,39.1,140/116,90,Bronchitis,Severe,Hospitalization and medication
+453,71,Male,Runny nose,Shortness of breath,Fatigue,112,36.9,102/74,98,Healthy,Mild,Rest and fluids
+454,35,Female,Shortness of breath,Body ache,Fatigue,91,37.3,154/81,94,Healthy,Mild,Rest and fluids
+455,69,Male,Runny nose,Cough,Fever,69,36.7,140/61,92,Bronchitis,Severe,Hospitalization and medication
+456,25,Female,Cough,Headache,Fatigue,85,39.0,119/107,94,Bronchitis,Severe,Hospitalization and medication
+457,30,Male,Runny nose,Sore throat,Shortness of breath,111,37.7,115/102,97,Healthy,Mild,Rest and fluids
+458,55,Male,Shortness of breath,Sore throat,Body ache,69,39.7,92/82,98,Healthy,Mild,Rest and fluids
+459,60,Male,Sore throat,Shortness of breath,Runny nose,97,38.3,141/109,96,Healthy,Mild,Rest and fluids
+460,34,Male,Fatigue,Headache,Shortness of breath,79,39.7,94/64,93,Healthy,Mild,Rest and fluids
+461,76,Male,Fatigue,Shortness of breath,Cough,114,38.4,125/80,94,Bronchitis,Severe,Hospitalization and medication
+462,56,Male,Shortness of breath,Cough,Runny nose,94,36.9,133/114,99,Healthy,Mild,Rest and fluids
+463,30,Male,Fever,Sore throat,Body ache,82,36.8,129/81,98,Healthy,Mild,Rest and fluids
+464,73,Male,Body ache,Cough,Shortness of breath,103,38.6,174/73,95,Healthy,Mild,Rest and fluids
+465,52,Male,Runny nose,Sore throat,Headache,94,36.9,125/82,98,Healthy,Mild,Rest and fluids
+466,52,Male,Sore throat,Headache,Cough,116,37.7,168/63,92,Bronchitis,Severe,Hospitalization and medication
+467,36,Male,Fatigue,Headache,Cough,106,39.2,128/96,96,Healthy,Mild,Rest and fluids
+468,49,Female,Fever,Cough,Runny nose,75,36.9,90/63,93,Bronchitis,Severe,Hospitalization and medication
+469,50,Male,Fever,Runny nose,Headache,106,38.2,125/80,95,Flu,Moderate,Medication and rest
+470,51,Female,Sore throat,Headache,Fatigue,79,37.6,143/106,95,Healthy,Mild,Rest and fluids
+471,41,Female,Headache,Cough,Sore throat,103,35.7,160/95,91,Bronchitis,Severe,Hospitalization and medication
+472,62,Male,Sore throat,Runny nose,Fatigue,102,37.5,144/113,97,Healthy,Mild,Rest and fluids
+473,74,Female,Fever,Fatigue,Shortness of breath,64,38.3,113/111,96,Flu,Moderate,Medication and rest
+474,65,Female,Shortness of breath,Headache,Cough,95,36.8,111/108,96,Healthy,Mild,Rest and fluids
+475,19,Male,Sore throat,Headache,Runny nose,107,35.7,96/98,96,Cold,Mild,Rest and fluids
+476,49,Female,Runny nose,Shortness of breath,Body ache,77,39.3,150/119,91,Healthy,Mild,Rest and fluids
+477,18,Female,Fatigue,Cough,Fever,108,36.5,167/102,97,Healthy,Mild,Rest and fluids
+478,21,Female,Headache,Sore throat,Cough,66,37.8,127/77,91,Bronchitis,Severe,Hospitalization and medication
+479,72,Male,Headache,Fever,Shortness of breath,108,37.1,138/78,95,Healthy,Mild,Rest and fluids
+480,24,Male,Fatigue,Runny nose,Fever,106,37.7,124/114,90,Healthy,Mild,Rest and fluids
+481,40,Female,Shortness of breath,Headache,Body ache,77,38.0,147/88,99,Healthy,Mild,Rest and fluids
+482,66,Female,Shortness of breath,Body ache,Runny nose,105,38.1,97/82,96,Healthy,Mild,Rest and fluids
+483,65,Female,Runny nose,Sore throat,Cough,111,36.4,107/89,91,Bronchitis,Severe,Hospitalization and medication
+484,69,Female,Fatigue,Sore throat,Body ache,85,36.5,115/77,93,Healthy,Mild,Rest and fluids
+485,47,Male,Sore throat,Cough,Shortness of breath,86,37.6,115/116,92,Bronchitis,Severe,Hospitalization and medication
+486,78,Male,Headache,Fever,Cough,69,38.4,144/61,97,Flu,Moderate,Medication and rest
+487,23,Female,Sore throat,Headache,Cough,87,37.7,153/107,95,Healthy,Mild,Rest and fluids
+488,28,Male,Sore throat,Fever,Body ache,72,37.5,151/117,93,Healthy,Mild,Rest and fluids
+489,18,Male,Sore throat,Runny nose,Fever,65,38.6,141/69,96,Flu,Moderate,Medication and rest
+490,44,Male,Sore throat,Fever,Body ache,104,37.6,169/66,99,Healthy,Mild,Rest and fluids
+491,55,Female,Body ache,Runny nose,Fatigue,95,38.8,98/91,90,Healthy,Mild,Rest and fluids
+492,44,Female,Sore throat,Fatigue,Cough,64,36.1,99/93,98,Cold,Mild,Rest and fluids
+493,27,Female,Sore throat,Shortness of breath,Cough,107,36.0,169/64,99,Cold,Mild,Rest and fluids
+494,76,Male,Headache,Shortness of breath,Body ache,98,38.6,119/78,99,Healthy,Mild,Rest and fluids
+495,45,Female,Runny nose,Cough,Sore throat,92,39.2,102/83,92,Bronchitis,Severe,Hospitalization and medication
+496,44,Female,Cough,Sore throat,Fatigue,101,38.9,177/109,98,Healthy,Mild,Rest and fluids
+497,37,Female,Body ache,Cough,Runny nose,101,36.4,143/110,97,Cold,Mild,Rest and fluids
+498,64,Male,Headache,Cough,Fatigue,65,38.3,168/60,97,Healthy,Mild,Rest and fluids
+499,24,Male,Headache,Sore throat,Shortness of breath,79,36.2,126/95,91,Healthy,Mild,Rest and fluids
+500,72,Male,Shortness of breath,Fever,Headache,89,36.0,139/84,92,Healthy,Mild,Rest and fluids
+501,39,Male,Cough,Sore throat,Fatigue,69,36.4,125/74,98,Cold,Mild,Rest and fluids
+502,55,Female,Fatigue,Shortness of breath,Cough,71,38.3,107/96,90,Bronchitis,Severe,Hospitalization and medication
+503,63,Male,Body ache,Fatigue,Shortness of breath,81,36.8,101/107,95,Healthy,Mild,Rest and fluids
+504,47,Female,Shortness of breath,Headache,Body ache,61,39.9,124/61,90,Healthy,Mild,Rest and fluids
+505,78,Male,Shortness of breath,Runny nose,Cough,92,39.6,161/61,99,Healthy,Mild,Rest and fluids
+506,33,Male,Runny nose,Fever,Cough,97,38.4,174/107,92,Flu,Moderate,Medication and rest
+507,26,Male,Cough,Runny nose,Body ache,64,36.7,171/74,96,Healthy,Mild,Rest and fluids
+508,57,Male,Cough,Shortness of breath,Headache,101,38.2,136/117,94,Bronchitis,Severe,Hospitalization and medication
+509,53,Female,Shortness of breath,Cough,Runny nose,62,35.5,124/63,94,Bronchitis,Severe,Hospitalization and medication
+510,29,Female,Cough,Shortness of breath,Headache,68,35.8,129/74,94,Bronchitis,Severe,Hospitalization and medication
+511,58,Female,Sore throat,Fever,Cough,86,37.6,136/112,94,Bronchitis,Severe,Hospitalization and medication
+512,27,Male,Sore throat,Shortness of breath,Runny nose,118,38.4,102/106,92,Healthy,Mild,Rest and fluids
+513,56,Female,Shortness of breath,Cough,Fever,82,36.5,170/105,92,Bronchitis,Severe,Hospitalization and medication
+514,52,Male,Body ache,Cough,Sore throat,93,39.2,103/94,92,Bronchitis,Severe,Hospitalization and medication
+515,40,Female,Fever,Headache,Cough,101,36.4,112/103,94,Bronchitis,Severe,Hospitalization and medication
+516,41,Male,Fatigue,Shortness of breath,Body ache,82,35.7,145/94,96,Cold,Mild,Rest and fluids
+517,71,Male,Fatigue,Cough,Sore throat,63,37.6,124/65,91,Bronchitis,Severe,Hospitalization and medication
+518,38,Female,Fever,Runny nose,Sore throat,67,36.1,130/94,93,Healthy,Mild,Rest and fluids
+519,71,Male,Fatigue,Headache,Sore throat,67,38.7,110/63,91,Healthy,Mild,Rest and fluids
+520,60,Male,Shortness of breath,Fever,Fatigue,64,38.1,118/76,96,Flu,Moderate,Medication and rest
+521,36,Female,Fever,Runny nose,Body ache,72,38.6,159/71,97,Flu,Moderate,Medication and rest
+522,32,Male,Sore throat,Fatigue,Fever,117,37.2,141/82,98,Healthy,Mild,Rest and fluids
+523,49,Male,Fever,Runny nose,Cough,104,37.2,172/96,96,Healthy,Mild,Rest and fluids
+524,19,Male,Shortness of breath,Headache,Fatigue,104,39.5,111/78,93,Healthy,Mild,Rest and fluids
+525,56,Female,Fever,Body ache,Headache,77,38.2,108/83,91,Flu,Moderate,Medication and rest
+526,71,Male,Runny nose,Cough,Headache,62,36.8,156/112,90,Bronchitis,Severe,Hospitalization and medication
+527,36,Male,Body ache,Cough,Fever,73,39.6,165/64,95,Flu,Moderate,Medication and rest
+528,53,Male,Shortness of breath,Runny nose,Headache,71,35.6,116/100,92,Healthy,Mild,Rest and fluids
+529,21,Female,Shortness of breath,Cough,Body ache,116,37.0,113/73,99,Healthy,Mild,Rest and fluids
+530,57,Female,Body ache,Cough,Fever,75,38.6,109/94,95,Flu,Moderate,Medication and rest
+531,40,Female,Runny nose,Body ache,Fever,119,38.2,105/69,95,Flu,Moderate,Medication and rest
+532,61,Female,Cough,Fever,Headache,68,37.0,98/76,96,Healthy,Mild,Rest and fluids
+533,52,Male,Cough,Fever,Body ache,61,39.5,129/93,96,Flu,Moderate,Medication and rest
+534,22,Female,Cough,Sore throat,Fatigue,74,36.5,125/107,97,Healthy,Mild,Rest and fluids
+535,61,Male,Shortness of breath,Headache,Fatigue,99,36.4,103/71,95,Healthy,Mild,Rest and fluids
+536,61,Male,Shortness of breath,Runny nose,Headache,85,38.2,134/67,96,Healthy,Mild,Rest and fluids
+537,65,Female,Fever,Shortness of breath,Headache,112,38.6,109/61,91,Pneumonia,Severe,Hospitalization and medication
+538,29,Male,Fever,Cough,Fatigue,107,38.5,136/112,94,Pneumonia,Severe,Hospitalization and medication
+539,51,Female,Fatigue,Cough,Runny nose,69,35.6,131/99,92,Bronchitis,Severe,Hospitalization and medication
+540,60,Male,Sore throat,Runny nose,Fever,67,37.8,132/66,93,Healthy,Mild,Rest and fluids
+541,19,Male,Sore throat,Shortness of breath,Fatigue,78,36.7,91/85,97,Healthy,Mild,Rest and fluids
+542,45,Female,Fever,Cough,Runny nose,69,37.6,101/81,95,Healthy,Mild,Rest and fluids
+543,65,Male,Runny nose,Fatigue,Cough,73,39.2,171/80,95,Healthy,Mild,Rest and fluids
+544,54,Male,Body ache,Shortness of breath,Sore throat,81,37.5,176/78,93,Healthy,Mild,Rest and fluids
+545,62,Female,Headache,Fever,Runny nose,106,36.1,166/86,94,Healthy,Mild,Rest and fluids
+546,72,Female,Cough,Fever,Body ache,64,37.1,122/112,90,Bronchitis,Severe,Hospitalization and medication
+547,46,Female,Headache,Fatigue,Shortness of breath,83,36.2,164/95,97,Cold,Mild,Rest and fluids
+548,67,Female,Cough,Headache,Body ache,87,38.8,136/82,93,Bronchitis,Severe,Hospitalization and medication
+549,35,Female,Body ache,Fatigue,Cough,91,39.6,97/67,90,Bronchitis,Severe,Hospitalization and medication
+550,34,Male,Shortness of breath,Fatigue,Cough,84,36.8,94/71,94,Bronchitis,Severe,Hospitalization and medication
+551,23,Female,Shortness of breath,Fever,Runny nose,103,35.6,108/91,93,Healthy,Mild,Rest and fluids
+552,57,Female,Runny nose,Shortness of breath,Headache,70,38.6,104/109,95,Healthy,Mild,Rest and fluids
+553,58,Female,Headache,Sore throat,Shortness of breath,82,39.7,135/85,95,Healthy,Mild,Rest and fluids
+554,28,Male,Runny nose,Fatigue,Cough,103,36.1,115/71,93,Bronchitis,Severe,Hospitalization and medication
+555,61,Male,Fatigue,Headache,Body ache,71,38.8,169/116,99,Healthy,Mild,Rest and fluids
+556,61,Female,Body ache,Cough,Runny nose,89,39.2,172/100,96,Healthy,Mild,Rest and fluids
+557,35,Male,Shortness of breath,Fatigue,Runny nose,73,36.3,161/103,93,Healthy,Mild,Rest and fluids
+558,25,Female,Fatigue,Shortness of breath,Body ache,102,38.2,146/119,97,Healthy,Mild,Rest and fluids
+559,32,Male,Body ache,Fatigue,Shortness of breath,90,37.2,131/93,98,Healthy,Mild,Rest and fluids
+560,35,Female,Sore throat,Runny nose,Shortness of breath,109,37.5,105/63,90,Healthy,Mild,Rest and fluids
+561,23,Male,Body ache,Sore throat,Shortness of breath,65,39.4,129/119,90,Healthy,Mild,Rest and fluids
+562,58,Male,Body ache,Sore throat,Cough,119,38.7,119/77,99,Healthy,Mild,Rest and fluids
+563,57,Male,Fatigue,Cough,Headache,82,36.9,146/82,96,Healthy,Mild,Rest and fluids
+564,28,Female,Cough,Headache,Sore throat,109,38.6,103/114,96,Healthy,Mild,Rest and fluids
+565,78,Female,Headache,Cough,Sore throat,112,37.6,165/60,91,Bronchitis,Severe,Hospitalization and medication
+566,72,Male,Shortness of breath,Runny nose,Sore throat,78,36.8,166/80,94,Healthy,Mild,Rest and fluids
+567,74,Female,Fatigue,Cough,Headache,62,38.7,139/86,98,Healthy,Mild,Rest and fluids
+568,53,Male,Runny nose,Cough,Fatigue,77,39.3,171/65,92,Bronchitis,Severe,Hospitalization and medication
+569,58,Female,Runny nose,Body ache,Cough,69,39.2,178/92,90,Bronchitis,Severe,Hospitalization and medication
+570,74,Male,Headache,Body ache,Shortness of breath,81,39.1,150/106,94,Healthy,Mild,Rest and fluids
+571,33,Male,Fatigue,Fever,Sore throat,64,39.0,109/96,99,Flu,Moderate,Medication and rest
+572,34,Male,Fatigue,Body ache,Cough,80,37.2,97/105,94,Bronchitis,Severe,Hospitalization and medication
+573,47,Female,Sore throat,Fatigue,Headache,108,36.2,172/111,98,Cold,Mild,Rest and fluids
+574,61,Male,Cough,Fever,Sore throat,94,36.6,164/117,92,Bronchitis,Severe,Hospitalization and medication
+575,23,Female,Fever,Fatigue,Sore throat,81,38.0,137/79,96,Healthy,Mild,Rest and fluids
+576,43,Female,Headache,Runny nose,Fatigue,69,39.7,147/85,93,Healthy,Mild,Rest and fluids
+577,59,Female,Body ache,Cough,Headache,73,35.9,148/117,96,Cold,Mild,Rest and fluids
+578,31,Male,Shortness of breath,Cough,Body ache,116,38.5,115/96,91,Bronchitis,Severe,Hospitalization and medication
+579,71,Female,Shortness of breath,Fatigue,Body ache,110,37.9,142/115,91,Healthy,Mild,Rest and fluids
+580,49,Female,Cough,Fatigue,Runny nose,84,36.7,130/67,93,Bronchitis,Severe,Hospitalization and medication
+581,79,Female,Fatigue,Fever,Cough,72,38.3,171/119,93,Flu,Moderate,Medication and rest
+582,30,Male,Shortness of breath,Body ache,Sore throat,103,35.7,166/81,97,Cold,Mild,Rest and fluids
+583,55,Female,Shortness of breath,Runny nose,Fatigue,109,38.1,110/69,97,Healthy,Mild,Rest and fluids
+584,27,Female,Headache,Runny nose,Fever,78,36.5,96/85,90,Healthy,Mild,Rest and fluids
+585,61,Female,Fatigue,Body ache,Shortness of breath,77,39.1,126/117,95,Healthy,Mild,Rest and fluids
+586,51,Female,Fever,Headache,Runny nose,99,38.6,178/115,95,Flu,Moderate,Medication and rest
+587,46,Male,Cough,Fatigue,Headache,70,39.7,150/84,96,Healthy,Mild,Rest and fluids
+588,41,Female,Sore throat,Runny nose,Fever,113,35.5,148/67,91,Healthy,Mild,Rest and fluids
+589,20,Male,Body ache,Headache,Runny nose,118,39.4,146/113,95,Healthy,Mild,Rest and fluids
+590,45,Male,Fatigue,Cough,Runny nose,111,35.9,122/76,99,Cold,Mild,Rest and fluids
+591,48,Male,Cough,Sore throat,Fever,112,39.1,162/105,91,Pneumonia,Severe,Hospitalization and medication
+592,46,Male,Runny nose,Fatigue,Fever,77,35.7,125/96,93,Healthy,Mild,Rest and fluids
+593,57,Male,Fatigue,Fever,Body ache,91,38.7,140/87,92,Flu,Moderate,Medication and rest
+594,74,Male,Shortness of breath,Fatigue,Headache,60,38.3,155/60,99,Healthy,Mild,Rest and fluids
+595,60,Male,Runny nose,Body ache,Fever,119,37.1,103/112,95,Healthy,Mild,Rest and fluids
+596,30,Male,Body ache,Shortness of breath,Runny nose,90,38.9,101/106,92,Healthy,Mild,Rest and fluids
+597,27,Female,Runny nose,Sore throat,Headache,110,37.4,125/66,96,Healthy,Mild,Rest and fluids
+598,25,Female,Runny nose,Fever,Cough,80,39.7,99/64,95,Flu,Moderate,Medication and rest
+599,32,Male,Sore throat,Headache,Shortness of breath,117,37.6,120/112,95,Healthy,Mild,Rest and fluids
+600,61,Female,Sore throat,Headache,Fever,96,35.5,167/62,96,Cold,Mild,Rest and fluids
+601,37,Female,Fatigue,Runny nose,Fever,85,35.6,150/76,99,Cold,Mild,Rest and fluids
+602,40,Male,Sore throat,Body ache,Headache,70,37.1,100/64,99,Healthy,Mild,Rest and fluids
+603,52,Female,Body ache,Cough,Shortness of breath,103,35.9,129/80,99,Cold,Mild,Rest and fluids
+604,63,Female,Body ache,Headache,Fatigue,105,38.2,154/92,99,Healthy,Mild,Rest and fluids
+605,21,Female,Fever,Sore throat,Headache,71,37.8,155/60,96,Healthy,Mild,Rest and fluids
+606,64,Male,Body ache,Cough,Fever,88,39.0,93/90,93,Flu,Moderate,Medication and rest
+607,57,Male,Cough,Headache,Body ache,63,36.9,132/114,99,Healthy,Mild,Rest and fluids
+608,76,Female,Shortness of breath,Fever,Sore throat,79,39.5,100/60,93,Flu,Moderate,Medication and rest
+609,32,Male,Cough,Fever,Headache,89,38.8,146/98,99,Flu,Moderate,Medication and rest
+610,69,Male,Sore throat,Cough,Runny nose,79,37.7,143/106,91,Bronchitis,Severe,Hospitalization and medication
+611,25,Female,Shortness of breath,Runny nose,Sore throat,85,35.8,129/60,96,Cold,Mild,Rest and fluids
+612,66,Female,Runny nose,Sore throat,Body ache,78,36.1,95/65,90,Healthy,Mild,Rest and fluids
+613,49,Female,Body ache,Headache,Sore throat,101,37.4,110/115,99,Healthy,Mild,Rest and fluids
+614,44,Female,Fever,Shortness of breath,Fatigue,82,37.5,126/93,96,Healthy,Mild,Rest and fluids
+615,51,Male,Runny nose,Headache,Fever,85,38.6,96/84,98,Flu,Moderate,Medication and rest
+616,65,Female,Body ache,Sore throat,Runny nose,99,36.1,164/66,94,Healthy,Mild,Rest and fluids
+617,78,Male,Headache,Shortness of breath,Sore throat,88,36.2,177/85,99,Cold,Mild,Rest and fluids
+618,27,Male,Fatigue,Cough,Runny nose,104,37.8,109/89,91,Bronchitis,Severe,Hospitalization and medication
+619,56,Male,Shortness of breath,Fever,Sore throat,75,36.4,172/102,95,Healthy,Mild,Rest and fluids
+620,22,Male,Sore throat,Cough,Shortness of breath,76,35.5,142/68,94,Bronchitis,Severe,Hospitalization and medication
+621,73,Male,Headache,Cough,Runny nose,79,36.0,168/77,96,Cold,Mild,Rest and fluids
+622,74,Male,Body ache,Headache,Shortness of breath,81,36.1,103/65,97,Cold,Mild,Rest and fluids
+623,49,Female,Body ache,Fever,Runny nose,69,37.1,105/76,91,Healthy,Mild,Rest and fluids
+624,60,Female,Shortness of breath,Fatigue,Body ache,107,37.5,118/64,98,Healthy,Mild,Rest and fluids
+625,62,Male,Cough,Body ache,Runny nose,62,39.6,127/76,95,Healthy,Mild,Rest and fluids
+626,68,Female,Sore throat,Shortness of breath,Fever,88,38.1,140/103,92,Flu,Moderate,Medication and rest
+627,52,Male,Body ache,Headache,Fever,95,36.9,155/93,96,Healthy,Mild,Rest and fluids
+628,63,Female,Headache,Sore throat,Fatigue,107,36.2,175/86,94,Healthy,Mild,Rest and fluids
+629,60,Female,Body ache,Cough,Runny nose,62,35.9,129/61,93,Bronchitis,Severe,Hospitalization and medication
+630,35,Male,Shortness of breath,Cough,Runny nose,64,38.4,161/116,91,Bronchitis,Severe,Hospitalization and medication
+631,35,Female,Fatigue,Body ache,Shortness of breath,104,37.0,90/90,98,Healthy,Mild,Rest and fluids
+632,49,Female,Fatigue,Shortness of breath,Body ache,89,35.5,133/95,94,Healthy,Mild,Rest and fluids
+633,41,Male,Runny nose,Shortness of breath,Fatigue,60,36.2,125/90,95,Healthy,Mild,Rest and fluids
+634,53,Male,Body ache,Shortness of breath,Headache,60,37.0,94/98,92,Healthy,Mild,Rest and fluids
+635,78,Male,Cough,Fatigue,Fever,102,38.7,179/102,99,Flu,Moderate,Medication and rest
+636,74,Male,Runny nose,Sore throat,Fever,72,35.5,110/77,95,Healthy,Mild,Rest and fluids
+637,38,Female,Fatigue,Fever,Headache,114,38.1,153/117,99,Flu,Moderate,Medication and rest
+638,31,Male,Fever,Headache,Cough,112,38.6,165/103,96,Flu,Moderate,Medication and rest
+639,21,Female,Body ache,Cough,Sore throat,107,38.3,156/115,99,Healthy,Mild,Rest and fluids
+640,27,Female,Fatigue,Cough,Fever,86,39.0,143/79,96,Flu,Moderate,Medication and rest
+641,49,Male,Shortness of breath,Fatigue,Sore throat,86,39.7,128/87,96,Healthy,Mild,Rest and fluids
+642,21,Female,Body ache,Shortness of breath,Headache,69,36.8,139/74,90,Healthy,Mild,Rest and fluids
+643,42,Male,Cough,Body ache,Sore throat,116,37.8,146/110,91,Bronchitis,Severe,Hospitalization and medication
+644,47,Male,Shortness of breath,Fever,Cough,65,36.2,122/83,90,Bronchitis,Severe,Hospitalization and medication
+645,27,Male,Headache,Shortness of breath,Cough,105,36.4,118/111,91,Bronchitis,Severe,Hospitalization and medication
+646,30,Male,Runny nose,Cough,Body ache,63,37.7,169/102,93,Bronchitis,Severe,Hospitalization and medication
+647,29,Male,Sore throat,Cough,Shortness of breath,96,39.8,125/112,90,Bronchitis,Severe,Hospitalization and medication
+648,64,Female,Fatigue,Runny nose,Sore throat,100,38.8,128/88,94,Healthy,Mild,Rest and fluids
+649,31,Female,Headache,Runny nose,Shortness of breath,62,36.6,154/109,91,Healthy,Mild,Rest and fluids
+650,33,Female,Fever,Cough,Fatigue,104,37.3,165/105,91,Bronchitis,Severe,Hospitalization and medication
+651,74,Male,Sore throat,Fatigue,Shortness of breath,92,39.3,104/108,97,Healthy,Mild,Rest and fluids
+652,54,Female,Headache,Body ache,Shortness of breath,63,36.8,106/104,91,Healthy,Mild,Rest and fluids
+653,51,Male,Runny nose,Fever,Fatigue,66,36.0,163/117,91,Healthy,Mild,Rest and fluids
+654,57,Male,Sore throat,Fever,Cough,66,38.4,163/98,98,Flu,Moderate,Medication and rest
+655,51,Female,Runny nose,Fever,Sore throat,61,37.6,133/88,95,Healthy,Mild,Rest and fluids
+656,26,Male,Cough,Body ache,Fever,73,39.0,161/99,95,Flu,Moderate,Medication and rest
+657,37,Female,Headache,Fatigue,Cough,93,39.2,136/61,94,Bronchitis,Severe,Hospitalization and medication
+658,24,Male,Shortness of breath,Body ache,Sore throat,98,39.8,93/104,90,Healthy,Mild,Rest and fluids
+659,50,Male,Headache,Cough,Shortness of breath,66,38.9,123/74,97,Healthy,Mild,Rest and fluids
+660,60,Male,Body ache,Fever,Cough,112,36.2,151/70,97,Cold,Mild,Rest and fluids
+661,79,Male,Cough,Sore throat,Runny nose,119,37.4,178/118,95,Healthy,Mild,Rest and fluids
+662,30,Male,Fever,Runny nose,Body ache,77,39.5,155/98,95,Flu,Moderate,Medication and rest
+663,32,Male,Cough,Sore throat,Runny nose,119,39.7,141/67,96,Healthy,Mild,Rest and fluids
+664,29,Male,Cough,Headache,Sore throat,85,39.5,147/106,95,Healthy,Mild,Rest and fluids
+665,59,Male,Cough,Shortness of breath,Fever,115,35.6,128/80,97,Cold,Mild,Rest and fluids
+666,18,Female,Headache,Fever,Shortness of breath,98,38.6,124/90,92,Flu,Moderate,Medication and rest
+667,46,Female,Headache,Fever,Runny nose,115,37.1,153/80,98,Healthy,Mild,Rest and fluids
+668,33,Male,Headache,Sore throat,Cough,103,38.9,147/111,96,Healthy,Mild,Rest and fluids
+669,67,Male,Fatigue,Body ache,Headache,78,39.7,120/88,90,Healthy,Mild,Rest and fluids
+670,65,Male,Headache,Fever,Runny nose,62,39.1,174/95,90,Flu,Moderate,Medication and rest
+671,21,Female,Headache,Shortness of breath,Runny nose,87,37.1,175/65,92,Healthy,Mild,Rest and fluids
+672,56,Female,Fatigue,Runny nose,Cough,70,36.1,132/98,99,Cold,Mild,Rest and fluids
+673,71,Male,Fever,Body ache,Fatigue,95,38.2,169/79,99,Flu,Moderate,Medication and rest
+674,21,Male,Cough,Runny nose,Sore throat,99,35.7,108/103,90,Bronchitis,Severe,Hospitalization and medication
+675,31,Female,Sore throat,Fever,Body ache,84,36.8,121/107,94,Healthy,Mild,Rest and fluids
+676,62,Female,Fatigue,Fever,Cough,114,37.1,162/112,96,Healthy,Mild,Rest and fluids
+677,39,Male,Runny nose,Fatigue,Cough,117,39.4,102/92,95,Healthy,Mild,Rest and fluids
+678,38,Female,Sore throat,Body ache,Runny nose,81,39.8,164/61,90,Healthy,Mild,Rest and fluids
+679,59,Male,Runny nose,Body ache,Headache,91,38.6,114/97,90,Healthy,Mild,Rest and fluids
+680,71,Male,Fever,Fatigue,Headache,76,37.1,165/95,96,Healthy,Mild,Rest and fluids
+681,33,Female,Body ache,Fever,Fatigue,77,35.5,169/62,93,Healthy,Mild,Rest and fluids
+682,37,Male,Fatigue,Shortness of breath,Headache,62,38.9,93/99,99,Healthy,Mild,Rest and fluids
+683,40,Female,Shortness of breath,Cough,Sore throat,98,37.0,136/98,91,Bronchitis,Severe,Hospitalization and medication
+684,30,Female,Headache,Sore throat,Fever,115,39.7,171/89,95,Flu,Moderate,Medication and rest
+685,44,Female,Cough,Body ache,Sore throat,63,39.8,125/61,95,Healthy,Mild,Rest and fluids
+686,29,Female,Headache,Shortness of breath,Fatigue,110,37.7,104/68,93,Healthy,Mild,Rest and fluids
+687,65,Male,Shortness of breath,Headache,Cough,88,37.5,146/79,91,Bronchitis,Severe,Hospitalization and medication
+688,35,Male,Shortness of breath,Fatigue,Runny nose,75,38.9,112/102,92,Healthy,Mild,Rest and fluids
+689,23,Female,Headache,Cough,Shortness of breath,89,37.5,149/107,97,Healthy,Mild,Rest and fluids
+690,61,Female,Sore throat,Headache,Runny nose,74,35.9,94/119,91,Healthy,Mild,Rest and fluids
+691,73,Female,Runny nose,Shortness of breath,Cough,72,36.5,171/92,97,Healthy,Mild,Rest and fluids
+692,38,Female,Cough,Shortness of breath,Fatigue,111,36.8,111/79,92,Bronchitis,Severe,Hospitalization and medication
+693,35,Female,Shortness of breath,Headache,Body ache,81,36.7,141/103,97,Healthy,Mild,Rest and fluids
+694,47,Male,Body ache,Fever,Fatigue,111,39.8,147/116,96,Flu,Moderate,Medication and rest
+695,26,Female,Sore throat,Headache,Body ache,66,39.6,102/88,91,Healthy,Mild,Rest and fluids
+696,38,Male,Fever,Sore throat,Headache,98,37.1,138/68,93,Healthy,Mild,Rest and fluids
+697,37,Male,Body ache,Runny nose,Sore throat,68,37.1,101/86,98,Healthy,Mild,Rest and fluids
+698,35,Male,Fatigue,Cough,Runny nose,95,35.8,130/100,97,Cold,Mild,Rest and fluids
+699,29,Female,Fever,Fatigue,Runny nose,71,38.4,146/90,90,Flu,Moderate,Medication and rest
+700,41,Female,Headache,Runny nose,Fever,74,36.1,130/103,97,Cold,Mild,Rest and fluids
+701,53,Male,Cough,Fatigue,Body ache,88,37.4,96/60,96,Healthy,Mild,Rest and fluids
+702,32,Female,Cough,Fever,Headache,89,36.3,166/63,93,Bronchitis,Severe,Hospitalization and medication
+703,73,Male,Cough,Runny nose,Fatigue,78,37.6,177/62,96,Healthy,Mild,Rest and fluids
+704,79,Female,Headache,Runny nose,Sore throat,98,38.0,138/116,91,Healthy,Mild,Rest and fluids
+705,52,Male,Sore throat,Body ache,Fever,117,35.9,134/119,97,Cold,Mild,Rest and fluids
+706,79,Male,Headache,Cough,Sore throat,118,37.8,178/75,91,Bronchitis,Severe,Hospitalization and medication
+707,75,Female,Headache,Runny nose,Body ache,118,35.8,173/60,92,Healthy,Mild,Rest and fluids
+708,74,Female,Cough,Body ache,Fatigue,65,39.1,165/91,99,Healthy,Mild,Rest and fluids
+709,76,Male,Sore throat,Fever,Shortness of breath,63,39.0,90/92,93,Flu,Moderate,Medication and rest
+710,29,Male,Fatigue,Sore throat,Headache,61,38.0,177/107,97,Healthy,Mild,Rest and fluids
+711,61,Male,Headache,Runny nose,Fatigue,94,37.0,104/109,92,Healthy,Mild,Rest and fluids
+712,25,Female,Sore throat,Runny nose,Fatigue,69,36.6,151/73,93,Healthy,Mild,Rest and fluids
+713,38,Female,Cough,Fatigue,Headache,116,39.6,121/87,94,Bronchitis,Severe,Hospitalization and medication
+714,30,Female,Headache,Fever,Runny nose,112,37.9,122/109,95,Healthy,Mild,Rest and fluids
+715,55,Female,Body ache,Fatigue,Headache,87,36.2,173/97,92,Healthy,Mild,Rest and fluids
+716,78,Male,Runny nose,Shortness of breath,Headache,88,37.3,101/104,93,Healthy,Mild,Rest and fluids
+717,58,Male,Sore throat,Cough,Headache,61,38.8,146/93,93,Bronchitis,Severe,Hospitalization and medication
+718,71,Male,Fever,Sore throat,Body ache,86,35.6,158/93,94,Healthy,Mild,Rest and fluids
+719,68,Male,Runny nose,Shortness of breath,Cough,88,36.0,147/98,92,Bronchitis,Severe,Hospitalization and medication
+720,37,Male,Fatigue,Body ache,Runny nose,78,36.7,109/100,91,Healthy,Mild,Rest and fluids
+721,74,Male,Body ache,Cough,Shortness of breath,74,39.6,173/67,95,Healthy,Mild,Rest and fluids
+722,76,Female,Headache,Runny nose,Cough,78,36.9,110/74,93,Bronchitis,Severe,Hospitalization and medication
+723,34,Male,Headache,Runny nose,Shortness of breath,97,38.1,161/95,96,Healthy,Mild,Rest and fluids
+724,58,Male,Fatigue,Sore throat,Body ache,95,39.5,96/111,94,Healthy,Mild,Rest and fluids
+725,40,Female,Headache,Cough,Shortness of breath,94,39.1,125/71,95,Healthy,Mild,Rest and fluids
+726,49,Female,Shortness of breath,Headache,Sore throat,68,39.4,105/89,98,Healthy,Mild,Rest and fluids
+727,57,Male,Fatigue,Cough,Shortness of breath,70,39.6,139/108,98,Healthy,Mild,Rest and fluids
+728,23,Female,Headache,Cough,Sore throat,81,36.6,155/109,99,Healthy,Mild,Rest and fluids
+729,62,Male,Runny nose,Fatigue,Headache,117,39.4,151/119,97,Healthy,Mild,Rest and fluids
+730,26,Female,Runny nose,Fatigue,Fever,90,37.5,119/96,98,Healthy,Mild,Rest and fluids
+731,25,Male,Body ache,Runny nose,Cough,72,37.1,107/118,99,Healthy,Mild,Rest and fluids
+732,19,Male,Fatigue,Shortness of breath,Cough,115,37.7,142/103,98,Healthy,Mild,Rest and fluids
+733,19,Male,Cough,Runny nose,Sore throat,88,37.9,146/86,92,Bronchitis,Severe,Hospitalization and medication
+734,58,Female,Fever,Sore throat,Cough,87,37.6,179/105,99,Healthy,Mild,Rest and fluids
+735,20,Male,Cough,Headache,Fever,90,36.3,171/91,97,Cold,Mild,Rest and fluids
+736,46,Female,Fever,Runny nose,Fatigue,62,36.7,167/90,95,Healthy,Mild,Rest and fluids
+737,34,Male,Headache,Cough,Shortness of breath,60,39.1,151/99,96,Healthy,Mild,Rest and fluids
+738,61,Female,Shortness of breath,Runny nose,Fatigue,119,37.6,177/94,91,Healthy,Mild,Rest and fluids
+739,44,Female,Sore throat,Runny nose,Cough,84,39.3,164/108,97,Healthy,Mild,Rest and fluids
+740,34,Female,Runny nose,Body ache,Headache,69,39.0,155/78,94,Healthy,Mild,Rest and fluids
+741,34,Female,Body ache,Fever,Headache,90,39.3,123/103,92,Flu,Moderate,Medication and rest
+742,75,Male,Sore throat,Cough,Fever,85,36.3,176/93,95,Healthy,Mild,Rest and fluids
+743,62,Female,Headache,Fever,Body ache,68,38.5,178/64,94,Flu,Moderate,Medication and rest
+744,22,Female,Shortness of breath,Headache,Runny nose,113,35.6,156/69,95,Healthy,Mild,Rest and fluids
+745,74,Female,Cough,Sore throat,Body ache,94,38.9,133/98,97,Healthy,Mild,Rest and fluids
+746,31,Male,Fever,Shortness of breath,Cough,73,38.5,90/95,99,Flu,Moderate,Medication and rest
+747,60,Female,Shortness of breath,Fever,Body ache,65,36.2,130/91,91,Healthy,Mild,Rest and fluids
+748,59,Male,Fatigue,Body ache,Headache,95,39.0,178/111,90,Healthy,Mild,Rest and fluids
+749,66,Female,Fever,Sore throat,Shortness of breath,114,35.8,140/92,94,Healthy,Mild,Rest and fluids
+750,54,Female,Runny nose,Body ache,Headache,71,38.4,162/118,97,Healthy,Mild,Rest and fluids
+751,45,Female,Runny nose,Body ache,Cough,93,39.8,141/71,96,Healthy,Mild,Rest and fluids
+752,52,Female,Body ache,Shortness of breath,Runny nose,107,37.1,145/79,92,Healthy,Mild,Rest and fluids
+753,76,Male,Fatigue,Fever,Cough,94,35.6,143/115,96,Cold,Mild,Rest and fluids
+754,75,Female,Headache,Runny nose,Fatigue,75,38.7,172/101,99,Healthy,Mild,Rest and fluids
+755,35,Female,Shortness of breath,Fever,Headache,72,40.0,165/77,90,Flu,Moderate,Medication and rest
+756,44,Female,Shortness of breath,Body ache,Runny nose,77,37.9,156/67,99,Healthy,Mild,Rest and fluids
+757,77,Male,Headache,Fatigue,Body ache,98,39.7,123/105,98,Healthy,Mild,Rest and fluids
+758,28,Male,Headache,Fever,Runny nose,94,36.3,165/86,91,Healthy,Mild,Rest and fluids
+759,68,Male,Sore throat,Headache,Runny nose,119,36.0,161/65,93,Healthy,Mild,Rest and fluids
+760,20,Male,Fever,Fatigue,Body ache,101,37.8,177/91,96,Healthy,Mild,Rest and fluids
+761,26,Male,Sore throat,Body ache,Cough,104,38.0,95/80,92,Bronchitis,Severe,Hospitalization and medication
+762,60,Female,Fatigue,Cough,Fever,87,37.9,122/117,95,Healthy,Mild,Rest and fluids
+763,44,Female,Runny nose,Fatigue,Sore throat,70,35.8,96/72,90,Healthy,Mild,Rest and fluids
+764,45,Male,Sore throat,Headache,Fever,66,39.3,162/94,94,Flu,Moderate,Medication and rest
+765,48,Male,Fever,Body ache,Fatigue,116,39.4,147/84,91,Pneumonia,Severe,Hospitalization and medication
+766,62,Male,Sore throat,Cough,Runny nose,79,37.2,146/101,92,Bronchitis,Severe,Hospitalization and medication
+767,43,Male,Fever,Headache,Shortness of breath,104,36.6,124/61,96,Healthy,Mild,Rest and fluids
+768,24,Female,Fatigue,Body ache,Shortness of breath,106,39.5,128/76,95,Healthy,Mild,Rest and fluids
+769,78,Female,Runny nose,Cough,Sore throat,97,38.0,146/70,90,Bronchitis,Severe,Hospitalization and medication
+770,64,Female,Sore throat,Headache,Runny nose,104,36.7,155/115,90,Healthy,Mild,Rest and fluids
+771,60,Male,Fatigue,Cough,Runny nose,103,36.2,111/86,99,Cold,Mild,Rest and fluids
+772,30,Male,Body ache,Runny nose,Cough,115,39.2,135/117,93,Bronchitis,Severe,Hospitalization and medication
+773,67,Female,Shortness of breath,Fatigue,Headache,81,39.7,139/62,97,Healthy,Mild,Rest and fluids
+774,74,Female,Headache,Fever,Runny nose,68,35.9,179/89,98,Cold,Mild,Rest and fluids
+775,48,Female,Sore throat,Fever,Headache,64,36.1,106/100,97,Cold,Mild,Rest and fluids
+776,20,Female,Cough,Sore throat,Fever,61,37.2,176/114,90,Bronchitis,Severe,Hospitalization and medication
+777,18,Female,Runny nose,Headache,Cough,101,36.4,147/105,99,Cold,Mild,Rest and fluids
+778,71,Male,Body ache,Fever,Headache,100,35.9,177/102,96,Cold,Mild,Rest and fluids
+779,76,Male,Shortness of breath,Body ache,Fatigue,96,37.4,95/117,99,Healthy,Mild,Rest and fluids
+780,35,Male,Sore throat,Shortness of breath,Body ache,98,36.8,103/80,96,Healthy,Mild,Rest and fluids
+781,72,Female,Fatigue,Sore throat,Headache,68,37.2,91/111,96,Healthy,Mild,Rest and fluids
+782,45,Female,Fever,Runny nose,Headache,116,39.0,107/82,98,Flu,Moderate,Medication and rest
+783,64,Female,Fever,Fatigue,Body ache,66,38.4,132/104,92,Flu,Moderate,Medication and rest
+784,66,Male,Body ache,Shortness of breath,Sore throat,87,35.9,103/72,92,Healthy,Mild,Rest and fluids
+785,66,Female,Body ache,Cough,Fatigue,116,35.9,131/83,95,Healthy,Mild,Rest and fluids
+786,63,Female,Fever,Runny nose,Cough,87,38.8,114/68,91,Flu,Moderate,Medication and rest
+787,25,Male,Fatigue,Sore throat,Fever,108,38.1,163/110,95,Flu,Moderate,Medication and rest
+788,40,Female,Fever,Cough,Headache,108,38.7,124/67,95,Flu,Moderate,Medication and rest
+789,61,Male,Body ache,Sore throat,Cough,118,38.8,101/61,96,Healthy,Mild,Rest and fluids
+790,61,Male,Headache,Cough,Fever,78,39.9,156/73,95,Flu,Moderate,Medication and rest
+791,78,Female,Shortness of breath,Sore throat,Headache,96,36.7,137/100,95,Healthy,Mild,Rest and fluids
+792,41,Female,Shortness of breath,Runny nose,Cough,62,38.6,126/88,96,Healthy,Mild,Rest and fluids
+793,20,Female,Headache,Cough,Shortness of breath,104,38.9,146/69,98,Healthy,Mild,Rest and fluids
+794,68,Female,Headache,Fever,Fatigue,63,39.6,175/67,91,Flu,Moderate,Medication and rest
+795,35,Female,Cough,Runny nose,Fatigue,97,37.1,114/90,96,Healthy,Mild,Rest and fluids
+796,79,Male,Sore throat,Fatigue,Body ache,72,38.1,149/74,90,Healthy,Mild,Rest and fluids
+797,63,Female,Headache,Cough,Sore throat,115,38.3,179/90,95,Healthy,Mild,Rest and fluids
+798,24,Female,Runny nose,Cough,Fever,88,39.3,159/81,92,Flu,Moderate,Medication and rest
+799,72,Male,Fatigue,Runny nose,Body ache,87,36.7,123/69,95,Healthy,Mild,Rest and fluids
+800,45,Male,Body ache,Fatigue,Headache,100,37.6,170/95,97,Healthy,Mild,Rest and fluids
+801,75,Female,Body ache,Fatigue,Shortness of breath,118,39.0,135/98,98,Healthy,Mild,Rest and fluids
+802,77,Male,Shortness of breath,Cough,Fever,99,35.9,148/101,92,Bronchitis,Severe,Hospitalization and medication
+803,69,Male,Fatigue,Sore throat,Cough,73,36.7,164/105,93,Bronchitis,Severe,Hospitalization and medication
+804,24,Male,Fever,Headache,Sore throat,81,37.4,170/113,97,Healthy,Mild,Rest and fluids
+805,47,Male,Body ache,Cough,Headache,68,37.3,127/85,90,Bronchitis,Severe,Hospitalization and medication
+806,53,Male,Fever,Fatigue,Runny nose,93,38.8,155/85,97,Flu,Moderate,Medication and rest
+807,44,Male,Sore throat,Body ache,Headache,108,35.7,169/84,95,Healthy,Mild,Rest and fluids
+808,57,Male,Sore throat,Fatigue,Shortness of breath,89,39.1,167/84,96,Healthy,Mild,Rest and fluids
+809,57,Female,Shortness of breath,Fatigue,Body ache,98,37.0,138/67,92,Healthy,Mild,Rest and fluids
+810,19,Male,Fatigue,Headache,Runny nose,68,38.7,175/114,99,Healthy,Mild,Rest and fluids
+811,41,Female,Sore throat,Shortness of breath,Runny nose,114,39.9,137/115,93,Healthy,Mild,Rest and fluids
+812,78,Male,Shortness of breath,Headache,Body ache,88,39.5,130/98,93,Healthy,Mild,Rest and fluids
+813,55,Female,Cough,Shortness of breath,Body ache,71,35.7,111/62,98,Cold,Mild,Rest and fluids
+814,18,Male,Fatigue,Body ache,Sore throat,112,37.5,92/93,97,Healthy,Mild,Rest and fluids
+815,18,Male,Shortness of breath,Fatigue,Runny nose,80,37.9,142/109,92,Healthy,Mild,Rest and fluids
+816,52,Male,Runny nose,Sore throat,Body ache,85,39.3,177/74,94,Healthy,Mild,Rest and fluids
+817,51,Female,Fatigue,Shortness of breath,Runny nose,92,35.9,136/88,93,Healthy,Mild,Rest and fluids
+818,57,Male,Runny nose,Body ache,Fatigue,65,35.9,117/108,92,Healthy,Mild,Rest and fluids
+819,29,Male,Fatigue,Body ache,Cough,98,38.7,176/114,94,Bronchitis,Severe,Hospitalization and medication
+820,64,Female,Sore throat,Fatigue,Fever,74,39.8,151/62,95,Flu,Moderate,Medication and rest
+821,74,Male,Cough,Runny nose,Sore throat,116,39.7,143/72,95,Healthy,Mild,Rest and fluids
+822,41,Male,Shortness of breath,Fatigue,Headache,108,37.4,109/117,92,Healthy,Mild,Rest and fluids
+823,57,Male,Body ache,Fatigue,Runny nose,65,37.3,95/73,92,Healthy,Mild,Rest and fluids
+824,70,Female,Fatigue,Headache,Cough,81,36.9,151/117,94,Bronchitis,Severe,Hospitalization and medication
+825,27,Male,Fatigue,Headache,Body ache,60,35.8,176/101,91,Healthy,Mild,Rest and fluids
+826,61,Male,Sore throat,Runny nose,Cough,85,36.8,152/111,95,Healthy,Mild,Rest and fluids
+827,61,Female,Shortness of breath,Runny nose,Fever,78,38.0,130/67,98,Healthy,Mild,Rest and fluids
+828,45,Female,Headache,Sore throat,Cough,109,36.3,137/61,94,Bronchitis,Severe,Hospitalization and medication
+829,20,Female,Runny nose,Fatigue,Headache,86,39.2,116/79,90,Healthy,Mild,Rest and fluids
+830,19,Male,Fatigue,Sore throat,Fever,106,35.9,159/67,94,Healthy,Mild,Rest and fluids
+831,24,Male,Fatigue,Runny nose,Sore throat,102,36.0,112/83,98,Cold,Mild,Rest and fluids
+832,51,Female,Sore throat,Fatigue,Fever,71,38.6,135/89,91,Flu,Moderate,Medication and rest
+833,64,Male,Runny nose,Fatigue,Shortness of breath,82,35.8,91/94,98,Cold,Mild,Rest and fluids
+834,71,Male,Fever,Sore throat,Body ache,64,39.6,119/98,92,Flu,Moderate,Medication and rest
+835,52,Female,Shortness of breath,Runny nose,Headache,73,36.2,141/60,98,Cold,Mild,Rest and fluids
+836,41,Male,Cough,Shortness of breath,Fever,80,36.1,151/83,90,Bronchitis,Severe,Hospitalization and medication
+837,42,Male,Cough,Headache,Shortness of breath,103,36.4,92/115,98,Cold,Mild,Rest and fluids
+838,49,Female,Headache,Fever,Shortness of breath,66,36.4,167/104,90,Healthy,Mild,Rest and fluids
+839,44,Female,Runny nose,Fever,Sore throat,104,39.5,171/84,94,Pneumonia,Severe,Hospitalization and medication
+840,64,Male,Sore throat,Shortness of breath,Fever,101,37.1,128/83,98,Healthy,Mild,Rest and fluids
+841,52,Male,Fatigue,Runny nose,Fever,86,36.7,109/65,95,Healthy,Mild,Rest and fluids
+842,55,Male,Shortness of breath,Cough,Sore throat,71,40.0,146/63,90,Bronchitis,Severe,Hospitalization and medication
+843,31,Female,Body ache,Runny nose,Fever,70,37.6,141/65,94,Healthy,Mild,Rest and fluids
+844,56,Male,Fever,Fatigue,Shortness of breath,105,35.9,92/116,96,Cold,Mild,Rest and fluids
+845,33,Male,Shortness of breath,Cough,Sore throat,84,35.5,162/119,91,Bronchitis,Severe,Hospitalization and medication
+846,45,Male,Body ache,Fatigue,Sore throat,80,38.5,170/87,95,Healthy,Mild,Rest and fluids
+847,44,Male,Runny nose,Headache,Fatigue,104,36.4,123/95,98,Cold,Mild,Rest and fluids
+848,41,Female,Fever,Shortness of breath,Runny nose,107,39.3,139/87,99,Flu,Moderate,Medication and rest
+849,27,Male,Cough,Runny nose,Fever,73,35.8,147/81,96,Cold,Mild,Rest and fluids
+850,73,Male,Fatigue,Cough,Body ache,83,36.6,156/70,94,Bronchitis,Severe,Hospitalization and medication
+851,58,Female,Runny nose,Shortness of breath,Sore throat,105,38.7,98/100,95,Healthy,Mild,Rest and fluids
+852,64,Male,Cough,Headache,Shortness of breath,119,35.7,105/79,97,Cold,Mild,Rest and fluids
+853,66,Male,Runny nose,Sore throat,Cough,86,36.3,163/64,91,Bronchitis,Severe,Hospitalization and medication
+854,31,Female,Headache,Body ache,Shortness of breath,85,38.2,156/95,99,Healthy,Mild,Rest and fluids
+855,31,Male,Sore throat,Cough,Shortness of breath,61,35.7,141/119,97,Cold,Mild,Rest and fluids
+856,45,Male,Body ache,Cough,Fever,61,39.4,159/63,99,Flu,Moderate,Medication and rest
+857,33,Male,Body ache,Fever,Headache,94,37.4,137/67,96,Healthy,Mild,Rest and fluids
+858,27,Male,Runny nose,Headache,Fever,105,36.4,174/84,90,Healthy,Mild,Rest and fluids
+859,63,Male,Runny nose,Sore throat,Headache,92,35.6,101/103,95,Healthy,Mild,Rest and fluids
+860,62,Female,Shortness of breath,Fever,Headache,108,37.4,162/100,98,Healthy,Mild,Rest and fluids
+861,43,Female,Fever,Fatigue,Runny nose,82,38.5,132/70,95,Flu,Moderate,Medication and rest
+862,78,Male,Fatigue,Headache,Body ache,79,39.4,178/97,91,Healthy,Mild,Rest and fluids
+863,38,Male,Shortness of breath,Runny nose,Sore throat,79,38.1,174/112,94,Healthy,Mild,Rest and fluids
+864,71,Male,Cough,Runny nose,Shortness of breath,102,38.9,118/85,98,Healthy,Mild,Rest and fluids
+865,54,Female,Shortness of breath,Headache,Fever,77,38.4,124/103,95,Flu,Moderate,Medication and rest
+866,56,Male,Cough,Shortness of breath,Body ache,104,35.8,118/79,98,Cold,Mild,Rest and fluids
+867,23,Female,Body ache,Cough,Headache,97,38.8,123/100,94,Bronchitis,Severe,Hospitalization and medication
+868,28,Female,Headache,Fatigue,Body ache,105,36.3,105/109,98,Cold,Mild,Rest and fluids
+869,61,Female,Shortness of breath,Runny nose,Cough,102,37.1,148/89,92,Bronchitis,Severe,Hospitalization and medication
+870,52,Male,Fatigue,Headache,Fever,78,37.3,117/109,97,Healthy,Mild,Rest and fluids
+871,29,Male,Runny nose,Fatigue,Cough,73,37.4,175/99,97,Healthy,Mild,Rest and fluids
+872,44,Female,Runny nose,Fever,Sore throat,67,37.8,153/68,95,Healthy,Mild,Rest and fluids
+873,29,Male,Headache,Cough,Shortness of breath,87,38.9,167/108,99,Healthy,Mild,Rest and fluids
+874,67,Female,Body ache,Headache,Shortness of breath,66,37.4,179/62,93,Healthy,Mild,Rest and fluids
+875,72,Male,Shortness of breath,Cough,Body ache,84,36.3,104/89,99,Cold,Mild,Rest and fluids
+876,59,Female,Headache,Fever,Body ache,106,40.0,167/76,92,Pneumonia,Severe,Hospitalization and medication
+877,30,Male,Runny nose,Fever,Headache,61,39.9,163/93,90,Flu,Moderate,Medication and rest
+878,54,Male,Shortness of breath,Cough,Body ache,73,37.3,122/63,99,Healthy,Mild,Rest and fluids
+879,41,Female,Headache,Shortness of breath,Body ache,114,39.0,108/97,93,Healthy,Mild,Rest and fluids
+880,53,Female,Shortness of breath,Body ache,Cough,92,39.5,110/105,93,Bronchitis,Severe,Hospitalization and medication
+881,44,Female,Body ache,Fever,Cough,65,36.1,138/81,90,Bronchitis,Severe,Hospitalization and medication
+882,40,Male,Headache,Cough,Body ache,68,39.2,124/67,95,Healthy,Mild,Rest and fluids
+883,58,Female,Runny nose,Shortness of breath,Fatigue,83,37.9,178/111,99,Healthy,Mild,Rest and fluids
+884,47,Male,Headache,Fever,Shortness of breath,91,36.5,142/72,98,Healthy,Mild,Rest and fluids
+885,70,Male,Headache,Body ache,Shortness of breath,88,36.7,133/100,95,Healthy,Mild,Rest and fluids
+886,47,Female,Cough,Fatigue,Body ache,98,38.0,175/100,92,Bronchitis,Severe,Hospitalization and medication
+887,46,Female,Fever,Cough,Headache,66,39.8,91/76,95,Flu,Moderate,Medication and rest
+888,31,Male,Cough,Headache,Runny nose,85,37.2,167/74,93,Bronchitis,Severe,Hospitalization and medication
+889,68,Female,Fever,Sore throat,Shortness of breath,65,39.2,127/89,95,Flu,Moderate,Medication and rest
+890,46,Female,Body ache,Shortness of breath,Runny nose,89,39.3,148/97,96,Healthy,Mild,Rest and fluids
+891,48,Male,Sore throat,Cough,Headache,117,38.1,135/78,92,Bronchitis,Severe,Hospitalization and medication
+892,71,Male,Fever,Sore throat,Runny nose,93,39.2,150/63,91,Flu,Moderate,Medication and rest
+893,26,Female,Headache,Runny nose,Cough,105,39.1,114/83,99,Healthy,Mild,Rest and fluids
+894,57,Female,Body ache,Shortness of breath,Runny nose,82,37.2,132/62,98,Healthy,Mild,Rest and fluids
+895,56,Male,Sore throat,Fatigue,Fever,115,38.6,169/80,97,Flu,Moderate,Medication and rest
+896,78,Female,Shortness of breath,Fever,Runny nose,70,35.8,136/101,91,Healthy,Mild,Rest and fluids
+897,25,Female,Sore throat,Cough,Fever,79,39.6,103/70,96,Flu,Moderate,Medication and rest
+898,38,Female,Headache,Fever,Cough,83,36.9,105/105,91,Bronchitis,Severe,Hospitalization and medication
+899,79,Male,Cough,Fever,Fatigue,82,37.8,179/87,96,Healthy,Mild,Rest and fluids
+900,23,Male,Body ache,Runny nose,Cough,63,36.5,169/111,90,Bronchitis,Severe,Hospitalization and medication
+901,32,Female,Headache,Fever,Shortness of breath,90,37.2,115/106,94,Healthy,Mild,Rest and fluids
+902,34,Male,Shortness of breath,Sore throat,Runny nose,74,38.3,142/87,99,Healthy,Mild,Rest and fluids
+903,71,Male,Fatigue,Sore throat,Body ache,110,37.5,173/77,90,Healthy,Mild,Rest and fluids
+904,64,Male,Runny nose,Headache,Sore throat,109,38.8,127/84,98,Healthy,Mild,Rest and fluids
+905,23,Male,Runny nose,Headache,Cough,111,36.5,98/91,92,Bronchitis,Severe,Hospitalization and medication
+906,62,Female,Cough,Runny nose,Body ache,92,38.9,125/103,92,Bronchitis,Severe,Hospitalization and medication
+907,24,Female,Fever,Headache,Runny nose,65,38.0,174/76,93,Healthy,Mild,Rest and fluids
+908,69,Female,Headache,Fever,Body ache,79,38.6,91/96,91,Flu,Moderate,Medication and rest
+909,67,Male,Headache,Sore throat,Fever,102,38.4,121/64,98,Flu,Moderate,Medication and rest
+910,45,Female,Fever,Sore throat,Body ache,89,36.8,159/72,93,Healthy,Mild,Rest and fluids
+911,32,Male,Runny nose,Body ache,Fever,119,35.6,115/108,96,Cold,Mild,Rest and fluids
+912,42,Female,Headache,Body ache,Cough,78,36.7,123/114,92,Bronchitis,Severe,Hospitalization and medication
+913,68,Female,Headache,Fatigue,Runny nose,73,37.8,116/119,98,Healthy,Mild,Rest and fluids
+914,56,Female,Shortness of breath,Cough,Fever,81,36.6,103/80,93,Bronchitis,Severe,Hospitalization and medication
+915,53,Female,Runny nose,Shortness of breath,Headache,103,36.3,177/97,90,Healthy,Mild,Rest and fluids
+916,48,Female,Body ache,Headache,Fever,105,37.4,143/69,91,Healthy,Mild,Rest and fluids
+917,51,Male,Fever,Cough,Sore throat,87,38.5,95/84,90,Flu,Moderate,Medication and rest
+918,20,Female,Fatigue,Cough,Body ache,63,38.7,119/70,93,Bronchitis,Severe,Hospitalization and medication
+919,42,Female,Cough,Body ache,Headache,80,38.7,127/89,91,Bronchitis,Severe,Hospitalization and medication
+920,73,Female,Shortness of breath,Cough,Fatigue,84,38.6,165/95,98,Healthy,Mild,Rest and fluids
+921,26,Female,Shortness of breath,Sore throat,Body ache,67,39.9,166/104,90,Healthy,Mild,Rest and fluids
+922,23,Female,Cough,Body ache,Runny nose,60,35.6,120/95,92,Bronchitis,Severe,Hospitalization and medication
+923,32,Female,Fever,Runny nose,Shortness of breath,90,37.8,150/81,95,Healthy,Mild,Rest and fluids
+924,62,Female,Fever,Fatigue,Headache,100,39.6,170/110,96,Flu,Moderate,Medication and rest
+925,28,Female,Headache,Sore throat,Fatigue,116,37.5,104/97,98,Healthy,Mild,Rest and fluids
+926,49,Female,Fatigue,Cough,Sore throat,84,37.5,141/88,92,Bronchitis,Severe,Hospitalization and medication
+927,29,Male,Sore throat,Fatigue,Cough,94,36.5,158/101,92,Bronchitis,Severe,Hospitalization and medication
+928,54,Female,Sore throat,Headache,Body ache,81,39.1,154/111,94,Healthy,Mild,Rest and fluids
+929,73,Female,Cough,Fever,Body ache,119,37.1,147/86,95,Healthy,Mild,Rest and fluids
+930,72,Female,Cough,Shortness of breath,Runny nose,87,37.1,174/106,95,Healthy,Mild,Rest and fluids
+931,42,Male,Cough,Fatigue,Headache,110,39.6,157/67,98,Healthy,Mild,Rest and fluids
+932,62,Female,Fatigue,Fever,Headache,73,39.1,160/118,93,Flu,Moderate,Medication and rest
+933,44,Male,Shortness of breath,Sore throat,Body ache,75,37.4,94/75,93,Healthy,Mild,Rest and fluids
+934,33,Female,Cough,Fatigue,Fever,93,38.0,117/65,92,Bronchitis,Severe,Hospitalization and medication
+935,59,Female,Sore throat,Fever,Cough,71,38.4,176/119,96,Flu,Moderate,Medication and rest
+936,20,Male,Shortness of breath,Runny nose,Sore throat,109,39.8,137/114,90,Healthy,Mild,Rest and fluids
+937,54,Female,Fever,Sore throat,Cough,89,37.8,152/89,91,Bronchitis,Severe,Hospitalization and medication
+938,46,Female,Runny nose,Headache,Shortness of breath,63,39.6,149/115,92,Healthy,Mild,Rest and fluids
+939,40,Female,Cough,Shortness of breath,Runny nose,68,36.8,136/67,96,Healthy,Mild,Rest and fluids
+940,46,Male,Fever,Fatigue,Headache,91,37.5,110/61,90,Healthy,Mild,Rest and fluids
+941,71,Female,Runny nose,Headache,Cough,112,38.8,125/108,97,Healthy,Mild,Rest and fluids
+942,60,Male,Sore throat,Headache,Cough,75,39.9,118/113,91,Bronchitis,Severe,Hospitalization and medication
+943,25,Male,Cough,Sore throat,Body ache,110,39.1,132/66,93,Bronchitis,Severe,Hospitalization and medication
+944,49,Female,Shortness of breath,Runny nose,Sore throat,90,37.1,153/96,93,Healthy,Mild,Rest and fluids
+945,71,Male,Body ache,Fever,Shortness of breath,106,35.9,98/77,94,Healthy,Mild,Rest and fluids
+946,61,Female,Fever,Cough,Sore throat,85,36.7,126/91,96,Healthy,Mild,Rest and fluids
+947,23,Female,Body ache,Cough,Runny nose,113,38.8,113/75,91,Bronchitis,Severe,Hospitalization and medication
+948,69,Female,Shortness of breath,Cough,Body ache,119,38.2,164/60,91,Bronchitis,Severe,Hospitalization and medication
+949,31,Male,Headache,Shortness of breath,Cough,112,35.7,136/80,96,Cold,Mild,Rest and fluids
+950,39,Male,Sore throat,Fever,Shortness of breath,104,39.1,92/83,91,Pneumonia,Severe,Hospitalization and medication
+951,55,Male,Body ache,Fever,Shortness of breath,81,39.8,121/108,90,Flu,Moderate,Medication and rest
+952,46,Female,Fatigue,Runny nose,Sore throat,74,37.5,166/101,99,Healthy,Mild,Rest and fluids
+953,77,Female,Shortness of breath,Cough,Body ache,73,36.7,100/85,95,Healthy,Mild,Rest and fluids
+954,64,Female,Runny nose,Body ache,Cough,71,37.0,93/66,98,Healthy,Mild,Rest and fluids
+955,56,Female,Shortness of breath,Runny nose,Sore throat,101,39.8,175/88,98,Healthy,Mild,Rest and fluids
+956,48,Female,Fever,Runny nose,Headache,95,37.3,178/96,90,Healthy,Mild,Rest and fluids
+957,32,Female,Shortness of breath,Headache,Fever,117,35.9,134/93,91,Healthy,Mild,Rest and fluids
+958,19,Female,Body ache,Fever,Sore throat,117,36.4,133/74,98,Cold,Mild,Rest and fluids
+959,35,Female,Sore throat,Fever,Cough,114,36.7,130/75,98,Healthy,Mild,Rest and fluids
+960,67,Male,Fatigue,Fever,Shortness of breath,73,36.3,129/91,98,Cold,Mild,Rest and fluids
+961,20,Male,Fatigue,Body ache,Headache,90,38.5,158/109,94,Healthy,Mild,Rest and fluids
+962,33,Male,Body ache,Shortness of breath,Sore throat,71,35.6,149/69,94,Healthy,Mild,Rest and fluids
+963,41,Male,Headache,Cough,Fever,93,39.2,168/115,97,Flu,Moderate,Medication and rest
+964,41,Female,Body ache,Runny nose,Cough,70,37.9,121/75,97,Healthy,Mild,Rest and fluids
+965,50,Female,Fatigue,Headache,Cough,66,35.6,178/114,95,Healthy,Mild,Rest and fluids
+966,53,Female,Fatigue,Headache,Body ache,73,39.0,165/94,99,Healthy,Mild,Rest and fluids
+967,31,Male,Runny nose,Cough,Body ache,79,36.6,156/60,93,Bronchitis,Severe,Hospitalization and medication
+968,19,Female,Fever,Headache,Fatigue,99,37.0,136/105,94,Healthy,Mild,Rest and fluids
+969,76,Male,Body ache,Fever,Cough,104,39.7,172/103,91,Pneumonia,Severe,Hospitalization and medication
+970,65,Female,Fatigue,Fever,Shortness of breath,115,37.5,125/106,96,Healthy,Mild,Rest and fluids
+971,35,Female,Fatigue,Fever,Cough,104,39.2,150/76,97,Flu,Moderate,Medication and rest
+972,72,Female,Sore throat,Fever,Shortness of breath,102,39.7,141/93,97,Flu,Moderate,Medication and rest
+973,50,Female,Headache,Cough,Fatigue,94,39.3,112/74,97,Healthy,Mild,Rest and fluids
+974,31,Female,Headache,Shortness of breath,Fatigue,115,38.7,117/79,93,Healthy,Mild,Rest and fluids
+975,51,Male,Fatigue,Runny nose,Sore throat,115,38.0,169/106,98,Healthy,Mild,Rest and fluids
+976,35,Male,Body ache,Sore throat,Fever,69,39.2,131/111,94,Flu,Moderate,Medication and rest
+977,76,Male,Cough,Shortness of breath,Headache,100,37.2,105/78,94,Bronchitis,Severe,Hospitalization and medication
+978,23,Male,Shortness of breath,Cough,Runny nose,117,36.0,134/109,95,Healthy,Mild,Rest and fluids
+979,42,Male,Fatigue,Body ache,Sore throat,84,39.0,141/94,94,Healthy,Mild,Rest and fluids
+980,45,Male,Shortness of breath,Body ache,Headache,69,36.4,163/70,90,Healthy,Mild,Rest and fluids
+981,42,Male,Fatigue,Runny nose,Shortness of breath,106,38.4,151/90,97,Healthy,Mild,Rest and fluids
+982,39,Female,Cough,Fever,Sore throat,65,36.0,156/98,94,Bronchitis,Severe,Hospitalization and medication
+983,32,Female,Sore throat,Runny nose,Headache,100,39.9,154/90,91,Healthy,Mild,Rest and fluids
+984,48,Male,Fatigue,Runny nose,Body ache,119,39.3,173/70,90,Healthy,Mild,Rest and fluids
+985,61,Female,Headache,Fever,Body ache,76,39.5,145/66,91,Flu,Moderate,Medication and rest
+986,20,Female,Shortness of breath,Fatigue,Runny nose,72,39.4,140/77,98,Healthy,Mild,Rest and fluids
+987,72,Female,Fever,Fatigue,Shortness of breath,75,37.1,139/66,92,Healthy,Mild,Rest and fluids
+988,78,Male,Fatigue,Headache,Fever,119,35.8,90/72,92,Healthy,Mild,Rest and fluids
+989,19,Female,Body ache,Headache,Runny nose,70,36.8,115/63,91,Healthy,Mild,Rest and fluids
+990,50,Female,Fever,Shortness of breath,Fatigue,64,37.7,143/89,90,Healthy,Mild,Rest and fluids
+991,62,Male,Shortness of breath,Sore throat,Fever,77,37.8,117/70,93,Healthy,Mild,Rest and fluids
+992,58,Male,Cough,Body ache,Runny nose,89,39.4,172/117,95,Healthy,Mild,Rest and fluids
+993,42,Female,Shortness of breath,Fatigue,Sore throat,78,38.5,154/89,97,Healthy,Mild,Rest and fluids
+994,68,Female,Headache,Shortness of breath,Fever,91,38.1,135/106,92,Flu,Moderate,Medication and rest
+995,23,Male,Sore throat,Headache,Body ache,101,38.4,151/82,99,Healthy,Mild,Rest and fluids
+996,58,Female,Runny nose,Sore throat,Fatigue,113,39.8,168/73,98,Healthy,Mild,Rest and fluids
+997,52,Male,Cough,Shortness of breath,Fever,79,37.5,164/63,90,Bronchitis,Severe,Hospitalization and medication
+998,23,Male,Body ache,Headache,Runny nose,66,37.4,92/100,92,Healthy,Mild,Rest and fluids
+999,76,Female,Headache,Sore throat,Body ache,93,39.1,159/96,98,Healthy,Mild,Rest and fluids
+1000,62,Male,Cough,Fatigue,Body ache,83,39.4,123/65,92,Bronchitis,Severe,Hospitalization and medication
+1001,55,Female,Sore throat,Runny nose,Fatigue,87,38.3,159/113,96,Healthy,Mild,Rest and fluids
+1002,58,Female,Runny nose,Shortness of breath,Fatigue,106,36.9,159/107,90,Healthy,Mild,Rest and fluids
+1003,74,Female,Shortness of breath,Runny nose,Sore throat,76,36.1,91/78,93,Healthy,Mild,Rest and fluids
+1004,24,Female,Headache,Sore throat,Body ache,76,39.3,114/62,95,Healthy,Mild,Rest and fluids
+1005,33,Male,Body ache,Sore throat,Shortness of breath,102,37.6,150/93,92,Healthy,Mild,Rest and fluids
+1006,25,Male,Fatigue,Sore throat,Shortness of breath,73,37.1,152/96,96,Healthy,Mild,Rest and fluids
+1007,53,Male,Sore throat,Runny nose,Cough,110,37.5,143/110,98,Healthy,Mild,Rest and fluids
+1008,70,Female,Fatigue,Runny nose,Sore throat,117,36.2,131/74,90,Healthy,Mild,Rest and fluids
+1009,25,Male,Fatigue,Runny nose,Fever,105,39.9,152/73,95,Flu,Moderate,Medication and rest
+1010,64,Female,Cough,Runny nose,Shortness of breath,95,37.9,93/65,98,Healthy,Mild,Rest and fluids
+1011,39,Female,Sore throat,Body ache,Headache,100,38.0,93/90,98,Healthy,Mild,Rest and fluids
+1012,53,Female,Fever,Fatigue,Headache,96,37.9,161/101,94,Healthy,Mild,Rest and fluids
+1013,54,Female,Sore throat,Cough,Headache,102,37.5,119/109,93,Bronchitis,Severe,Hospitalization and medication
+1014,24,Female,Sore throat,Runny nose,Headache,106,36.8,113/71,98,Healthy,Mild,Rest and fluids
+1015,30,Male,Headache,Shortness of breath,Fatigue,75,36.2,154/61,90,Healthy,Mild,Rest and fluids
+1016,31,Male,Body ache,Fever,Runny nose,68,36.5,99/78,94,Healthy,Mild,Rest and fluids
+1017,69,Female,Cough,Fever,Fatigue,107,39.8,173/92,99,Flu,Moderate,Medication and rest
+1018,70,Female,Cough,Headache,Runny nose,76,36.6,108/105,98,Healthy,Mild,Rest and fluids
+1019,57,Male,Runny nose,Shortness of breath,Fatigue,105,39.7,103/93,94,Healthy,Mild,Rest and fluids
+1020,36,Male,Sore throat,Shortness of breath,Runny nose,97,36.8,129/92,94,Healthy,Mild,Rest and fluids
+1021,79,Male,Fatigue,Cough,Body ache,64,39.3,114/117,98,Healthy,Mild,Rest and fluids
+1022,36,Female,Headache,Runny nose,Sore throat,81,36.5,98/96,96,Healthy,Mild,Rest and fluids
+1023,67,Male,Fatigue,Fever,Cough,118,38.6,123/78,95,Flu,Moderate,Medication and rest
+1024,57,Male,Fever,Fatigue,Runny nose,84,36.9,133/68,94,Healthy,Mild,Rest and fluids
+1025,28,Female,Shortness of breath,Sore throat,Cough,109,36.7,109/108,99,Healthy,Mild,Rest and fluids
+1026,31,Female,Shortness of breath,Body ache,Sore throat,77,37.0,151/84,98,Healthy,Mild,Rest and fluids
+1027,59,Female,Runny nose,Shortness of breath,Sore throat,66,38.3,94/100,95,Healthy,Mild,Rest and fluids
+1028,45,Female,Headache,Runny nose,Body ache,117,37.6,119/81,92,Healthy,Mild,Rest and fluids
+1029,77,Male,Fatigue,Fever,Headache,117,38.4,172/102,95,Flu,Moderate,Medication and rest
+1030,78,Male,Body ache,Fever,Fatigue,88,38.0,159/75,94,Healthy,Mild,Rest and fluids
+1031,36,Female,Runny nose,Fatigue,Sore throat,114,36.8,173/108,98,Healthy,Mild,Rest and fluids
+1032,66,Female,Fatigue,Body ache,Headache,90,35.6,113/74,91,Healthy,Mild,Rest and fluids
+1033,77,Male,Fever,Runny nose,Sore throat,61,39.5,121/94,95,Flu,Moderate,Medication and rest
+1034,47,Female,Runny nose,Fatigue,Body ache,119,36.8,127/82,97,Healthy,Mild,Rest and fluids
+1035,26,Male,Sore throat,Cough,Runny nose,101,35.6,93/104,92,Bronchitis,Severe,Hospitalization and medication
+1036,75,Male,Sore throat,Fatigue,Body ache,82,36.4,99/78,95,Healthy,Mild,Rest and fluids
+1037,45,Female,Shortness of breath,Cough,Fever,72,39.5,167/91,97,Flu,Moderate,Medication and rest
+1038,52,Female,Cough,Shortness of breath,Fatigue,113,38.3,168/118,96,Healthy,Mild,Rest and fluids
+1039,33,Female,Fatigue,Body ache,Shortness of breath,112,38.5,137/118,99,Healthy,Mild,Rest and fluids
+1040,52,Male,Shortness of breath,Sore throat,Headache,98,35.6,112/96,97,Cold,Mild,Rest and fluids
+1041,60,Male,Shortness of breath,Fatigue,Fever,119,39.7,96/66,90,Pneumonia,Severe,Hospitalization and medication
+1042,49,Male,Runny nose,Fatigue,Shortness of breath,81,39.0,117/110,96,Healthy,Mild,Rest and fluids
+1043,75,Male,Shortness of breath,Fatigue,Runny nose,94,37.4,154/89,92,Healthy,Mild,Rest and fluids
+1044,66,Male,Body ache,Headache,Shortness of breath,108,39.5,98/84,91,Healthy,Mild,Rest and fluids
+1045,23,Male,Shortness of breath,Body ache,Headache,117,37.1,155/100,93,Healthy,Mild,Rest and fluids
+1046,56,Male,Headache,Fatigue,Runny nose,84,36.5,145/68,99,Healthy,Mild,Rest and fluids
+1047,30,Male,Sore throat,Cough,Body ache,65,39.7,167/106,98,Healthy,Mild,Rest and fluids
+1048,27,Female,Cough,Shortness of breath,Body ache,72,37.0,117/79,93,Bronchitis,Severe,Hospitalization and medication
+1049,59,Female,Fever,Headache,Cough,92,38.8,127/60,92,Flu,Moderate,Medication and rest
+1050,24,Female,Body ache,Cough,Runny nose,95,38.5,109/60,90,Bronchitis,Severe,Hospitalization and medication
+1051,44,Female,Body ache,Sore throat,Fatigue,95,38.9,101/113,97,Healthy,Mild,Rest and fluids
+1052,59,Female,Fever,Fatigue,Headache,76,38.6,116/107,93,Flu,Moderate,Medication and rest
+1053,60,Female,Shortness of breath,Cough,Runny nose,89,36.2,163/66,98,Cold,Mild,Rest and fluids
+1054,71,Male,Sore throat,Cough,Fever,75,36.2,127/76,97,Cold,Mild,Rest and fluids
+1055,78,Male,Fatigue,Fever,Runny nose,88,36.9,156/112,98,Healthy,Mild,Rest and fluids
+1056,46,Female,Runny nose,Headache,Sore throat,83,38.1,159/117,92,Healthy,Mild,Rest and fluids
+1057,56,Female,Sore throat,Runny nose,Shortness of breath,99,36.1,117/79,94,Healthy,Mild,Rest and fluids
+1058,25,Male,Cough,Fatigue,Fever,111,37.1,160/104,97,Healthy,Mild,Rest and fluids
+1059,39,Male,Body ache,Runny nose,Headache,97,38.8,108/114,96,Healthy,Mild,Rest and fluids
+1060,45,Female,Body ache,Sore throat,Cough,76,36.9,136/119,91,Bronchitis,Severe,Hospitalization and medication
+1061,23,Female,Runny nose,Fever,Headache,110,35.8,152/67,99,Cold,Mild,Rest and fluids
+1062,19,Female,Fever,Headache,Cough,94,39.3,160/111,99,Flu,Moderate,Medication and rest
+1063,74,Female,Shortness of breath,Sore throat,Runny nose,61,38.1,178/62,99,Healthy,Mild,Rest and fluids
+1064,76,Female,Body ache,Fatigue,Runny nose,117,38.2,100/101,94,Healthy,Mild,Rest and fluids
+1065,49,Female,Fever,Body ache,Shortness of breath,73,39.5,105/100,97,Flu,Moderate,Medication and rest
+1066,64,Female,Fatigue,Runny nose,Shortness of breath,107,39.5,136/100,98,Healthy,Mild,Rest and fluids
+1067,58,Female,Sore throat,Cough,Headache,64,36.3,168/101,90,Bronchitis,Severe,Hospitalization and medication
+1068,55,Male,Fever,Fatigue,Cough,72,38.3,92/92,91,Flu,Moderate,Medication and rest
+1069,77,Female,Shortness of breath,Fever,Headache,96,38.2,169/95,98,Flu,Moderate,Medication and rest
+1070,25,Female,Cough,Headache,Shortness of breath,93,37.5,138/66,91,Bronchitis,Severe,Hospitalization and medication
+1071,42,Female,Runny nose,Body ache,Cough,101,38.7,90/109,97,Healthy,Mild,Rest and fluids
+1072,37,Female,Shortness of breath,Runny nose,Fever,111,39.9,138/78,94,Pneumonia,Severe,Hospitalization and medication
+1073,56,Female,Cough,Body ache,Sore throat,101,36.3,163/65,97,Cold,Mild,Rest and fluids
+1074,48,Female,Sore throat,Fatigue,Headache,67,37.8,157/84,97,Healthy,Mild,Rest and fluids
+1075,47,Female,Cough,Shortness of breath,Sore throat,61,39.1,159/63,90,Bronchitis,Severe,Hospitalization and medication
+1076,51,Female,Sore throat,Fever,Shortness of breath,73,37.6,95/90,94,Healthy,Mild,Rest and fluids
+1077,33,Female,Shortness of breath,Runny nose,Cough,72,39.1,127/75,97,Healthy,Mild,Rest and fluids
+1078,60,Male,Sore throat,Cough,Headache,96,39.0,122/82,95,Healthy,Mild,Rest and fluids
+1079,41,Male,Body ache,Shortness of breath,Fatigue,112,38.5,139/105,99,Healthy,Mild,Rest and fluids
+1080,66,Male,Fever,Body ache,Sore throat,105,35.7,122/98,99,Cold,Mild,Rest and fluids
+1081,40,Male,Shortness of breath,Fatigue,Fever,76,38.6,151/111,97,Flu,Moderate,Medication and rest
+1082,26,Female,Fever,Headache,Fatigue,75,39.8,115/103,96,Flu,Moderate,Medication and rest
+1083,67,Male,Body ache,Runny nose,Fever,91,37.5,137/61,97,Healthy,Mild,Rest and fluids
+1084,22,Female,Fever,Shortness of breath,Sore throat,63,36.5,167/83,99,Healthy,Mild,Rest and fluids
+1085,43,Male,Headache,Cough,Body ache,114,39.9,144/72,96,Healthy,Mild,Rest and fluids
+1086,48,Female,Sore throat,Cough,Fever,110,37.7,155/94,94,Bronchitis,Severe,Hospitalization and medication
+1087,31,Female,Fatigue,Cough,Body ache,99,37.2,94/97,92,Bronchitis,Severe,Hospitalization and medication
+1088,66,Female,Fever,Shortness of breath,Runny nose,113,39.2,173/76,96,Flu,Moderate,Medication and rest
+1089,79,Female,Fever,Sore throat,Shortness of breath,76,39.6,98/97,97,Flu,Moderate,Medication and rest
+1090,52,Male,Headache,Cough,Shortness of breath,109,36.1,112/105,98,Cold,Mild,Rest and fluids
+1091,45,Male,Headache,Body ache,Shortness of breath,80,37.4,127/78,99,Healthy,Mild,Rest and fluids
+1092,59,Male,Headache,Shortness of breath,Cough,80,38.9,127/100,91,Bronchitis,Severe,Hospitalization and medication
+1093,20,Female,Cough,Fever,Runny nose,98,36.3,175/82,97,Cold,Mild,Rest and fluids
+1094,33,Female,Cough,Shortness of breath,Headache,83,36.4,94/62,91,Bronchitis,Severe,Hospitalization and medication
+1095,48,Female,Body ache,Fatigue,Runny nose,73,38.6,147/109,94,Healthy,Mild,Rest and fluids
+1096,73,Male,Fever,Body ache,Fatigue,92,37.1,102/110,97,Healthy,Mild,Rest and fluids
+1097,46,Female,Shortness of breath,Fatigue,Runny nose,101,39.7,120/70,97,Healthy,Mild,Rest and fluids
+1098,74,Female,Body ache,Fever,Cough,108,39.7,143/65,96,Flu,Moderate,Medication and rest
+1099,29,Male,Cough,Fever,Headache,72,37.7,149/115,92,Bronchitis,Severe,Hospitalization and medication
+1100,67,Male,Sore throat,Fatigue,Runny nose,76,39.5,117/69,96,Healthy,Mild,Rest and fluids
+1101,37,Female,Headache,Fever,Cough,65,37.5,150/116,99,Healthy,Mild,Rest and fluids
+1102,62,Male,Shortness of breath,Runny nose,Fever,71,39.1,173/91,95,Flu,Moderate,Medication and rest
+1103,50,Male,Shortness of breath,Cough,Runny nose,83,38.8,177/95,90,Bronchitis,Severe,Hospitalization and medication
+1104,46,Female,Shortness of breath,Fever,Fatigue,78,38.8,156/87,91,Flu,Moderate,Medication and rest
+1105,20,Male,Headache,Cough,Runny nose,88,37.7,174/103,90,Bronchitis,Severe,Hospitalization and medication
+1106,44,Male,Runny nose,Body ache,Sore throat,64,37.8,121/83,90,Healthy,Mild,Rest and fluids
+1107,38,Female,Shortness of breath,Runny nose,Sore throat,95,37.2,171/94,91,Healthy,Mild,Rest and fluids
+1108,69,Male,Runny nose,Shortness of breath,Fever,71,38.1,151/96,99,Flu,Moderate,Medication and rest
+1109,60,Male,Sore throat,Fatigue,Shortness of breath,82,39.3,159/97,93,Healthy,Mild,Rest and fluids
+1110,58,Male,Body ache,Sore throat,Shortness of breath,73,39.7,158/111,99,Healthy,Mild,Rest and fluids
+1111,64,Male,Headache,Cough,Fatigue,104,38.4,175/69,92,Bronchitis,Severe,Hospitalization and medication
+1112,36,Male,Sore throat,Body ache,Shortness of breath,95,39.9,148/74,98,Healthy,Mild,Rest and fluids
+1113,28,Male,Fever,Runny nose,Shortness of breath,98,35.6,169/74,94,Healthy,Mild,Rest and fluids
+1114,73,Female,Runny nose,Body ache,Headache,95,39.8,134/105,95,Healthy,Mild,Rest and fluids
+1115,30,Female,Shortness of breath,Body ache,Fatigue,60,36.9,178/85,95,Healthy,Mild,Rest and fluids
+1116,42,Male,Runny nose,Shortness of breath,Body ache,64,35.9,126/99,94,Healthy,Mild,Rest and fluids
+1117,39,Female,Headache,Sore throat,Fever,106,39.2,125/76,98,Flu,Moderate,Medication and rest
+1118,50,Female,Fatigue,Runny nose,Body ache,89,38.2,158/68,92,Healthy,Mild,Rest and fluids
+1119,34,Female,Headache,Fatigue,Runny nose,105,39.5,128/70,96,Healthy,Mild,Rest and fluids
+1120,45,Female,Fatigue,Runny nose,Headache,112,38.1,173/65,92,Healthy,Mild,Rest and fluids
+1121,38,Male,Headache,Cough,Fever,94,35.5,105/91,97,Cold,Mild,Rest and fluids
+1122,75,Male,Sore throat,Fatigue,Body ache,73,35.7,122/70,90,Healthy,Mild,Rest and fluids
+1123,40,Male,Cough,Headache,Sore throat,91,36.5,153/105,95,Healthy,Mild,Rest and fluids
+1124,73,Female,Cough,Fatigue,Shortness of breath,100,36.4,167/72,92,Bronchitis,Severe,Hospitalization and medication
+1125,46,Male,Headache,Fever,Body ache,93,39.5,142/89,96,Flu,Moderate,Medication and rest
+1126,26,Male,Runny nose,Fever,Shortness of breath,70,39.5,140/105,92,Flu,Moderate,Medication and rest
+1127,72,Male,Fever,Runny nose,Body ache,66,38.3,151/68,95,Flu,Moderate,Medication and rest
+1128,28,Male,Fever,Headache,Cough,77,37.5,96/60,94,Bronchitis,Severe,Hospitalization and medication
+1129,26,Male,Fever,Fatigue,Shortness of breath,75,38.1,129/116,92,Flu,Moderate,Medication and rest
+1130,31,Female,Body ache,Runny nose,Cough,102,39.0,164/104,91,Bronchitis,Severe,Hospitalization and medication
+1131,30,Male,Runny nose,Cough,Body ache,85,38.9,172/94,94,Bronchitis,Severe,Hospitalization and medication
+1132,60,Male,Runny nose,Sore throat,Body ache,72,36.7,173/97,92,Healthy,Mild,Rest and fluids
+1133,51,Female,Fatigue,Cough,Body ache,95,35.6,154/116,98,Cold,Mild,Rest and fluids
+1134,70,Male,Cough,Fever,Runny nose,65,36.3,115/92,91,Bronchitis,Severe,Hospitalization and medication
+1135,77,Female,Headache,Cough,Shortness of breath,71,35.7,106/118,95,Healthy,Mild,Rest and fluids
+1136,43,Male,Runny nose,Shortness of breath,Body ache,79,39.9,154/97,91,Healthy,Mild,Rest and fluids
+1137,25,Male,Cough,Fever,Body ache,90,39.2,161/81,93,Flu,Moderate,Medication and rest
+1138,76,Male,Runny nose,Fever,Cough,66,36.5,156/104,91,Bronchitis,Severe,Hospitalization and medication
+1139,61,Female,Headache,Body ache,Runny nose,90,37.1,90/96,97,Healthy,Mild,Rest and fluids
+1140,35,Female,Body ache,Runny nose,Cough,65,37.0,145/68,97,Healthy,Mild,Rest and fluids
+1141,27,Female,Cough,Body ache,Fever,102,37.8,153/95,91,Bronchitis,Severe,Hospitalization and medication
+1142,52,Male,Sore throat,Fever,Headache,101,37.7,93/61,91,Healthy,Mild,Rest and fluids
+1143,64,Male,Shortness of breath,Body ache,Headache,92,37.4,161/68,92,Healthy,Mild,Rest and fluids
+1144,18,Male,Headache,Fever,Runny nose,96,36.3,99/91,96,Cold,Mild,Rest and fluids
+1145,47,Male,Sore throat,Runny nose,Cough,63,35.6,92/83,96,Cold,Mild,Rest and fluids
+1146,26,Female,Sore throat,Headache,Fever,79,38.8,120/76,91,Flu,Moderate,Medication and rest
+1147,46,Female,Sore throat,Fatigue,Shortness of breath,105,36.3,114/99,97,Cold,Mild,Rest and fluids
+1148,33,Male,Runny nose,Fatigue,Cough,73,39.8,139/119,92,Bronchitis,Severe,Hospitalization and medication
+1149,23,Male,Shortness of breath,Cough,Runny nose,113,36.1,150/88,94,Bronchitis,Severe,Hospitalization and medication
+1150,34,Female,Body ache,Runny nose,Headache,94,35.9,164/107,96,Cold,Mild,Rest and fluids
+1151,67,Male,Cough,Body ache,Runny nose,76,39.9,160/77,97,Healthy,Mild,Rest and fluids
+1152,77,Male,Runny nose,Cough,Body ache,115,40.0,164/112,91,Bronchitis,Severe,Hospitalization and medication
+1153,34,Female,Sore throat,Body ache,Headache,110,36.6,109/108,92,Healthy,Mild,Rest and fluids
+1154,20,Female,Fever,Headache,Sore throat,96,37.3,98/113,90,Healthy,Mild,Rest and fluids
+1155,37,Female,Sore throat,Body ache,Fatigue,117,39.5,158/74,90,Healthy,Mild,Rest and fluids
+1156,29,Female,Cough,Headache,Sore throat,107,35.5,97/60,93,Bronchitis,Severe,Hospitalization and medication
+1157,70,Female,Fatigue,Body ache,Sore throat,83,37.6,111/117,92,Healthy,Mild,Rest and fluids
+1158,67,Male,Fever,Headache,Shortness of breath,76,37.5,114/82,95,Healthy,Mild,Rest and fluids
+1159,42,Male,Fatigue,Shortness of breath,Body ache,71,38.6,163/66,99,Healthy,Mild,Rest and fluids
+1160,18,Male,Runny nose,Fatigue,Shortness of breath,86,36.5,138/110,91,Healthy,Mild,Rest and fluids
+1161,67,Male,Runny nose,Fever,Headache,65,38.0,98/111,92,Healthy,Mild,Rest and fluids
+1162,70,Female,Cough,Body ache,Runny nose,88,38.7,157/69,93,Bronchitis,Severe,Hospitalization and medication
+1163,26,Female,Sore throat,Runny nose,Fatigue,107,36.5,132/84,98,Healthy,Mild,Rest and fluids
+1164,25,Male,Runny nose,Fatigue,Fever,113,36.4,163/114,96,Cold,Mild,Rest and fluids
+1165,43,Female,Runny nose,Headache,Fatigue,76,38.8,104/71,95,Healthy,Mild,Rest and fluids
+1166,54,Male,Sore throat,Shortness of breath,Headache,90,38.2,151/84,99,Healthy,Mild,Rest and fluids
+1167,67,Female,Headache,Fatigue,Runny nose,99,39.3,167/65,90,Healthy,Mild,Rest and fluids
+1168,50,Female,Runny nose,Body ache,Sore throat,98,35.9,144/90,93,Healthy,Mild,Rest and fluids
+1169,24,Female,Headache,Sore throat,Body ache,66,36.2,177/112,91,Healthy,Mild,Rest and fluids
+1170,52,Male,Shortness of breath,Fever,Runny nose,63,38.8,167/72,96,Flu,Moderate,Medication and rest
+1171,23,Female,Cough,Body ache,Shortness of breath,88,36.0,103/70,92,Bronchitis,Severe,Hospitalization and medication
+1172,64,Male,Fever,Sore throat,Shortness of breath,84,37.3,107/84,99,Healthy,Mild,Rest and fluids
+1173,55,Male,Headache,Shortness of breath,Sore throat,118,40.0,143/113,97,Healthy,Mild,Rest and fluids
+1174,31,Male,Cough,Fever,Sore throat,85,37.4,125/94,99,Healthy,Mild,Rest and fluids
+1175,71,Male,Runny nose,Cough,Fatigue,112,39.5,126/111,90,Bronchitis,Severe,Hospitalization and medication
+1176,71,Female,Fever,Shortness of breath,Cough,92,36.1,161/72,98,Cold,Mild,Rest and fluids
+1177,60,Male,Cough,Headache,Fatigue,115,37.2,116/86,99,Healthy,Mild,Rest and fluids
+1178,60,Female,Headache,Runny nose,Sore throat,110,37.9,101/115,94,Healthy,Mild,Rest and fluids
+1179,57,Female,Runny nose,Shortness of breath,Body ache,65,38.0,135/73,92,Healthy,Mild,Rest and fluids
+1180,37,Male,Runny nose,Body ache,Sore throat,79,38.0,140/89,98,Healthy,Mild,Rest and fluids
+1181,65,Female,Fever,Fatigue,Runny nose,112,36.9,131/82,97,Healthy,Mild,Rest and fluids
+1182,51,Female,Headache,Cough,Sore throat,97,36.2,168/98,95,Healthy,Mild,Rest and fluids
+1183,41,Female,Runny nose,Headache,Shortness of breath,107,37.1,178/103,90,Healthy,Mild,Rest and fluids
+1184,26,Female,Headache,Runny nose,Body ache,115,36.3,156/80,90,Healthy,Mild,Rest and fluids
+1185,19,Male,Fever,Sore throat,Cough,76,38.5,109/95,95,Flu,Moderate,Medication and rest
+1186,44,Male,Cough,Fever,Headache,84,37.3,147/97,99,Healthy,Mild,Rest and fluids
+1187,69,Female,Headache,Cough,Fever,89,39.4,123/74,99,Flu,Moderate,Medication and rest
+1188,57,Male,Shortness of breath,Headache,Runny nose,116,39.3,160/96,91,Healthy,Mild,Rest and fluids
+1189,38,Female,Runny nose,Cough,Headache,112,36.6,136/101,93,Bronchitis,Severe,Hospitalization and medication
+1190,27,Male,Body ache,Fever,Headache,95,38.9,130/62,95,Flu,Moderate,Medication and rest
+1191,32,Female,Headache,Cough,Body ache,84,37.9,172/110,90,Bronchitis,Severe,Hospitalization and medication
+1192,31,Female,Fever,Runny nose,Sore throat,78,38.2,99/115,96,Flu,Moderate,Medication and rest
+1193,55,Male,Fatigue,Cough,Body ache,107,36.1,149/65,95,Healthy,Mild,Rest and fluids
+1194,71,Female,Sore throat,Shortness of breath,Cough,119,35.5,152/112,95,Healthy,Mild,Rest and fluids
+1195,36,Female,Sore throat,Fatigue,Runny nose,79,36.5,175/95,96,Healthy,Mild,Rest and fluids
+1196,62,Male,Runny nose,Body ache,Headache,84,35.9,130/90,95,Healthy,Mild,Rest and fluids
+1197,52,Female,Body ache,Headache,Fatigue,83,38.6,179/82,96,Healthy,Mild,Rest and fluids
+1198,59,Male,Cough,Headache,Shortness of breath,90,38.6,100/77,97,Healthy,Mild,Rest and fluids
+1199,52,Male,Fatigue,Cough,Runny nose,87,39.8,167/83,92,Bronchitis,Severe,Hospitalization and medication
+1200,55,Female,Fever,Sore throat,Fatigue,89,36.5,172/84,91,Healthy,Mild,Rest and fluids
+1201,46,Male,Body ache,Headache,Fatigue,115,36.5,158/84,92,Healthy,Mild,Rest and fluids
+1202,22,Female,Fatigue,Sore throat,Headache,101,36.3,123/65,93,Healthy,Mild,Rest and fluids
+1203,42,Male,Body ache,Shortness of breath,Fatigue,114,36.5,156/108,94,Healthy,Mild,Rest and fluids
+1204,63,Male,Runny nose,Fatigue,Cough,101,37.3,165/107,97,Healthy,Mild,Rest and fluids
+1205,60,Male,Sore throat,Fever,Runny nose,71,35.7,161/79,97,Cold,Mild,Rest and fluids
+1206,74,Male,Body ache,Fatigue,Headache,102,37.3,97/60,96,Healthy,Mild,Rest and fluids
+1207,56,Female,Fever,Fatigue,Cough,104,37.6,99/77,91,Bronchitis,Severe,Hospitalization and medication
+1208,69,Male,Cough,Fever,Runny nose,64,36.5,147/119,93,Bronchitis,Severe,Hospitalization and medication
+1209,43,Male,Body ache,Fever,Sore throat,84,39.3,110/85,90,Flu,Moderate,Medication and rest
+1210,68,Female,Cough,Sore throat,Runny nose,103,35.6,163/114,94,Bronchitis,Severe,Hospitalization and medication
+1211,51,Female,Cough,Headache,Shortness of breath,97,39.8,171/108,99,Healthy,Mild,Rest and fluids
+1212,74,Female,Shortness of breath,Sore throat,Fatigue,69,38.7,146/79,91,Healthy,Mild,Rest and fluids
+1213,70,Male,Headache,Fever,Fatigue,80,36.0,161/109,99,Cold,Mild,Rest and fluids
+1214,67,Female,Headache,Fever,Sore throat,84,38.9,107/115,99,Flu,Moderate,Medication and rest
+1215,69,Female,Body ache,Cough,Sore throat,71,36.7,165/103,92,Bronchitis,Severe,Hospitalization and medication
+1216,44,Male,Runny nose,Fatigue,Headache,119,38.5,129/65,90,Healthy,Mild,Rest and fluids
+1217,32,Male,Fatigue,Fever,Sore throat,69,38.0,143/85,98,Healthy,Mild,Rest and fluids
+1218,33,Female,Shortness of breath,Fatigue,Cough,71,36.9,174/74,93,Bronchitis,Severe,Hospitalization and medication
+1219,27,Male,Runny nose,Shortness of breath,Fever,67,36.7,126/90,93,Healthy,Mild,Rest and fluids
+1220,28,Female,Fever,Fatigue,Sore throat,70,37.0,145/73,96,Healthy,Mild,Rest and fluids
+1221,63,Male,Fatigue,Cough,Shortness of breath,114,40.0,105/75,92,Bronchitis,Severe,Hospitalization and medication
+1222,62,Male,Body ache,Shortness of breath,Cough,75,39.1,120/96,95,Healthy,Mild,Rest and fluids
+1223,67,Male,Shortness of breath,Cough,Body ache,111,35.8,146/77,90,Bronchitis,Severe,Hospitalization and medication
+1224,62,Male,Body ache,Runny nose,Fever,105,36.1,132/87,90,Healthy,Mild,Rest and fluids
+1225,72,Female,Shortness of breath,Fever,Sore throat,69,35.8,151/111,96,Cold,Mild,Rest and fluids
+1226,59,Male,Headache,Cough,Shortness of breath,80,39.6,99/101,93,Bronchitis,Severe,Hospitalization and medication
+1227,26,Male,Cough,Shortness of breath,Sore throat,113,37.6,158/78,92,Bronchitis,Severe,Hospitalization and medication
+1228,66,Female,Sore throat,Fever,Body ache,105,39.2,118/115,98,Flu,Moderate,Medication and rest
+1229,51,Female,Runny nose,Headache,Body ache,85,38.8,174/68,90,Healthy,Mild,Rest and fluids
+1230,78,Female,Body ache,Sore throat,Fever,102,36.0,150/84,96,Cold,Mild,Rest and fluids
+1231,53,Female,Fever,Fatigue,Sore throat,89,37.3,116/73,90,Healthy,Mild,Rest and fluids
+1232,54,Female,Runny nose,Cough,Shortness of breath,106,37.2,159/107,98,Healthy,Mild,Rest and fluids
+1233,63,Male,Body ache,Headache,Runny nose,62,38.5,162/109,98,Healthy,Mild,Rest and fluids
+1234,26,Female,Fever,Runny nose,Sore throat,80,37.4,150/111,93,Healthy,Mild,Rest and fluids
+1235,24,Male,Body ache,Fatigue,Cough,80,39.9,112/91,95,Healthy,Mild,Rest and fluids
+1236,63,Male,Cough,Headache,Runny nose,80,38.8,150/100,93,Bronchitis,Severe,Hospitalization and medication
+1237,20,Male,Body ache,Headache,Shortness of breath,96,39.7,153/85,93,Healthy,Mild,Rest and fluids
+1238,49,Male,Body ache,Sore throat,Headache,93,36.8,137/100,92,Healthy,Mild,Rest and fluids
+1239,65,Female,Fever,Runny nose,Body ache,65,38.4,143/82,96,Flu,Moderate,Medication and rest
+1240,21,Female,Cough,Shortness of breath,Headache,89,35.8,138/98,98,Cold,Mild,Rest and fluids
+1241,34,Female,Runny nose,Body ache,Shortness of breath,114,35.6,176/65,95,Healthy,Mild,Rest and fluids
+1242,59,Female,Headache,Cough,Body ache,86,38.9,169/115,94,Bronchitis,Severe,Hospitalization and medication
+1243,33,Male,Body ache,Cough,Shortness of breath,92,37.9,102/75,97,Healthy,Mild,Rest and fluids
+1244,47,Male,Headache,Cough,Shortness of breath,61,38.5,164/101,91,Bronchitis,Severe,Hospitalization and medication
+1245,77,Male,Sore throat,Cough,Runny nose,91,36.1,134/93,91,Bronchitis,Severe,Hospitalization and medication
+1246,50,Male,Shortness of breath,Sore throat,Body ache,83,36.0,145/70,99,Cold,Mild,Rest and fluids
+1247,73,Male,Cough,Sore throat,Fever,114,38.9,110/81,99,Flu,Moderate,Medication and rest
+1248,59,Male,Runny nose,Fever,Headache,116,38.2,95/105,92,Pneumonia,Severe,Hospitalization and medication
+1249,48,Male,Headache,Runny nose,Body ache,89,39.3,103/98,91,Healthy,Mild,Rest and fluids
+1250,40,Male,Shortness of breath,Runny nose,Cough,95,39.7,165/78,95,Healthy,Mild,Rest and fluids
+1251,49,Female,Body ache,Cough,Headache,86,39.1,173/101,90,Bronchitis,Severe,Hospitalization and medication
+1252,21,Male,Cough,Body ache,Runny nose,64,37.6,136/70,93,Bronchitis,Severe,Hospitalization and medication
+1253,51,Female,Runny nose,Headache,Body ache,86,38.7,175/94,99,Healthy,Mild,Rest and fluids
+1254,42,Female,Shortness of breath,Body ache,Sore throat,105,35.6,108/105,94,Healthy,Mild,Rest and fluids
+1255,46,Female,Shortness of breath,Fatigue,Body ache,83,37.8,150/119,94,Healthy,Mild,Rest and fluids
+1256,64,Male,Sore throat,Body ache,Fever,114,36.5,164/83,91,Healthy,Mild,Rest and fluids
+1257,21,Female,Headache,Shortness of breath,Fatigue,117,38.7,162/100,96,Healthy,Mild,Rest and fluids
+1258,37,Male,Fever,Body ache,Sore throat,76,36.9,168/117,95,Healthy,Mild,Rest and fluids
+1259,44,Female,Sore throat,Shortness of breath,Fatigue,116,39.7,142/77,97,Healthy,Mild,Rest and fluids
+1260,26,Male,Cough,Headache,Sore throat,96,36.5,156/82,94,Bronchitis,Severe,Hospitalization and medication
+1261,50,Male,Fatigue,Cough,Fever,117,35.5,160/85,91,Bronchitis,Severe,Hospitalization and medication
+1262,36,Female,Cough,Body ache,Fever,84,36.4,140/74,93,Bronchitis,Severe,Hospitalization and medication
+1263,37,Female,Fatigue,Headache,Cough,71,39.8,157/96,99,Healthy,Mild,Rest and fluids
+1264,41,Female,Cough,Runny nose,Body ache,103,35.9,116/106,97,Cold,Mild,Rest and fluids
+1265,72,Female,Runny nose,Sore throat,Fever,91,39.8,124/99,91,Flu,Moderate,Medication and rest
+1266,64,Male,Sore throat,Shortness of breath,Fever,74,39.1,116/65,91,Flu,Moderate,Medication and rest
+1267,53,Female,Fever,Headache,Sore throat,89,39.1,166/102,97,Flu,Moderate,Medication and rest
+1268,43,Male,Body ache,Sore throat,Fatigue,82,35.7,140/73,92,Healthy,Mild,Rest and fluids
+1269,22,Male,Sore throat,Runny nose,Headache,109,36.6,134/94,91,Healthy,Mild,Rest and fluids
+1270,37,Female,Fever,Body ache,Runny nose,102,37.8,178/114,91,Healthy,Mild,Rest and fluids
+1271,64,Female,Cough,Body ache,Fatigue,116,39.6,122/104,97,Healthy,Mild,Rest and fluids
+1272,42,Male,Cough,Sore throat,Shortness of breath,87,38.6,97/88,99,Healthy,Mild,Rest and fluids
+1273,48,Female,Shortness of breath,Sore throat,Runny nose,85,35.5,104/107,90,Healthy,Mild,Rest and fluids
+1274,52,Male,Fever,Cough,Headache,119,37.5,141/94,93,Bronchitis,Severe,Hospitalization and medication
+1275,68,Male,Headache,Fatigue,Fever,86,38.3,140/103,97,Flu,Moderate,Medication and rest
+1276,40,Male,Cough,Fever,Runny nose,82,38.9,169/69,92,Flu,Moderate,Medication and rest
+1277,31,Female,Fever,Fatigue,Headache,92,38.8,152/103,95,Flu,Moderate,Medication and rest
+1278,38,Female,Cough,Headache,Body ache,103,39.3,164/66,97,Healthy,Mild,Rest and fluids
+1279,51,Female,Shortness of breath,Fatigue,Cough,94,39.4,158/90,92,Bronchitis,Severe,Hospitalization and medication
+1280,73,Female,Runny nose,Fever,Headache,115,38.1,113/107,97,Flu,Moderate,Medication and rest
+1281,72,Female,Sore throat,Headache,Cough,98,35.9,97/109,93,Bronchitis,Severe,Hospitalization and medication
+1282,61,Female,Headache,Fatigue,Sore throat,82,39.4,141/94,94,Healthy,Mild,Rest and fluids
+1283,25,Female,Fatigue,Fever,Shortness of breath,109,36.6,114/112,90,Healthy,Mild,Rest and fluids
+1284,58,Female,Fatigue,Cough,Sore throat,98,35.9,116/109,97,Cold,Mild,Rest and fluids
+1285,47,Male,Fatigue,Shortness of breath,Body ache,93,37.0,160/84,92,Healthy,Mild,Rest and fluids
+1286,30,Male,Fever,Cough,Headache,98,37.7,121/61,97,Healthy,Mild,Rest and fluids
+1287,19,Male,Body ache,Sore throat,Fever,81,39.7,174/112,91,Flu,Moderate,Medication and rest
+1288,60,Male,Fever,Runny nose,Sore throat,93,39.0,129/61,99,Flu,Moderate,Medication and rest
+1289,18,Male,Fever,Sore throat,Fatigue,107,38.2,115/105,90,Pneumonia,Severe,Hospitalization and medication
+1290,38,Male,Runny nose,Fever,Sore throat,65,39.2,127/112,98,Flu,Moderate,Medication and rest
+1291,38,Male,Runny nose,Cough,Fatigue,116,38.6,170/97,92,Bronchitis,Severe,Hospitalization and medication
+1292,79,Male,Body ache,Fever,Fatigue,101,38.7,141/118,95,Flu,Moderate,Medication and rest
+1293,21,Female,Sore throat,Fatigue,Fever,78,37.4,138/81,91,Healthy,Mild,Rest and fluids
+1294,53,Male,Cough,Runny nose,Sore throat,74,36.0,138/74,96,Cold,Mild,Rest and fluids
+1295,33,Female,Body ache,Runny nose,Cough,93,36.6,162/106,90,Bronchitis,Severe,Hospitalization and medication
+1296,48,Male,Fever,Cough,Fatigue,105,38.8,171/117,96,Flu,Moderate,Medication and rest
+1297,38,Female,Body ache,Fever,Fatigue,103,37.0,175/113,91,Healthy,Mild,Rest and fluids
+1298,70,Female,Sore throat,Runny nose,Fever,74,36.2,147/83,94,Healthy,Mild,Rest and fluids
+1299,38,Female,Fever,Cough,Sore throat,73,38.3,131/73,98,Flu,Moderate,Medication and rest
+1300,33,Male,Cough,Runny nose,Body ache,108,38.5,126/60,92,Bronchitis,Severe,Hospitalization and medication
+1301,66,Male,Fatigue,Runny nose,Shortness of breath,104,37.7,169/89,93,Healthy,Mild,Rest and fluids
+1302,68,Male,Fever,Runny nose,Cough,100,38.0,138/77,94,Bronchitis,Severe,Hospitalization and medication
+1303,47,Female,Fever,Cough,Headache,119,39.2,90/76,91,Pneumonia,Severe,Hospitalization and medication
+1304,76,Female,Body ache,Fatigue,Fever,99,38.3,173/77,99,Flu,Moderate,Medication and rest
+1305,56,Female,Fatigue,Shortness of breath,Fever,95,38.3,91/80,97,Flu,Moderate,Medication and rest
+1306,65,Male,Body ache,Headache,Fever,102,36.2,159/96,91,Healthy,Mild,Rest and fluids
+1307,67,Male,Fever,Body ache,Headache,77,38.9,176/68,92,Flu,Moderate,Medication and rest
+1308,30,Female,Fever,Body ache,Sore throat,118,37.9,120/77,99,Healthy,Mild,Rest and fluids
+1309,29,Female,Fever,Sore throat,Body ache,75,36.5,105/108,99,Healthy,Mild,Rest and fluids
+1310,28,Female,Cough,Body ache,Shortness of breath,71,37.3,112/72,97,Healthy,Mild,Rest and fluids
+1311,30,Male,Body ache,Cough,Runny nose,80,38.8,96/70,99,Healthy,Mild,Rest and fluids
+1312,59,Female,Body ache,Runny nose,Headache,73,37.8,122/116,95,Healthy,Mild,Rest and fluids
+1313,21,Female,Cough,Fatigue,Headache,114,36.1,94/63,90,Bronchitis,Severe,Hospitalization and medication
+1314,51,Male,Headache,Shortness of breath,Body ache,119,37.0,172/119,96,Healthy,Mild,Rest and fluids
+1315,70,Male,Fever,Fatigue,Cough,71,35.9,92/85,94,Bronchitis,Severe,Hospitalization and medication
+1316,62,Male,Body ache,Sore throat,Fever,68,36.8,114/78,99,Healthy,Mild,Rest and fluids
+1317,56,Female,Sore throat,Shortness of breath,Runny nose,91,36.4,102/111,99,Cold,Mild,Rest and fluids
+1318,37,Male,Runny nose,Cough,Sore throat,105,38.8,174/81,98,Healthy,Mild,Rest and fluids
+1319,60,Male,Shortness of breath,Sore throat,Fever,89,36.1,164/110,99,Cold,Mild,Rest and fluids
+1320,48,Male,Cough,Sore throat,Body ache,67,39.9,153/78,91,Bronchitis,Severe,Hospitalization and medication
+1321,65,Male,Fatigue,Sore throat,Body ache,86,38.7,124/93,98,Healthy,Mild,Rest and fluids
+1322,42,Female,Body ache,Runny nose,Sore throat,104,35.9,175/81,91,Healthy,Mild,Rest and fluids
+1323,42,Male,Sore throat,Shortness of breath,Runny nose,102,37.5,101/76,92,Healthy,Mild,Rest and fluids
+1324,67,Female,Fever,Runny nose,Sore throat,116,37.8,106/80,94,Healthy,Mild,Rest and fluids
+1325,22,Male,Shortness of breath,Runny nose,Sore throat,96,36.8,100/115,97,Healthy,Mild,Rest and fluids
+1326,47,Male,Runny nose,Body ache,Sore throat,93,36.0,121/100,92,Healthy,Mild,Rest and fluids
+1327,36,Female,Headache,Cough,Runny nose,101,39.6,90/98,96,Healthy,Mild,Rest and fluids
+1328,77,Male,Headache,Shortness of breath,Body ache,109,38.6,138/89,93,Healthy,Mild,Rest and fluids
+1329,38,Male,Runny nose,Body ache,Fatigue,75,37.7,128/111,94,Healthy,Mild,Rest and fluids
+1330,40,Female,Headache,Shortness of breath,Cough,112,39.6,139/103,94,Bronchitis,Severe,Hospitalization and medication
+1331,37,Male,Fatigue,Fever,Sore throat,87,35.5,123/82,95,Healthy,Mild,Rest and fluids
+1332,46,Female,Fatigue,Fever,Runny nose,92,39.3,143/70,92,Flu,Moderate,Medication and rest
+1333,50,Male,Shortness of breath,Body ache,Sore throat,79,36.8,157/104,98,Healthy,Mild,Rest and fluids
+1334,54,Female,Headache,Sore throat,Cough,79,38.6,160/91,97,Healthy,Mild,Rest and fluids
+1335,72,Male,Runny nose,Fatigue,Shortness of breath,74,36.8,161/80,99,Healthy,Mild,Rest and fluids
+1336,63,Female,Cough,Fever,Headache,105,37.1,122/63,93,Bronchitis,Severe,Hospitalization and medication
+1337,27,Male,Sore throat,Shortness of breath,Runny nose,98,36.0,170/70,96,Cold,Mild,Rest and fluids
+1338,60,Male,Fatigue,Fever,Sore throat,60,36.2,174/81,93,Healthy,Mild,Rest and fluids
+1339,70,Male,Fatigue,Shortness of breath,Cough,98,36.2,90/116,95,Healthy,Mild,Rest and fluids
+1340,59,Male,Headache,Fatigue,Shortness of breath,82,35.6,98/76,92,Healthy,Mild,Rest and fluids
+1341,62,Male,Sore throat,Fatigue,Shortness of breath,70,36.2,163/108,92,Healthy,Mild,Rest and fluids
+1342,63,Male,Cough,Fatigue,Shortness of breath,116,37.7,129/118,97,Healthy,Mild,Rest and fluids
+1343,67,Female,Cough,Shortness of breath,Runny nose,112,36.3,122/79,98,Cold,Mild,Rest and fluids
+1344,61,Male,Headache,Runny nose,Cough,101,39.7,172/100,94,Bronchitis,Severe,Hospitalization and medication
+1345,61,Male,Fatigue,Shortness of breath,Runny nose,106,37.1,130/85,96,Healthy,Mild,Rest and fluids
+1346,67,Female,Body ache,Fever,Shortness of breath,107,36.5,119/70,95,Healthy,Mild,Rest and fluids
+1347,50,Male,Sore throat,Cough,Runny nose,60,37.9,119/60,96,Healthy,Mild,Rest and fluids
+1348,35,Female,Cough,Headache,Sore throat,74,36.3,157/95,99,Cold,Mild,Rest and fluids
+1349,30,Male,Runny nose,Headache,Cough,109,37.0,133/114,92,Bronchitis,Severe,Hospitalization and medication
+1350,45,Female,Body ache,Fatigue,Fever,86,37.9,99/65,98,Healthy,Mild,Rest and fluids
+1351,60,Male,Headache,Fatigue,Body ache,91,39.0,92/65,95,Healthy,Mild,Rest and fluids
+1352,65,Male,Sore throat,Headache,Shortness of breath,85,39.3,175/117,93,Healthy,Mild,Rest and fluids
+1353,20,Female,Cough,Body ache,Sore throat,96,38.6,93/73,90,Bronchitis,Severe,Hospitalization and medication
+1354,74,Male,Runny nose,Cough,Fever,103,35.7,145/112,94,Bronchitis,Severe,Hospitalization and medication
+1355,42,Female,Runny nose,Fatigue,Headache,73,39.1,130/102,92,Healthy,Mild,Rest and fluids
+1356,30,Male,Sore throat,Headache,Runny nose,97,36.4,129/77,91,Healthy,Mild,Rest and fluids
+1357,65,Female,Cough,Body ache,Fatigue,117,38.9,129/68,98,Healthy,Mild,Rest and fluids
+1358,27,Female,Body ache,Runny nose,Fever,73,39.9,150/65,98,Flu,Moderate,Medication and rest
+1359,75,Male,Runny nose,Shortness of breath,Sore throat,116,36.6,161/91,98,Healthy,Mild,Rest and fluids
+1360,24,Female,Cough,Shortness of breath,Fever,77,36.7,157/60,90,Bronchitis,Severe,Hospitalization and medication
+1361,24,Male,Cough,Runny nose,Fever,76,35.6,154/70,98,Cold,Mild,Rest and fluids
+1362,21,Male,Shortness of breath,Headache,Sore throat,87,38.2,104/100,91,Healthy,Mild,Rest and fluids
+1363,64,Female,Headache,Runny nose,Fever,90,35.8,162/74,98,Cold,Mild,Rest and fluids
+1364,69,Female,Fever,Sore throat,Fatigue,96,37.1,95/111,90,Healthy,Mild,Rest and fluids
+1365,56,Female,Headache,Shortness of breath,Cough,69,39.8,145/71,90,Bronchitis,Severe,Hospitalization and medication
+1366,60,Male,Headache,Runny nose,Fatigue,76,37.0,100/71,98,Healthy,Mild,Rest and fluids
+1367,71,Male,Body ache,Shortness of breath,Fatigue,75,37.0,156/91,93,Healthy,Mild,Rest and fluids
+1368,41,Female,Runny nose,Fever,Shortness of breath,104,37.8,165/84,93,Healthy,Mild,Rest and fluids
+1369,26,Male,Fatigue,Body ache,Cough,85,36.7,163/88,92,Bronchitis,Severe,Hospitalization and medication
+1370,47,Female,Runny nose,Fatigue,Fever,94,36.7,135/76,93,Healthy,Mild,Rest and fluids
+1371,52,Male,Sore throat,Shortness of breath,Cough,71,37.6,109/86,96,Healthy,Mild,Rest and fluids
+1372,56,Male,Fever,Fatigue,Runny nose,90,38.3,115/74,92,Flu,Moderate,Medication and rest
+1373,75,Male,Sore throat,Fatigue,Cough,87,39.5,126/94,98,Healthy,Mild,Rest and fluids
+1374,24,Male,Runny nose,Fever,Sore throat,107,36.3,117/105,98,Cold,Mild,Rest and fluids
+1375,77,Female,Headache,Fatigue,Cough,85,35.6,139/115,97,Cold,Mild,Rest and fluids
+1376,73,Female,Body ache,Fatigue,Cough,94,39.8,92/78,97,Healthy,Mild,Rest and fluids
+1377,48,Male,Headache,Cough,Fatigue,99,35.7,149/73,94,Bronchitis,Severe,Hospitalization and medication
+1378,50,Male,Body ache,Fatigue,Shortness of breath,70,38.7,162/70,94,Healthy,Mild,Rest and fluids
+1379,48,Female,Fatigue,Headache,Runny nose,62,39.0,143/92,92,Healthy,Mild,Rest and fluids
+1380,60,Male,Fever,Shortness of breath,Runny nose,108,37.1,178/116,93,Healthy,Mild,Rest and fluids
+1381,72,Female,Runny nose,Sore throat,Fever,78,39.7,102/64,92,Flu,Moderate,Medication and rest
+1382,79,Male,Body ache,Sore throat,Shortness of breath,118,36.1,135/107,93,Healthy,Mild,Rest and fluids
+1383,51,Male,Runny nose,Sore throat,Headache,69,37.5,165/87,94,Healthy,Mild,Rest and fluids
+1384,78,Female,Cough,Fatigue,Headache,77,38.8,93/90,97,Healthy,Mild,Rest and fluids
+1385,27,Male,Fever,Shortness of breath,Sore throat,94,37.1,167/82,96,Healthy,Mild,Rest and fluids
+1386,75,Female,Fever,Runny nose,Fatigue,89,36.2,144/76,96,Cold,Mild,Rest and fluids
+1387,29,Male,Fever,Headache,Fatigue,80,38.2,160/85,98,Flu,Moderate,Medication and rest
+1388,22,Male,Runny nose,Sore throat,Body ache,79,38.3,154/82,98,Healthy,Mild,Rest and fluids
+1389,56,Female,Cough,Fatigue,Fever,107,36.5,131/71,96,Healthy,Mild,Rest and fluids
+1390,53,Male,Shortness of breath,Fatigue,Cough,91,36.9,137/91,99,Healthy,Mild,Rest and fluids
+1391,39,Male,Runny nose,Fatigue,Cough,106,36.8,113/116,93,Bronchitis,Severe,Hospitalization and medication
+1392,37,Female,Body ache,Sore throat,Shortness of breath,72,37.2,174/86,92,Healthy,Mild,Rest and fluids
+1393,36,Male,Body ache,Shortness of breath,Cough,96,36.1,168/74,92,Bronchitis,Severe,Hospitalization and medication
+1394,40,Female,Shortness of breath,Runny nose,Sore throat,63,37.6,113/73,98,Healthy,Mild,Rest and fluids
+1395,49,Female,Fever,Runny nose,Shortness of breath,97,40.0,110/109,91,Flu,Moderate,Medication and rest
+1396,40,Male,Body ache,Runny nose,Sore throat,90,38.0,156/63,97,Healthy,Mild,Rest and fluids
+1397,71,Male,Body ache,Sore throat,Shortness of breath,106,36.7,99/90,93,Healthy,Mild,Rest and fluids
+1398,19,Male,Shortness of breath,Cough,Runny nose,82,36.3,99/61,96,Cold,Mild,Rest and fluids
+1399,28,Male,Shortness of breath,Headache,Fever,72,37.0,111/73,95,Healthy,Mild,Rest and fluids
+1400,19,Female,Shortness of breath,Fever,Fatigue,93,36.6,167/108,90,Healthy,Mild,Rest and fluids
+1401,66,Female,Cough,Shortness of breath,Body ache,118,39.1,144/76,98,Healthy,Mild,Rest and fluids
+1402,59,Male,Shortness of breath,Headache,Fever,89,35.8,97/85,99,Cold,Mild,Rest and fluids
+1403,24,Female,Cough,Body ache,Fatigue,105,39.6,122/91,92,Bronchitis,Severe,Hospitalization and medication
+1404,46,Male,Headache,Shortness of breath,Body ache,66,39.8,164/112,99,Healthy,Mild,Rest and fluids
+1405,22,Female,Runny nose,Body ache,Headache,67,37.6,154/74,97,Healthy,Mild,Rest and fluids
+1406,58,Male,Fatigue,Runny nose,Shortness of breath,111,38.3,162/80,94,Healthy,Mild,Rest and fluids
+1407,23,Male,Body ache,Fever,Shortness of breath,84,37.6,93/115,93,Healthy,Mild,Rest and fluids
+1408,28,Male,Fever,Sore throat,Body ache,93,35.9,94/67,91,Healthy,Mild,Rest and fluids
+1409,76,Female,Fatigue,Sore throat,Body ache,107,36.1,128/116,99,Cold,Mild,Rest and fluids
+1410,73,Female,Fatigue,Shortness of breath,Runny nose,60,38.5,154/76,97,Healthy,Mild,Rest and fluids
+1411,70,Female,Fever,Runny nose,Shortness of breath,83,38.6,175/71,95,Flu,Moderate,Medication and rest
+1412,46,Male,Sore throat,Runny nose,Headache,92,38.7,99/61,92,Healthy,Mild,Rest and fluids
+1413,51,Male,Fever,Headache,Runny nose,101,38.5,172/60,91,Pneumonia,Severe,Hospitalization and medication
+1414,76,Female,Sore throat,Runny nose,Fatigue,66,35.8,112/69,95,Healthy,Mild,Rest and fluids
+1415,68,Female,Shortness of breath,Headache,Fatigue,95,35.9,136/92,99,Cold,Mild,Rest and fluids
+1416,25,Female,Headache,Fatigue,Shortness of breath,104,39.4,91/66,99,Healthy,Mild,Rest and fluids
+1417,20,Female,Shortness of breath,Cough,Body ache,93,36.2,167/106,91,Bronchitis,Severe,Hospitalization and medication
+1418,52,Male,Cough,Headache,Body ache,76,39.0,132/114,95,Healthy,Mild,Rest and fluids
+1419,51,Male,Runny nose,Cough,Shortness of breath,116,39.6,159/110,94,Bronchitis,Severe,Hospitalization and medication
+1420,28,Female,Fever,Shortness of breath,Cough,73,38.1,140/99,94,Flu,Moderate,Medication and rest
+1421,31,Female,Cough,Shortness of breath,Sore throat,100,37.7,125/60,93,Bronchitis,Severe,Hospitalization and medication
+1422,34,Male,Cough,Fever,Headache,102,38.2,139/72,95,Flu,Moderate,Medication and rest
+1423,71,Male,Fatigue,Sore throat,Shortness of breath,97,37.3,105/116,95,Healthy,Mild,Rest and fluids
+1424,20,Female,Body ache,Sore throat,Cough,67,39.5,105/63,93,Bronchitis,Severe,Hospitalization and medication
+1425,26,Male,Cough,Body ache,Fever,70,35.6,150/69,91,Bronchitis,Severe,Hospitalization and medication
+1426,66,Male,Headache,Fatigue,Shortness of breath,95,39.5,158/108,93,Healthy,Mild,Rest and fluids
+1427,23,Female,Fever,Body ache,Shortness of breath,73,36.1,157/113,91,Healthy,Mild,Rest and fluids
+1428,68,Male,Sore throat,Fatigue,Fever,62,39.2,116/61,98,Flu,Moderate,Medication and rest
+1429,22,Female,Shortness of breath,Fatigue,Headache,72,40.0,165/92,93,Healthy,Mild,Rest and fluids
+1430,44,Female,Runny nose,Cough,Fatigue,112,38.5,162/84,93,Bronchitis,Severe,Hospitalization and medication
+1431,70,Female,Runny nose,Fever,Fatigue,61,38.2,129/112,95,Flu,Moderate,Medication and rest
+1432,59,Male,Cough,Runny nose,Fever,73,37.5,179/117,94,Bronchitis,Severe,Hospitalization and medication
+1433,21,Male,Fatigue,Fever,Shortness of breath,70,37.5,107/72,97,Healthy,Mild,Rest and fluids
+1434,69,Male,Shortness of breath,Body ache,Cough,69,38.7,97/117,94,Bronchitis,Severe,Hospitalization and medication
+1435,25,Male,Cough,Body ache,Fatigue,64,39.0,164/114,90,Bronchitis,Severe,Hospitalization and medication
+1436,74,Female,Headache,Cough,Runny nose,89,38.5,129/70,94,Bronchitis,Severe,Hospitalization and medication
+1437,61,Male,Fever,Fatigue,Headache,77,38.0,167/68,94,Healthy,Mild,Rest and fluids
+1438,36,Female,Fatigue,Shortness of breath,Headache,111,38.7,108/67,91,Healthy,Mild,Rest and fluids
+1439,67,Male,Body ache,Runny nose,Cough,69,35.6,119/68,92,Bronchitis,Severe,Hospitalization and medication
+1440,43,Male,Fatigue,Cough,Sore throat,95,39.6,148/60,99,Healthy,Mild,Rest and fluids
+1441,58,Female,Fever,Cough,Body ache,90,36.2,103/100,92,Bronchitis,Severe,Hospitalization and medication
+1442,61,Male,Runny nose,Sore throat,Headache,109,38.6,169/104,99,Healthy,Mild,Rest and fluids
+1443,49,Female,Shortness of breath,Body ache,Headache,74,37.7,113/85,91,Healthy,Mild,Rest and fluids
+1444,41,Female,Body ache,Cough,Shortness of breath,89,38.4,169/73,99,Healthy,Mild,Rest and fluids
+1445,51,Male,Headache,Cough,Body ache,86,36.3,130/88,90,Bronchitis,Severe,Hospitalization and medication
+1446,33,Male,Fatigue,Cough,Shortness of breath,114,37.7,110/71,91,Bronchitis,Severe,Hospitalization and medication
+1447,59,Male,Sore throat,Cough,Runny nose,87,39.9,115/97,94,Bronchitis,Severe,Hospitalization and medication
+1448,45,Male,Cough,Body ache,Fatigue,86,35.9,138/69,96,Cold,Mild,Rest and fluids
+1449,20,Male,Body ache,Headache,Shortness of breath,76,38.7,128/64,93,Healthy,Mild,Rest and fluids
+1450,64,Female,Headache,Cough,Runny nose,81,40.0,175/84,95,Healthy,Mild,Rest and fluids
+1451,51,Female,Body ache,Headache,Fever,66,37.1,111/72,98,Healthy,Mild,Rest and fluids
+1452,22,Female,Body ache,Cough,Fatigue,67,35.5,104/95,92,Bronchitis,Severe,Hospitalization and medication
+1453,46,Female,Fatigue,Body ache,Fever,74,37.4,117/76,91,Healthy,Mild,Rest and fluids
+1454,28,Female,Body ache,Shortness of breath,Fever,107,36.5,147/81,91,Healthy,Mild,Rest and fluids
+1455,78,Female,Shortness of breath,Cough,Fatigue,81,38.2,95/70,98,Healthy,Mild,Rest and fluids
+1456,76,Female,Shortness of breath,Fatigue,Fever,99,36.1,176/111,96,Cold,Mild,Rest and fluids
+1457,49,Female,Fever,Headache,Sore throat,114,39.7,131/106,95,Flu,Moderate,Medication and rest
+1458,35,Female,Fever,Fatigue,Cough,97,37.8,166/92,95,Healthy,Mild,Rest and fluids
+1459,75,Female,Sore throat,Headache,Body ache,83,38.6,126/65,91,Healthy,Mild,Rest and fluids
+1460,53,Female,Fatigue,Headache,Cough,103,36.3,165/84,96,Cold,Mild,Rest and fluids
+1461,24,Female,Fever,Cough,Shortness of breath,89,37.2,94/96,91,Bronchitis,Severe,Hospitalization and medication
+1462,75,Male,Runny nose,Fatigue,Headache,60,39.2,134/106,99,Healthy,Mild,Rest and fluids
+1463,36,Female,Fatigue,Cough,Sore throat,102,35.7,154/92,99,Cold,Mild,Rest and fluids
+1464,23,Male,Cough,Shortness of breath,Body ache,62,38.5,179/115,90,Bronchitis,Severe,Hospitalization and medication
+1465,49,Female,Sore throat,Runny nose,Fever,104,40.0,137/100,90,Pneumonia,Severe,Hospitalization and medication
+1466,25,Male,Headache,Body ache,Fever,116,39.3,94/99,99,Flu,Moderate,Medication and rest
+1467,49,Female,Runny nose,Body ache,Fatigue,71,36.5,125/115,96,Healthy,Mild,Rest and fluids
+1468,47,Male,Body ache,Cough,Headache,61,39.0,154/97,91,Bronchitis,Severe,Hospitalization and medication
+1469,76,Female,Body ache,Headache,Shortness of breath,78,37.3,91/61,90,Healthy,Mild,Rest and fluids
+1470,79,Female,Runny nose,Headache,Fever,101,38.7,101/71,97,Flu,Moderate,Medication and rest
+1471,58,Male,Shortness of breath,Body ache,Cough,64,36.6,174/98,91,Bronchitis,Severe,Hospitalization and medication
+1472,50,Female,Headache,Fatigue,Fever,80,36.0,106/78,90,Healthy,Mild,Rest and fluids
+1473,43,Male,Sore throat,Shortness of breath,Body ache,119,39.8,99/115,98,Healthy,Mild,Rest and fluids
+1474,56,Female,Fever,Fatigue,Headache,91,35.5,167/110,94,Healthy,Mild,Rest and fluids
+1475,43,Female,Shortness of breath,Fatigue,Fever,111,38.4,132/93,99,Flu,Moderate,Medication and rest
+1476,21,Male,Shortness of breath,Body ache,Runny nose,62,38.2,138/117,92,Healthy,Mild,Rest and fluids
+1477,26,Female,Runny nose,Fatigue,Body ache,94,36.4,100/86,92,Healthy,Mild,Rest and fluids
+1478,32,Male,Fever,Body ache,Headache,112,36.3,117/89,90,Healthy,Mild,Rest and fluids
+1479,47,Female,Headache,Cough,Runny nose,61,35.5,169/66,99,Cold,Mild,Rest and fluids
+1480,27,Female,Shortness of breath,Fatigue,Body ache,105,37.3,176/85,98,Healthy,Mild,Rest and fluids
+1481,43,Female,Fatigue,Fever,Body ache,105,36.5,120/109,99,Healthy,Mild,Rest and fluids
+1482,53,Female,Cough,Shortness of breath,Fever,62,40.0,103/67,97,Flu,Moderate,Medication and rest
+1483,59,Female,Sore throat,Fatigue,Runny nose,75,36.7,109/105,95,Healthy,Mild,Rest and fluids
+1484,55,Female,Cough,Sore throat,Headache,65,39.9,98/86,91,Bronchitis,Severe,Hospitalization and medication
+1485,54,Male,Body ache,Sore throat,Shortness of breath,65,36.7,135/118,92,Healthy,Mild,Rest and fluids
+1486,61,Female,Cough,Shortness of breath,Runny nose,76,37.5,91/73,92,Bronchitis,Severe,Hospitalization and medication
+1487,36,Female,Shortness of breath,Cough,Sore throat,116,36.6,164/105,94,Bronchitis,Severe,Hospitalization and medication
+1488,76,Female,Cough,Runny nose,Fatigue,96,39.1,139/77,90,Bronchitis,Severe,Hospitalization and medication
+1489,76,Male,Sore throat,Cough,Fever,94,35.7,94/97,91,Bronchitis,Severe,Hospitalization and medication
+1490,24,Male,Body ache,Shortness of breath,Headache,67,39.5,177/86,91,Healthy,Mild,Rest and fluids
+1491,70,Male,Sore throat,Fatigue,Shortness of breath,62,37.4,122/81,91,Healthy,Mild,Rest and fluids
+1492,49,Male,Fatigue,Headache,Sore throat,82,37.0,163/72,92,Healthy,Mild,Rest and fluids
+1493,65,Female,Fever,Cough,Runny nose,113,38.4,137/105,91,Pneumonia,Severe,Hospitalization and medication
+1494,65,Female,Body ache,Shortness of breath,Fever,115,35.5,162/118,91,Healthy,Mild,Rest and fluids
+1495,55,Male,Cough,Shortness of breath,Runny nose,70,36.0,108/112,97,Cold,Mild,Rest and fluids
+1496,63,Female,Headache,Fever,Shortness of breath,78,39.2,145/68,94,Flu,Moderate,Medication and rest
+1497,28,Female,Runny nose,Body ache,Sore throat,60,37.6,146/83,97,Healthy,Mild,Rest and fluids
+1498,64,Female,Runny nose,Body ache,Shortness of breath,119,39.0,130/90,90,Healthy,Mild,Rest and fluids
+1499,70,Female,Fever,Body ache,Shortness of breath,94,36.1,136/90,95,Healthy,Mild,Rest and fluids
+1500,42,Female,Body ache,Fever,Cough,66,36.5,179/60,93,Bronchitis,Severe,Hospitalization and medication
+1501,29,Male,Fever,Headache,Body ache,79,38.1,103/100,98,Flu,Moderate,Medication and rest
+1502,63,Female,Runny nose,Body ache,Cough,69,35.5,166/76,95,Healthy,Mild,Rest and fluids
+1503,46,Male,Fatigue,Shortness of breath,Fever,72,35.8,120/66,92,Healthy,Mild,Rest and fluids
+1504,23,Male,Fatigue,Sore throat,Body ache,92,36.7,100/105,96,Healthy,Mild,Rest and fluids
+1505,59,Female,Fatigue,Cough,Runny nose,94,38.3,94/91,95,Healthy,Mild,Rest and fluids
+1506,50,Female,Headache,Sore throat,Body ache,98,36.8,100/76,98,Healthy,Mild,Rest and fluids
+1507,21,Female,Headache,Cough,Fever,74,37.2,172/105,92,Bronchitis,Severe,Hospitalization and medication
+1508,63,Female,Fever,Headache,Cough,90,38.2,92/112,91,Flu,Moderate,Medication and rest
+1509,19,Female,Shortness of breath,Body ache,Runny nose,117,39.6,152/93,99,Healthy,Mild,Rest and fluids
+1510,27,Male,Cough,Fatigue,Shortness of breath,94,37.1,90/99,96,Healthy,Mild,Rest and fluids
+1511,43,Female,Headache,Cough,Runny nose,71,38.2,156/115,96,Healthy,Mild,Rest and fluids
+1512,31,Male,Fever,Runny nose,Fatigue,89,37.8,137/92,91,Healthy,Mild,Rest and fluids
+1513,50,Male,Fever,Body ache,Sore throat,100,37.0,144/76,92,Healthy,Mild,Rest and fluids
+1514,29,Male,Cough,Fever,Sore throat,75,37.5,146/103,96,Healthy,Mild,Rest and fluids
+1515,73,Female,Runny nose,Shortness of breath,Sore throat,113,37.6,93/93,90,Healthy,Mild,Rest and fluids
+1516,47,Male,Cough,Fatigue,Body ache,66,39.0,94/86,93,Bronchitis,Severe,Hospitalization and medication
+1517,19,Male,Headache,Cough,Runny nose,75,35.6,171/70,94,Bronchitis,Severe,Hospitalization and medication
+1518,78,Male,Shortness of breath,Fatigue,Headache,79,38.6,107/65,96,Healthy,Mild,Rest and fluids
+1519,58,Male,Headache,Body ache,Shortness of breath,101,38.7,143/101,91,Healthy,Mild,Rest and fluids
+1520,64,Female,Cough,Headache,Runny nose,84,36.8,156/87,98,Healthy,Mild,Rest and fluids
+1521,58,Male,Cough,Shortness of breath,Runny nose,82,36.0,133/110,95,Healthy,Mild,Rest and fluids
+1522,70,Female,Runny nose,Shortness of breath,Cough,101,40.0,114/93,93,Bronchitis,Severe,Hospitalization and medication
+1523,32,Male,Fever,Body ache,Headache,97,38.9,167/68,90,Flu,Moderate,Medication and rest
+1524,70,Female,Fever,Runny nose,Fatigue,100,39.6,134/88,94,Flu,Moderate,Medication and rest
+1525,45,Male,Sore throat,Headache,Shortness of breath,112,39.0,113/107,99,Healthy,Mild,Rest and fluids
+1526,24,Female,Fever,Shortness of breath,Headache,75,37.5,163/82,92,Healthy,Mild,Rest and fluids
+1527,77,Male,Cough,Fatigue,Fever,114,38.5,152/100,97,Flu,Moderate,Medication and rest
+1528,45,Male,Runny nose,Shortness of breath,Headache,64,39.8,104/76,91,Healthy,Mild,Rest and fluids
+1529,34,Male,Cough,Fatigue,Shortness of breath,93,38.0,132/65,98,Healthy,Mild,Rest and fluids
+1530,37,Male,Body ache,Cough,Headache,87,40.0,169/102,96,Healthy,Mild,Rest and fluids
+1531,41,Male,Fever,Runny nose,Headache,61,38.9,131/115,93,Flu,Moderate,Medication and rest
+1532,65,Male,Headache,Fatigue,Sore throat,94,35.6,114/67,96,Cold,Mild,Rest and fluids
+1533,47,Female,Headache,Fever,Shortness of breath,75,35.8,113/71,97,Cold,Mild,Rest and fluids
+1534,68,Male,Cough,Body ache,Fever,93,36.2,136/94,98,Cold,Mild,Rest and fluids
+1535,25,Male,Cough,Fever,Sore throat,119,38.8,174/116,98,Flu,Moderate,Medication and rest
+1536,45,Male,Shortness of breath,Fever,Fatigue,93,36.0,106/86,97,Cold,Mild,Rest and fluids
+1537,26,Male,Fever,Shortness of breath,Sore throat,109,37.7,107/111,94,Healthy,Mild,Rest and fluids
+1538,33,Male,Cough,Headache,Shortness of breath,80,37.3,149/77,98,Healthy,Mild,Rest and fluids
+1539,59,Male,Fever,Runny nose,Shortness of breath,88,38.1,104/90,91,Flu,Moderate,Medication and rest
+1540,62,Male,Shortness of breath,Fever,Fatigue,93,37.7,146/94,97,Healthy,Mild,Rest and fluids
+1541,19,Female,Body ache,Headache,Runny nose,80,37.2,124/105,93,Healthy,Mild,Rest and fluids
+1542,47,Male,Shortness of breath,Body ache,Cough,77,36.0,167/84,93,Bronchitis,Severe,Hospitalization and medication
+1543,45,Male,Shortness of breath,Body ache,Fever,64,36.3,157/62,91,Healthy,Mild,Rest and fluids
+1544,70,Female,Headache,Runny nose,Sore throat,89,35.7,98/94,95,Healthy,Mild,Rest and fluids
+1545,58,Female,Fever,Headache,Body ache,77,37.9,148/85,98,Healthy,Mild,Rest and fluids
+1546,28,Female,Fever,Shortness of breath,Body ache,87,39.7,140/110,96,Flu,Moderate,Medication and rest
+1547,78,Male,Shortness of breath,Body ache,Fatigue,95,36.2,138/117,92,Healthy,Mild,Rest and fluids
+1548,52,Male,Runny nose,Fatigue,Shortness of breath,87,39.7,146/85,95,Healthy,Mild,Rest and fluids
+1549,22,Female,Sore throat,Body ache,Runny nose,65,35.6,142/95,97,Cold,Mild,Rest and fluids
+1550,77,Female,Headache,Runny nose,Fever,117,36.3,145/100,96,Cold,Mild,Rest and fluids
+1551,47,Male,Cough,Sore throat,Headache,90,37.8,168/107,91,Bronchitis,Severe,Hospitalization and medication
+1552,30,Female,Runny nose,Headache,Fatigue,108,38.2,157/106,90,Healthy,Mild,Rest and fluids
+1553,27,Male,Fatigue,Cough,Body ache,119,39.4,98/106,95,Healthy,Mild,Rest and fluids
+1554,33,Female,Fever,Sore throat,Headache,100,39.2,165/78,97,Flu,Moderate,Medication and rest
+1555,27,Male,Cough,Shortness of breath,Runny nose,91,38.8,170/80,95,Healthy,Mild,Rest and fluids
+1556,18,Female,Runny nose,Shortness of breath,Fever,70,39.5,154/84,90,Flu,Moderate,Medication and rest
+1557,68,Male,Fatigue,Sore throat,Cough,80,35.6,141/111,92,Bronchitis,Severe,Hospitalization and medication
+1558,52,Female,Fever,Runny nose,Fatigue,70,36.5,153/68,99,Healthy,Mild,Rest and fluids
+1559,55,Male,Sore throat,Body ache,Runny nose,118,38.2,148/83,90,Healthy,Mild,Rest and fluids
+1560,26,Male,Fever,Runny nose,Cough,89,35.6,157/100,93,Bronchitis,Severe,Hospitalization and medication
+1561,22,Female,Headache,Body ache,Sore throat,98,38.9,135/64,90,Healthy,Mild,Rest and fluids
+1562,38,Female,Sore throat,Fatigue,Cough,64,39.2,133/86,99,Healthy,Mild,Rest and fluids
+1563,50,Male,Shortness of breath,Body ache,Fever,64,35.9,108/93,99,Cold,Mild,Rest and fluids
+1564,46,Male,Fever,Body ache,Sore throat,85,37.9,104/60,94,Healthy,Mild,Rest and fluids
+1565,46,Male,Body ache,Fever,Headache,61,39.6,160/89,93,Flu,Moderate,Medication and rest
+1566,63,Male,Sore throat,Fever,Headache,114,39.3,96/95,90,Pneumonia,Severe,Hospitalization and medication
+1567,18,Female,Cough,Shortness of breath,Body ache,64,38.5,174/79,99,Healthy,Mild,Rest and fluids
+1568,50,Male,Body ache,Shortness of breath,Runny nose,90,38.0,105/67,94,Healthy,Mild,Rest and fluids
+1569,59,Female,Headache,Body ache,Fever,106,36.5,128/115,92,Healthy,Mild,Rest and fluids
+1570,41,Female,Shortness of breath,Fever,Sore throat,90,39.3,120/92,99,Flu,Moderate,Medication and rest
+1571,24,Female,Body ache,Headache,Cough,94,37.4,135/103,93,Bronchitis,Severe,Hospitalization and medication
+1572,51,Male,Headache,Fever,Sore throat,117,39.6,139/113,93,Pneumonia,Severe,Hospitalization and medication
+1573,36,Female,Shortness of breath,Cough,Fever,82,39.6,122/70,90,Flu,Moderate,Medication and rest
+1574,41,Male,Fever,Runny nose,Sore throat,82,36.5,146/68,93,Healthy,Mild,Rest and fluids
+1575,58,Male,Headache,Runny nose,Cough,113,38.4,111/98,94,Bronchitis,Severe,Hospitalization and medication
+1576,35,Female,Fatigue,Runny nose,Fever,90,35.7,133/105,91,Healthy,Mild,Rest and fluids
+1577,71,Female,Shortness of breath,Fatigue,Runny nose,101,39.2,110/82,99,Healthy,Mild,Rest and fluids
+1578,56,Female,Fatigue,Cough,Sore throat,85,39.2,160/78,95,Healthy,Mild,Rest and fluids
+1579,54,Female,Fatigue,Sore throat,Cough,66,35.8,115/111,94,Bronchitis,Severe,Hospitalization and medication
+1580,69,Male,Headache,Fatigue,Fever,89,38.5,110/106,97,Flu,Moderate,Medication and rest
+1581,23,Male,Runny nose,Shortness of breath,Fever,81,36.0,138/68,95,Healthy,Mild,Rest and fluids
+1582,31,Male,Cough,Shortness of breath,Fever,111,36.1,152/69,92,Bronchitis,Severe,Hospitalization and medication
+1583,21,Female,Fever,Runny nose,Headache,99,39.7,128/71,91,Flu,Moderate,Medication and rest
+1584,58,Female,Fever,Body ache,Headache,74,39.8,131/107,93,Flu,Moderate,Medication and rest
+1585,59,Male,Runny nose,Fever,Cough,98,38.4,167/106,91,Flu,Moderate,Medication and rest
+1586,23,Female,Fever,Headache,Runny nose,72,39.3,98/90,96,Flu,Moderate,Medication and rest
+1587,37,Female,Headache,Sore throat,Runny nose,90,38.4,132/64,95,Healthy,Mild,Rest and fluids
+1588,46,Female,Runny nose,Fever,Shortness of breath,86,38.3,130/96,97,Flu,Moderate,Medication and rest
+1589,50,Female,Sore throat,Shortness of breath,Body ache,74,36.9,174/115,99,Healthy,Mild,Rest and fluids
+1590,37,Male,Headache,Fatigue,Cough,69,38.8,179/91,93,Bronchitis,Severe,Hospitalization and medication
+1591,55,Female,Sore throat,Cough,Shortness of breath,107,39.2,99/80,90,Bronchitis,Severe,Hospitalization and medication
+1592,25,Female,Sore throat,Cough,Body ache,100,37.8,152/63,90,Bronchitis,Severe,Hospitalization and medication
+1593,64,Male,Sore throat,Body ache,Shortness of breath,60,39.8,143/89,95,Healthy,Mild,Rest and fluids
+1594,43,Female,Fever,Cough,Shortness of breath,73,39.7,165/93,97,Flu,Moderate,Medication and rest
+1595,61,Female,Body ache,Sore throat,Shortness of breath,89,36.5,116/66,99,Healthy,Mild,Rest and fluids
+1596,28,Female,Runny nose,Fever,Sore throat,104,37.9,104/63,96,Healthy,Mild,Rest and fluids
+1597,73,Female,Fatigue,Cough,Shortness of breath,119,36.2,176/71,98,Cold,Mild,Rest and fluids
+1598,18,Female,Body ache,Shortness of breath,Cough,68,36.3,138/102,99,Cold,Mild,Rest and fluids
+1599,59,Female,Fatigue,Fever,Runny nose,77,37.2,174/71,97,Healthy,Mild,Rest and fluids
+1600,21,Female,Shortness of breath,Body ache,Fever,71,39.2,166/113,98,Flu,Moderate,Medication and rest
+1601,62,Male,Body ache,Sore throat,Headache,113,37.2,153/119,98,Healthy,Mild,Rest and fluids
+1602,58,Male,Headache,Fever,Cough,74,36.6,167/76,97,Healthy,Mild,Rest and fluids
+1603,55,Male,Shortness of breath,Fatigue,Fever,74,36.8,141/80,98,Healthy,Mild,Rest and fluids
+1604,62,Male,Fatigue,Shortness of breath,Headache,90,39.4,146/60,91,Healthy,Mild,Rest and fluids
+1605,59,Male,Headache,Runny nose,Cough,79,37.7,112/94,97,Healthy,Mild,Rest and fluids
+1606,42,Female,Runny nose,Cough,Fatigue,99,37.2,178/103,95,Healthy,Mild,Rest and fluids
+1607,28,Male,Runny nose,Headache,Cough,116,39.4,127/102,93,Bronchitis,Severe,Hospitalization and medication
+1608,53,Male,Shortness of breath,Runny nose,Cough,110,39.0,91/100,93,Bronchitis,Severe,Hospitalization and medication
+1609,53,Female,Headache,Fatigue,Runny nose,91,39.2,137/73,98,Healthy,Mild,Rest and fluids
+1610,22,Female,Runny nose,Body ache,Fever,99,37.0,94/112,94,Healthy,Mild,Rest and fluids
+1611,48,Male,Shortness of breath,Sore throat,Fatigue,74,36.3,96/93,92,Healthy,Mild,Rest and fluids
+1612,52,Female,Fever,Body ache,Headache,93,39.4,117/76,93,Flu,Moderate,Medication and rest
+1613,19,Female,Headache,Cough,Shortness of breath,106,35.5,124/90,99,Cold,Mild,Rest and fluids
+1614,74,Male,Cough,Body ache,Fever,80,37.7,107/114,91,Bronchitis,Severe,Hospitalization and medication
+1615,58,Female,Fatigue,Fever,Body ache,76,36.3,143/66,91,Healthy,Mild,Rest and fluids
+1616,29,Male,Headache,Runny nose,Sore throat,111,38.6,114/76,95,Healthy,Mild,Rest and fluids
+1617,49,Female,Fever,Runny nose,Body ache,72,38.5,165/62,91,Flu,Moderate,Medication and rest
+1618,37,Male,Runny nose,Shortness of breath,Fatigue,74,37.4,172/65,90,Healthy,Mild,Rest and fluids
+1619,32,Male,Cough,Runny nose,Headache,81,37.2,161/93,95,Healthy,Mild,Rest and fluids
+1620,41,Male,Fatigue,Fever,Headache,112,39.6,146/104,92,Pneumonia,Severe,Hospitalization and medication
+1621,69,Male,Fever,Fatigue,Sore throat,103,36.1,172/107,98,Cold,Mild,Rest and fluids
+1622,67,Female,Shortness of breath,Body ache,Headache,88,39.2,166/110,95,Healthy,Mild,Rest and fluids
+1623,64,Female,Fever,Fatigue,Shortness of breath,86,37.3,126/70,94,Healthy,Mild,Rest and fluids
+1624,57,Male,Body ache,Runny nose,Headache,64,39.2,112/115,93,Healthy,Mild,Rest and fluids
+1625,36,Female,Headache,Shortness of breath,Fatigue,77,37.7,158/92,91,Healthy,Mild,Rest and fluids
+1626,74,Male,Headache,Fatigue,Shortness of breath,100,39.1,142/90,97,Healthy,Mild,Rest and fluids
+1627,40,Female,Headache,Fever,Shortness of breath,97,37.1,164/85,95,Healthy,Mild,Rest and fluids
+1628,57,Male,Headache,Shortness of breath,Body ache,88,40.0,132/104,97,Healthy,Mild,Rest and fluids
+1629,31,Female,Runny nose,Headache,Body ache,93,36.5,113/116,94,Healthy,Mild,Rest and fluids
+1630,29,Female,Headache,Fever,Fatigue,88,38.6,143/84,94,Flu,Moderate,Medication and rest
+1631,44,Male,Cough,Headache,Shortness of breath,87,36.7,90/117,94,Bronchitis,Severe,Hospitalization and medication
+1632,56,Male,Fever,Runny nose,Fatigue,111,38.5,147/99,93,Pneumonia,Severe,Hospitalization and medication
+1633,39,Male,Fatigue,Runny nose,Fever,118,36.9,115/101,98,Healthy,Mild,Rest and fluids
+1634,30,Male,Cough,Fatigue,Runny nose,101,39.8,167/60,95,Healthy,Mild,Rest and fluids
+1635,67,Male,Runny nose,Fever,Headache,61,37.4,113/84,99,Healthy,Mild,Rest and fluids
+1636,67,Male,Body ache,Fever,Shortness of breath,78,35.6,127/74,98,Cold,Mild,Rest and fluids
+1637,33,Male,Sore throat,Runny nose,Fever,86,39.3,155/90,92,Flu,Moderate,Medication and rest
+1638,76,Female,Sore throat,Cough,Shortness of breath,62,37.7,179/87,98,Healthy,Mild,Rest and fluids
+1639,32,Male,Sore throat,Runny nose,Fatigue,99,38.2,98/61,93,Healthy,Mild,Rest and fluids
+1640,50,Male,Shortness of breath,Runny nose,Fever,113,39.3,172/98,95,Flu,Moderate,Medication and rest
+1641,69,Female,Shortness of breath,Sore throat,Runny nose,61,37.4,91/84,98,Healthy,Mild,Rest and fluids
+1642,30,Male,Runny nose,Fatigue,Shortness of breath,70,35.5,90/92,95,Healthy,Mild,Rest and fluids
+1643,44,Female,Runny nose,Cough,Shortness of breath,95,39.2,149/70,94,Bronchitis,Severe,Hospitalization and medication
+1644,24,Male,Sore throat,Fatigue,Body ache,110,35.6,124/65,93,Healthy,Mild,Rest and fluids
+1645,48,Female,Cough,Fatigue,Fever,87,35.9,107/118,92,Bronchitis,Severe,Hospitalization and medication
+1646,24,Male,Shortness of breath,Runny nose,Sore throat,118,37.1,177/73,95,Healthy,Mild,Rest and fluids
+1647,34,Male,Runny nose,Fever,Headache,90,39.0,170/84,91,Flu,Moderate,Medication and rest
+1648,51,Male,Sore throat,Headache,Shortness of breath,65,35.7,115/100,94,Healthy,Mild,Rest and fluids
+1649,29,Male,Fatigue,Body ache,Runny nose,119,37.5,98/104,94,Healthy,Mild,Rest and fluids
+1650,34,Male,Sore throat,Fever,Headache,91,39.4,108/99,95,Flu,Moderate,Medication and rest
+1651,77,Male,Shortness of breath,Runny nose,Body ache,92,36.5,163/101,97,Healthy,Mild,Rest and fluids
+1652,45,Female,Cough,Fatigue,Headache,79,36.8,151/100,99,Healthy,Mild,Rest and fluids
+1653,39,Female,Headache,Body ache,Fever,104,35.5,91/102,94,Healthy,Mild,Rest and fluids
+1654,40,Female,Shortness of breath,Sore throat,Fatigue,91,39.2,124/84,94,Healthy,Mild,Rest and fluids
+1655,74,Female,Fatigue,Shortness of breath,Sore throat,99,37.3,90/101,90,Healthy,Mild,Rest and fluids
+1656,38,Female,Body ache,Runny nose,Cough,64,39.7,133/105,92,Bronchitis,Severe,Hospitalization and medication
+1657,58,Female,Sore throat,Fever,Fatigue,80,39.5,145/98,95,Flu,Moderate,Medication and rest
+1658,38,Female,Fever,Sore throat,Shortness of breath,62,37.7,153/82,99,Healthy,Mild,Rest and fluids
+1659,50,Male,Cough,Sore throat,Shortness of breath,114,36.7,113/74,91,Bronchitis,Severe,Hospitalization and medication
+1660,46,Female,Headache,Sore throat,Fever,89,36.4,92/65,92,Healthy,Mild,Rest and fluids
+1661,62,Male,Shortness of breath,Body ache,Fever,100,37.4,103/94,98,Healthy,Mild,Rest and fluids
+1662,69,Male,Fatigue,Headache,Runny nose,79,37.3,158/87,98,Healthy,Mild,Rest and fluids
+1663,67,Male,Shortness of breath,Headache,Fatigue,115,36.3,106/84,92,Healthy,Mild,Rest and fluids
+1664,56,Male,Cough,Fever,Fatigue,90,38.2,146/95,93,Flu,Moderate,Medication and rest
+1665,26,Male,Headache,Fatigue,Body ache,83,36.5,117/99,92,Healthy,Mild,Rest and fluids
+1666,60,Male,Cough,Body ache,Shortness of breath,110,36.9,97/117,90,Bronchitis,Severe,Hospitalization and medication
+1667,34,Male,Runny nose,Cough,Fever,69,38.9,171/116,98,Flu,Moderate,Medication and rest
+1668,34,Male,Headache,Fatigue,Fever,113,39.4,147/114,93,Pneumonia,Severe,Hospitalization and medication
+1669,63,Female,Cough,Body ache,Sore throat,77,37.8,147/105,95,Healthy,Mild,Rest and fluids
+1670,61,Female,Body ache,Fatigue,Headache,102,36.7,161/74,90,Healthy,Mild,Rest and fluids
+1671,38,Male,Cough,Body ache,Sore throat,93,35.9,96/82,96,Cold,Mild,Rest and fluids
+1672,28,Male,Runny nose,Shortness of breath,Cough,66,39.1,93/90,96,Healthy,Mild,Rest and fluids
+1673,24,Male,Body ache,Headache,Runny nose,102,39.7,130/113,94,Healthy,Mild,Rest and fluids
+1674,73,Male,Body ache,Headache,Fever,93,39.7,167/112,98,Flu,Moderate,Medication and rest
+1675,62,Male,Body ache,Cough,Fatigue,90,36.9,90/62,97,Healthy,Mild,Rest and fluids
+1676,35,Male,Cough,Shortness of breath,Fever,105,38.9,147/71,91,Pneumonia,Severe,Hospitalization and medication
+1677,42,Male,Body ache,Fever,Headache,80,37.9,142/83,99,Healthy,Mild,Rest and fluids
+1678,28,Male,Fever,Headache,Cough,113,36.2,175/99,98,Cold,Mild,Rest and fluids
+1679,71,Female,Fatigue,Sore throat,Cough,86,39.8,146/98,98,Healthy,Mild,Rest and fluids
+1680,65,Female,Sore throat,Cough,Body ache,81,39.3,165/81,98,Healthy,Mild,Rest and fluids
+1681,24,Female,Fever,Fatigue,Body ache,112,36.0,108/78,91,Healthy,Mild,Rest and fluids
+1682,25,Female,Shortness of breath,Body ache,Runny nose,82,36.9,150/60,99,Healthy,Mild,Rest and fluids
+1683,21,Male,Runny nose,Fever,Cough,97,38.0,133/110,92,Bronchitis,Severe,Hospitalization and medication
+1684,58,Male,Headache,Body ache,Cough,78,36.4,114/106,97,Cold,Mild,Rest and fluids
+1685,53,Female,Cough,Headache,Body ache,68,35.8,136/74,99,Cold,Mild,Rest and fluids
+1686,24,Female,Fatigue,Cough,Fever,107,39.7,96/115,99,Flu,Moderate,Medication and rest
+1687,36,Male,Headache,Shortness of breath,Fever,86,37.5,177/99,91,Healthy,Mild,Rest and fluids
+1688,40,Female,Cough,Headache,Fever,77,39.2,119/88,96,Flu,Moderate,Medication and rest
+1689,66,Female,Sore throat,Fever,Shortness of breath,100,38.6,148/110,90,Flu,Moderate,Medication and rest
+1690,33,Male,Runny nose,Sore throat,Fever,106,39.2,118/113,97,Flu,Moderate,Medication and rest
+1691,74,Male,Cough,Fever,Body ache,117,39.3,106/81,98,Flu,Moderate,Medication and rest
+1692,64,Male,Body ache,Fatigue,Runny nose,101,36.7,112/109,94,Healthy,Mild,Rest and fluids
+1693,74,Male,Body ache,Runny nose,Fatigue,89,36.6,143/67,91,Healthy,Mild,Rest and fluids
+1694,18,Male,Fever,Sore throat,Headache,101,36.4,104/109,98,Cold,Mild,Rest and fluids
+1695,60,Female,Fever,Headache,Fatigue,90,36.8,134/99,98,Healthy,Mild,Rest and fluids
+1696,62,Male,Sore throat,Headache,Cough,85,35.8,173/98,94,Bronchitis,Severe,Hospitalization and medication
+1697,74,Male,Runny nose,Body ache,Shortness of breath,87,36.1,154/103,96,Cold,Mild,Rest and fluids
+1698,50,Female,Body ache,Fever,Headache,87,38.4,99/79,91,Flu,Moderate,Medication and rest
+1699,46,Female,Fatigue,Body ache,Runny nose,62,36.8,102/113,95,Healthy,Mild,Rest and fluids
+1700,64,Female,Headache,Runny nose,Cough,94,36.8,152/111,91,Bronchitis,Severe,Hospitalization and medication
+1701,24,Female,Shortness of breath,Headache,Body ache,73,36.6,167/114,91,Healthy,Mild,Rest and fluids
+1702,25,Male,Runny nose,Fatigue,Fever,63,39.3,161/110,90,Flu,Moderate,Medication and rest
+1703,64,Female,Fatigue,Runny nose,Shortness of breath,109,39.1,127/89,99,Healthy,Mild,Rest and fluids
+1704,28,Male,Sore throat,Runny nose,Cough,119,40.0,125/108,97,Healthy,Mild,Rest and fluids
+1705,59,Male,Cough,Body ache,Headache,76,39.5,176/83,98,Healthy,Mild,Rest and fluids
+1706,41,Female,Headache,Sore throat,Fever,94,38.4,93/91,94,Flu,Moderate,Medication and rest
+1707,76,Female,Sore throat,Cough,Fever,61,39.9,144/79,95,Flu,Moderate,Medication and rest
+1708,74,Male,Body ache,Fever,Cough,115,36.4,98/62,92,Bronchitis,Severe,Hospitalization and medication
+1709,21,Male,Headache,Fever,Cough,76,36.9,166/101,95,Healthy,Mild,Rest and fluids
+1710,65,Female,Sore throat,Headache,Body ache,63,37.6,117/103,92,Healthy,Mild,Rest and fluids
+1711,67,Male,Sore throat,Fatigue,Shortness of breath,99,38.3,128/109,97,Healthy,Mild,Rest and fluids
+1712,18,Male,Fever,Body ache,Runny nose,118,39.2,142/78,99,Flu,Moderate,Medication and rest
+1713,27,Male,Shortness of breath,Body ache,Runny nose,118,37.0,98/71,95,Healthy,Mild,Rest and fluids
+1714,59,Male,Fever,Headache,Cough,83,39.1,124/74,91,Flu,Moderate,Medication and rest
+1715,31,Male,Fatigue,Sore throat,Runny nose,86,38.6,123/99,99,Healthy,Mild,Rest and fluids
+1716,62,Female,Shortness of breath,Sore throat,Runny nose,90,36.0,162/76,95,Healthy,Mild,Rest and fluids
+1717,36,Female,Sore throat,Body ache,Fatigue,79,35.6,160/105,99,Cold,Mild,Rest and fluids
+1718,62,Male,Fatigue,Cough,Body ache,117,37.8,131/90,93,Bronchitis,Severe,Hospitalization and medication
+1719,55,Male,Fatigue,Body ache,Sore throat,77,39.3,99/60,91,Healthy,Mild,Rest and fluids
+1720,73,Female,Fatigue,Cough,Body ache,98,36.3,174/114,95,Healthy,Mild,Rest and fluids
+1721,58,Female,Runny nose,Shortness of breath,Fever,104,36.4,131/67,95,Healthy,Mild,Rest and fluids
+1722,59,Male,Headache,Shortness of breath,Fever,61,39.9,160/64,95,Flu,Moderate,Medication and rest
+1723,27,Female,Shortness of breath,Cough,Body ache,71,38.4,106/64,98,Healthy,Mild,Rest and fluids
+1724,34,Male,Body ache,Fever,Runny nose,105,37.6,100/118,96,Healthy,Mild,Rest and fluids
+1725,64,Female,Fatigue,Body ache,Shortness of breath,102,36.7,111/89,94,Healthy,Mild,Rest and fluids
+1726,21,Male,Sore throat,Headache,Fever,77,39.5,110/97,94,Flu,Moderate,Medication and rest
+1727,75,Female,Cough,Fever,Runny nose,88,38.4,141/72,94,Flu,Moderate,Medication and rest
+1728,39,Male,Cough,Shortness of breath,Fever,81,37.5,151/102,94,Bronchitis,Severe,Hospitalization and medication
+1729,72,Male,Shortness of breath,Cough,Runny nose,102,36.5,136/99,90,Bronchitis,Severe,Hospitalization and medication
+1730,27,Female,Shortness of breath,Headache,Fatigue,76,36.3,129/86,93,Healthy,Mild,Rest and fluids
+1731,78,Male,Fever,Fatigue,Sore throat,66,39.7,104/101,91,Flu,Moderate,Medication and rest
+1732,64,Male,Fever,Headache,Sore throat,117,38.4,138/101,96,Flu,Moderate,Medication and rest
+1733,40,Female,Shortness of breath,Fatigue,Runny nose,60,36.5,177/64,94,Healthy,Mild,Rest and fluids
+1734,23,Male,Fever,Body ache,Shortness of breath,60,38.3,101/84,92,Flu,Moderate,Medication and rest
+1735,20,Male,Fever,Headache,Runny nose,67,36.2,95/80,91,Healthy,Mild,Rest and fluids
+1736,24,Male,Sore throat,Runny nose,Body ache,88,38.7,113/96,96,Healthy,Mild,Rest and fluids
+1737,47,Male,Headache,Cough,Body ache,105,39.1,177/86,98,Healthy,Mild,Rest and fluids
+1738,79,Female,Fever,Headache,Cough,77,39.9,154/75,94,Flu,Moderate,Medication and rest
+1739,35,Female,Body ache,Shortness of breath,Fatigue,74,38.2,176/66,99,Healthy,Mild,Rest and fluids
+1740,70,Male,Body ache,Fatigue,Sore throat,89,37.6,174/68,94,Healthy,Mild,Rest and fluids
+1741,53,Male,Fever,Fatigue,Shortness of breath,113,39.2,144/79,95,Flu,Moderate,Medication and rest
+1742,76,Female,Fever,Cough,Sore throat,64,39.3,117/99,94,Flu,Moderate,Medication and rest
+1743,20,Female,Cough,Fatigue,Fever,94,36.6,112/104,95,Healthy,Mild,Rest and fluids
+1744,22,Female,Headache,Cough,Shortness of breath,76,39.7,102/66,92,Bronchitis,Severe,Hospitalization and medication
+1745,26,Female,Runny nose,Headache,Fever,110,36.3,93/90,95,Healthy,Mild,Rest and fluids
+1746,24,Male,Cough,Runny nose,Fever,108,37.0,173/66,92,Bronchitis,Severe,Hospitalization and medication
+1747,37,Male,Cough,Headache,Sore throat,80,36.4,168/70,95,Healthy,Mild,Rest and fluids
+1748,69,Male,Runny nose,Cough,Fatigue,77,40.0,137/101,93,Bronchitis,Severe,Hospitalization and medication
+1749,48,Female,Runny nose,Cough,Body ache,70,36.8,138/113,97,Healthy,Mild,Rest and fluids
+1750,69,Male,Shortness of breath,Body ache,Headache,72,37.1,105/94,93,Healthy,Mild,Rest and fluids
+1751,51,Male,Shortness of breath,Headache,Fatigue,75,36.5,98/80,94,Healthy,Mild,Rest and fluids
+1752,60,Male,Sore throat,Fever,Body ache,116,38.4,119/111,95,Flu,Moderate,Medication and rest
+1753,18,Female,Fatigue,Shortness of breath,Fever,106,37.9,130/77,93,Healthy,Mild,Rest and fluids
+1754,34,Female,Runny nose,Cough,Shortness of breath,94,39.8,164/113,95,Healthy,Mild,Rest and fluids
+1755,51,Female,Body ache,Cough,Fever,117,36.4,154/87,91,Bronchitis,Severe,Hospitalization and medication
+1756,32,Male,Fever,Fatigue,Headache,66,36.1,166/77,98,Cold,Mild,Rest and fluids
+1757,58,Male,Body ache,Fatigue,Runny nose,102,35.9,127/63,92,Healthy,Mild,Rest and fluids
+1758,21,Female,Body ache,Fever,Shortness of breath,109,38.3,103/91,96,Flu,Moderate,Medication and rest
+1759,53,Male,Body ache,Fatigue,Sore throat,67,37.7,124/113,99,Healthy,Mild,Rest and fluids
+1760,75,Female,Headache,Fatigue,Fever,89,36.8,178/90,99,Healthy,Mild,Rest and fluids
+1761,61,Male,Fatigue,Cough,Sore throat,75,37.2,132/71,98,Healthy,Mild,Rest and fluids
+1762,51,Female,Body ache,Headache,Shortness of breath,114,38.9,115/72,93,Healthy,Mild,Rest and fluids
+1763,31,Male,Cough,Fever,Headache,117,37.0,173/100,91,Bronchitis,Severe,Hospitalization and medication
+1764,66,Male,Cough,Fatigue,Fever,79,38.3,124/84,96,Flu,Moderate,Medication and rest
+1765,25,Male,Body ache,Fatigue,Sore throat,111,39.5,179/87,92,Healthy,Mild,Rest and fluids
+1766,40,Female,Body ache,Sore throat,Headache,79,39.2,142/72,92,Healthy,Mild,Rest and fluids
+1767,42,Male,Runny nose,Cough,Sore throat,105,38.1,95/77,90,Bronchitis,Severe,Hospitalization and medication
+1768,27,Female,Runny nose,Headache,Fever,60,37.3,112/116,90,Healthy,Mild,Rest and fluids
+1769,65,Male,Fatigue,Sore throat,Fever,70,36.8,154/98,90,Healthy,Mild,Rest and fluids
+1770,31,Female,Body ache,Headache,Sore throat,108,39.4,126/115,92,Healthy,Mild,Rest and fluids
+1771,46,Female,Fever,Runny nose,Fatigue,72,36.8,153/69,91,Healthy,Mild,Rest and fluids
+1772,74,Female,Runny nose,Fatigue,Sore throat,72,35.7,179/73,96,Cold,Mild,Rest and fluids
+1773,34,Male,Body ache,Sore throat,Fever,69,38.2,158/71,95,Flu,Moderate,Medication and rest
+1774,76,Female,Sore throat,Fatigue,Headache,77,38.1,163/72,90,Healthy,Mild,Rest and fluids
+1775,50,Male,Sore throat,Fatigue,Cough,105,35.7,142/102,95,Healthy,Mild,Rest and fluids
+1776,45,Female,Sore throat,Body ache,Headache,78,38.9,146/106,90,Healthy,Mild,Rest and fluids
+1777,29,Female,Fatigue,Body ache,Runny nose,70,40.0,120/95,90,Healthy,Mild,Rest and fluids
+1778,43,Male,Sore throat,Shortness of breath,Runny nose,115,38.8,163/62,96,Healthy,Mild,Rest and fluids
+1779,26,Male,Shortness of breath,Sore throat,Fatigue,103,39.2,132/75,98,Healthy,Mild,Rest and fluids
+1780,70,Female,Cough,Fatigue,Sore throat,62,35.6,162/70,96,Cold,Mild,Rest and fluids
+1781,19,Male,Cough,Shortness of breath,Runny nose,75,39.5,154/114,91,Bronchitis,Severe,Hospitalization and medication
+1782,79,Male,Shortness of breath,Sore throat,Cough,108,39.4,99/107,99,Healthy,Mild,Rest and fluids
+1783,58,Female,Runny nose,Fever,Sore throat,114,39.4,142/93,94,Pneumonia,Severe,Hospitalization and medication
+1784,48,Male,Fatigue,Sore throat,Runny nose,114,36.6,179/79,91,Healthy,Mild,Rest and fluids
+1785,25,Female,Shortness of breath,Fever,Fatigue,60,38.2,158/97,92,Flu,Moderate,Medication and rest
+1786,79,Female,Body ache,Cough,Shortness of breath,96,35.8,93/99,93,Bronchitis,Severe,Hospitalization and medication
+1787,63,Male,Sore throat,Fatigue,Body ache,115,40.0,129/98,98,Healthy,Mild,Rest and fluids
+1788,35,Male,Cough,Body ache,Runny nose,90,36.4,105/104,98,Cold,Mild,Rest and fluids
+1789,36,Male,Fatigue,Cough,Runny nose,69,37.4,138/70,96,Healthy,Mild,Rest and fluids
+1790,43,Male,Cough,Fever,Body ache,61,36.4,156/96,91,Bronchitis,Severe,Hospitalization and medication
+1791,72,Female,Runny nose,Fatigue,Sore throat,80,37.8,128/107,98,Healthy,Mild,Rest and fluids
+1792,46,Female,Fever,Sore throat,Shortness of breath,96,39.3,112/81,97,Flu,Moderate,Medication and rest
+1793,71,Male,Headache,Fatigue,Fever,93,39.3,128/98,93,Flu,Moderate,Medication and rest
+1794,21,Male,Sore throat,Shortness of breath,Fatigue,86,37.0,138/109,97,Healthy,Mild,Rest and fluids
+1795,20,Male,Shortness of breath,Fever,Body ache,85,36.1,92/82,97,Cold,Mild,Rest and fluids
+1796,69,Male,Shortness of breath,Headache,Body ache,90,38.6,131/93,95,Healthy,Mild,Rest and fluids
+1797,40,Male,Sore throat,Fatigue,Fever,119,38.7,114/85,99,Flu,Moderate,Medication and rest
+1798,65,Female,Shortness of breath,Fever,Cough,103,38.4,106/61,97,Flu,Moderate,Medication and rest
+1799,41,Female,Sore throat,Cough,Body ache,115,39.3,129/103,96,Healthy,Mild,Rest and fluids
+1800,46,Male,Sore throat,Body ache,Shortness of breath,103,36.1,145/102,94,Healthy,Mild,Rest and fluids
+1801,52,Female,Fever,Runny nose,Fatigue,114,35.7,160/86,94,Healthy,Mild,Rest and fluids
+1802,37,Female,Sore throat,Body ache,Fever,100,38.5,163/60,92,Flu,Moderate,Medication and rest
+1803,66,Female,Cough,Fatigue,Headache,91,37.5,140/80,92,Bronchitis,Severe,Hospitalization and medication
+1804,50,Male,Runny nose,Body ache,Shortness of breath,84,36.6,118/112,97,Healthy,Mild,Rest and fluids
+1805,45,Female,Runny nose,Body ache,Fever,72,38.4,161/95,98,Flu,Moderate,Medication and rest
+1806,63,Female,Sore throat,Fever,Runny nose,100,36.3,160/95,94,Healthy,Mild,Rest and fluids
+1807,45,Female,Runny nose,Headache,Fever,96,39.8,135/60,99,Flu,Moderate,Medication and rest
+1808,28,Male,Headache,Fever,Cough,65,36.9,99/115,93,Bronchitis,Severe,Hospitalization and medication
+1809,49,Female,Fever,Runny nose,Sore throat,87,39.9,173/96,99,Flu,Moderate,Medication and rest
+1810,42,Male,Shortness of breath,Sore throat,Fever,62,35.7,116/92,96,Cold,Mild,Rest and fluids
+1811,47,Male,Runny nose,Fatigue,Body ache,89,37.4,168/106,91,Healthy,Mild,Rest and fluids
+1812,42,Male,Sore throat,Cough,Runny nose,117,37.4,90/93,90,Bronchitis,Severe,Hospitalization and medication
+1813,41,Male,Cough,Body ache,Fever,107,36.3,98/78,95,Healthy,Mild,Rest and fluids
+1814,18,Female,Runny nose,Sore throat,Body ache,113,35.7,125/117,94,Healthy,Mild,Rest and fluids
+1815,32,Female,Shortness of breath,Sore throat,Headache,116,37.1,115/62,94,Healthy,Mild,Rest and fluids
+1816,73,Female,Runny nose,Cough,Fatigue,111,38.5,141/98,96,Healthy,Mild,Rest and fluids
+1817,71,Female,Cough,Runny nose,Sore throat,113,37.5,96/90,90,Bronchitis,Severe,Hospitalization and medication
+1818,72,Female,Fatigue,Cough,Fever,69,37.3,114/60,90,Bronchitis,Severe,Hospitalization and medication
+1819,27,Male,Body ache,Fever,Cough,60,39.7,131/60,92,Flu,Moderate,Medication and rest
+1820,76,Male,Body ache,Headache,Fever,109,37.0,100/98,91,Healthy,Mild,Rest and fluids
+1821,26,Female,Runny nose,Fever,Fatigue,101,37.8,93/81,94,Healthy,Mild,Rest and fluids
+1822,46,Male,Headache,Body ache,Cough,93,37.5,96/61,96,Healthy,Mild,Rest and fluids
+1823,55,Female,Shortness of breath,Sore throat,Runny nose,113,38.7,92/80,96,Healthy,Mild,Rest and fluids
+1824,41,Female,Shortness of breath,Fatigue,Sore throat,78,38.1,131/81,92,Healthy,Mild,Rest and fluids
+1825,61,Male,Fever,Cough,Shortness of breath,78,39.3,118/100,92,Flu,Moderate,Medication and rest
+1826,62,Female,Runny nose,Cough,Shortness of breath,82,38.5,166/89,98,Healthy,Mild,Rest and fluids
+1827,45,Male,Fatigue,Runny nose,Sore throat,82,39.7,172/102,96,Healthy,Mild,Rest and fluids
+1828,58,Female,Headache,Sore throat,Fatigue,98,39.5,155/100,92,Healthy,Mild,Rest and fluids
+1829,27,Male,Sore throat,Shortness of breath,Runny nose,71,38.7,164/85,94,Healthy,Mild,Rest and fluids
+1830,23,Female,Fatigue,Shortness of breath,Fever,114,36.7,173/64,91,Healthy,Mild,Rest and fluids
+1831,38,Female,Sore throat,Fatigue,Body ache,94,36.9,149/89,95,Healthy,Mild,Rest and fluids
+1832,78,Female,Fatigue,Shortness of breath,Cough,81,39.7,112/115,97,Healthy,Mild,Rest and fluids
+1833,25,Female,Fatigue,Body ache,Headache,79,35.6,144/76,98,Cold,Mild,Rest and fluids
+1834,44,Male,Cough,Headache,Sore throat,71,36.7,128/82,92,Bronchitis,Severe,Hospitalization and medication
+1835,66,Female,Sore throat,Fever,Body ache,103,36.5,95/71,98,Healthy,Mild,Rest and fluids
+1836,50,Female,Runny nose,Headache,Fever,79,36.6,106/83,97,Healthy,Mild,Rest and fluids
+1837,42,Male,Cough,Shortness of breath,Headache,61,36.3,146/101,98,Cold,Mild,Rest and fluids
+1838,27,Male,Shortness of breath,Sore throat,Fever,71,38.2,125/61,96,Flu,Moderate,Medication and rest
+1839,74,Female,Headache,Fever,Cough,106,39.5,109/80,91,Pneumonia,Severe,Hospitalization and medication
+1840,26,Female,Fatigue,Cough,Runny nose,83,39.2,102/93,91,Bronchitis,Severe,Hospitalization and medication
+1841,18,Male,Shortness of breath,Fatigue,Runny nose,85,39.9,128/74,98,Healthy,Mild,Rest and fluids
+1842,44,Male,Body ache,Cough,Sore throat,80,38.0,114/65,92,Bronchitis,Severe,Hospitalization and medication
+1843,62,Male,Fever,Shortness of breath,Cough,114,36.5,163/119,93,Bronchitis,Severe,Hospitalization and medication
+1844,46,Male,Cough,Fever,Headache,116,37.0,176/66,93,Bronchitis,Severe,Hospitalization and medication
+1845,75,Female,Cough,Runny nose,Fever,76,37.0,111/94,94,Bronchitis,Severe,Hospitalization and medication
+1846,70,Female,Headache,Cough,Shortness of breath,103,37.6,131/84,98,Healthy,Mild,Rest and fluids
+1847,22,Male,Body ache,Shortness of breath,Sore throat,116,37.0,105/97,94,Healthy,Mild,Rest and fluids
+1848,34,Female,Shortness of breath,Fever,Runny nose,89,37.7,146/92,95,Healthy,Mild,Rest and fluids
+1849,39,Male,Body ache,Runny nose,Fatigue,106,37.9,129/99,92,Healthy,Mild,Rest and fluids
+1850,49,Female,Headache,Runny nose,Fatigue,64,39.0,94/92,94,Healthy,Mild,Rest and fluids
+1851,62,Female,Runny nose,Sore throat,Fever,69,39.9,122/112,96,Flu,Moderate,Medication and rest
+1852,50,Female,Cough,Fever,Sore throat,81,38.5,121/88,91,Flu,Moderate,Medication and rest
+1853,53,Male,Headache,Body ache,Sore throat,70,37.0,158/76,92,Healthy,Mild,Rest and fluids
+1854,40,Female,Body ache,Sore throat,Fatigue,96,39.3,171/114,99,Healthy,Mild,Rest and fluids
+1855,63,Female,Cough,Shortness of breath,Runny nose,78,35.7,165/106,90,Bronchitis,Severe,Hospitalization and medication
+1856,35,Male,Runny nose,Fatigue,Headache,89,35.8,168/84,91,Healthy,Mild,Rest and fluids
+1857,40,Male,Sore throat,Headache,Cough,89,37.1,122/93,98,Healthy,Mild,Rest and fluids
+1858,26,Female,Body ache,Runny nose,Cough,65,40.0,109/75,95,Healthy,Mild,Rest and fluids
+1859,24,Male,Shortness of breath,Sore throat,Headache,62,36.0,132/68,97,Cold,Mild,Rest and fluids
+1860,30,Female,Body ache,Sore throat,Headache,68,35.9,118/88,94,Healthy,Mild,Rest and fluids
+1861,30,Male,Runny nose,Cough,Sore throat,74,39.6,107/112,93,Bronchitis,Severe,Hospitalization and medication
+1862,31,Male,Cough,Fever,Runny nose,66,38.7,112/72,95,Flu,Moderate,Medication and rest
+1863,48,Male,Shortness of breath,Fever,Cough,72,36.0,127/78,94,Bronchitis,Severe,Hospitalization and medication
+1864,50,Female,Cough,Shortness of breath,Fatigue,102,35.7,140/82,95,Healthy,Mild,Rest and fluids
+1865,75,Female,Runny nose,Fever,Sore throat,77,39.9,101/118,91,Flu,Moderate,Medication and rest
+1866,29,Female,Sore throat,Headache,Fever,70,35.9,150/88,92,Healthy,Mild,Rest and fluids
+1867,40,Male,Sore throat,Headache,Cough,105,35.6,121/91,99,Cold,Mild,Rest and fluids
+1868,23,Female,Body ache,Fever,Cough,69,36.3,91/106,97,Cold,Mild,Rest and fluids
+1869,71,Male,Headache,Fever,Cough,60,37.9,121/63,90,Bronchitis,Severe,Hospitalization and medication
+1870,24,Male,Fever,Headache,Runny nose,80,38.5,129/119,99,Flu,Moderate,Medication and rest
+1871,55,Female,Cough,Sore throat,Headache,98,38.1,123/79,95,Healthy,Mild,Rest and fluids
+1872,55,Female,Headache,Shortness of breath,Body ache,105,36.9,131/119,92,Healthy,Mild,Rest and fluids
+1873,21,Female,Runny nose,Headache,Sore throat,108,37.5,125/109,99,Healthy,Mild,Rest and fluids
+1874,43,Female,Sore throat,Body ache,Runny nose,98,37.2,111/60,93,Healthy,Mild,Rest and fluids
+1875,28,Male,Headache,Body ache,Runny nose,89,36.0,174/92,99,Cold,Mild,Rest and fluids
+1876,74,Female,Cough,Body ache,Shortness of breath,103,37.5,171/82,99,Healthy,Mild,Rest and fluids
+1877,23,Female,Runny nose,Fever,Shortness of breath,73,38.2,119/97,90,Flu,Moderate,Medication and rest
+1878,53,Female,Shortness of breath,Body ache,Sore throat,94,36.6,143/67,92,Healthy,Mild,Rest and fluids
+1879,41,Female,Sore throat,Cough,Body ache,109,35.7,154/60,96,Cold,Mild,Rest and fluids
+1880,19,Male,Body ache,Headache,Sore throat,101,36.7,173/91,95,Healthy,Mild,Rest and fluids
+1881,39,Male,Body ache,Runny nose,Fever,64,37.6,125/117,92,Healthy,Mild,Rest and fluids
+1882,27,Female,Fatigue,Fever,Headache,84,37.1,151/116,95,Healthy,Mild,Rest and fluids
+1883,43,Female,Sore throat,Headache,Fatigue,106,39.9,91/60,98,Healthy,Mild,Rest and fluids
+1884,61,Female,Sore throat,Body ache,Headache,67,39.5,109/76,99,Healthy,Mild,Rest and fluids
+1885,49,Male,Fatigue,Shortness of breath,Sore throat,65,39.7,125/98,94,Healthy,Mild,Rest and fluids
+1886,73,Male,Body ache,Fatigue,Cough,114,36.7,169/73,99,Healthy,Mild,Rest and fluids
+1887,40,Male,Fever,Cough,Body ache,118,39.3,157/92,91,Pneumonia,Severe,Hospitalization and medication
+1888,64,Male,Shortness of breath,Fever,Cough,80,36.0,120/69,99,Cold,Mild,Rest and fluids
+1889,18,Female,Runny nose,Cough,Shortness of breath,83,36.9,156/73,95,Healthy,Mild,Rest and fluids
+1890,19,Female,Body ache,Sore throat,Fatigue,76,38.4,112/60,94,Healthy,Mild,Rest and fluids
+1891,46,Female,Shortness of breath,Cough,Runny nose,71,36.6,157/117,98,Healthy,Mild,Rest and fluids
+1892,71,Male,Fatigue,Fever,Sore throat,105,39.7,155/118,98,Flu,Moderate,Medication and rest
+1893,19,Male,Body ache,Shortness of breath,Runny nose,73,37.6,142/71,99,Healthy,Mild,Rest and fluids
+1894,38,Male,Shortness of breath,Headache,Fatigue,60,39.6,111/81,93,Healthy,Mild,Rest and fluids
+1895,46,Male,Fever,Runny nose,Fatigue,80,39.5,179/73,92,Flu,Moderate,Medication and rest
+1896,21,Female,Fever,Headache,Shortness of breath,116,39.6,131/96,93,Pneumonia,Severe,Hospitalization and medication
+1897,66,Male,Runny nose,Shortness of breath,Fever,70,36.5,115/88,95,Healthy,Mild,Rest and fluids
+1898,23,Male,Body ache,Headache,Shortness of breath,99,35.5,109/113,92,Healthy,Mild,Rest and fluids
+1899,71,Female,Sore throat,Fever,Headache,81,37.3,146/77,96,Healthy,Mild,Rest and fluids
+1900,71,Male,Runny nose,Headache,Sore throat,116,38.9,138/68,99,Healthy,Mild,Rest and fluids
+1901,47,Female,Fever,Body ache,Cough,78,39.4,176/72,96,Flu,Moderate,Medication and rest
+1902,50,Female,Body ache,Sore throat,Fatigue,115,38.9,176/118,93,Healthy,Mild,Rest and fluids
+1903,41,Male,Cough,Shortness of breath,Sore throat,74,38.0,148/61,92,Bronchitis,Severe,Hospitalization and medication
+1904,28,Male,Body ache,Fatigue,Sore throat,74,37.2,147/95,93,Healthy,Mild,Rest and fluids
+1905,60,Male,Fever,Sore throat,Shortness of breath,64,37.6,138/114,91,Healthy,Mild,Rest and fluids
+1906,67,Female,Shortness of breath,Fever,Headache,110,37.1,102/99,94,Healthy,Mild,Rest and fluids
+1907,28,Female,Shortness of breath,Cough,Sore throat,111,36.5,170/72,90,Bronchitis,Severe,Hospitalization and medication
+1908,55,Female,Runny nose,Body ache,Fatigue,115,38.6,150/75,93,Healthy,Mild,Rest and fluids
+1909,60,Female,Headache,Runny nose,Fever,84,38.2,118/65,97,Flu,Moderate,Medication and rest
+1910,30,Male,Fatigue,Fever,Shortness of breath,67,37.7,176/76,97,Healthy,Mild,Rest and fluids
+1911,35,Male,Fever,Cough,Shortness of breath,99,37.2,123/76,97,Healthy,Mild,Rest and fluids
+1912,53,Male,Fever,Runny nose,Sore throat,64,35.7,142/89,98,Cold,Mild,Rest and fluids
+1913,34,Male,Headache,Sore throat,Fatigue,104,36.5,145/95,95,Healthy,Mild,Rest and fluids
+1914,72,Female,Fever,Runny nose,Shortness of breath,65,36.9,102/78,96,Healthy,Mild,Rest and fluids
+1915,78,Female,Shortness of breath,Fatigue,Fever,85,38.3,105/66,97,Flu,Moderate,Medication and rest
+1916,64,Female,Headache,Body ache,Fatigue,76,39.0,157/69,95,Healthy,Mild,Rest and fluids
+1917,58,Male,Fatigue,Sore throat,Shortness of breath,89,39.0,158/76,94,Healthy,Mild,Rest and fluids
+1918,28,Male,Fever,Sore throat,Cough,69,39.2,139/90,92,Flu,Moderate,Medication and rest
+1919,44,Female,Fatigue,Sore throat,Fever,108,38.1,167/90,99,Flu,Moderate,Medication and rest
+1920,52,Male,Sore throat,Headache,Shortness of breath,110,38.1,155/92,97,Healthy,Mild,Rest and fluids
+1921,74,Male,Cough,Sore throat,Fever,113,38.4,115/106,94,Pneumonia,Severe,Hospitalization and medication
+1922,40,Female,Cough,Fever,Sore throat,114,37.6,140/112,95,Healthy,Mild,Rest and fluids
+1923,30,Female,Sore throat,Shortness of breath,Fatigue,64,39.8,147/77,91,Healthy,Mild,Rest and fluids
+1924,26,Male,Cough,Shortness of breath,Fever,61,39.4,132/108,99,Flu,Moderate,Medication and rest
+1925,66,Female,Runny nose,Body ache,Shortness of breath,74,40.0,145/97,92,Healthy,Mild,Rest and fluids
+1926,52,Female,Fatigue,Runny nose,Headache,90,37.6,147/100,95,Healthy,Mild,Rest and fluids
+1927,53,Female,Fatigue,Headache,Fever,84,38.4,178/61,94,Flu,Moderate,Medication and rest
+1928,57,Male,Shortness of breath,Runny nose,Cough,111,37.8,161/71,95,Healthy,Mild,Rest and fluids
+1929,39,Male,Runny nose,Fatigue,Fever,91,39.4,177/113,93,Flu,Moderate,Medication and rest
+1930,73,Male,Runny nose,Fever,Fatigue,99,36.7,145/114,91,Healthy,Mild,Rest and fluids
+1931,43,Male,Shortness of breath,Body ache,Fever,107,38.1,161/73,97,Flu,Moderate,Medication and rest
+1932,44,Female,Fever,Body ache,Fatigue,97,39.5,131/96,97,Flu,Moderate,Medication and rest
+1933,51,Female,Headache,Sore throat,Fever,85,39.2,137/81,95,Flu,Moderate,Medication and rest
+1934,78,Male,Fatigue,Shortness of breath,Body ache,101,36.0,122/80,96,Cold,Mild,Rest and fluids
+1935,79,Male,Headache,Body ache,Runny nose,64,38.7,173/107,99,Healthy,Mild,Rest and fluids
+1936,38,Female,Shortness of breath,Fatigue,Runny nose,119,37.5,162/78,91,Healthy,Mild,Rest and fluids
+1937,34,Male,Runny nose,Fatigue,Shortness of breath,114,36.9,160/84,92,Healthy,Mild,Rest and fluids
+1938,52,Male,Body ache,Cough,Fever,117,36.2,150/79,94,Bronchitis,Severe,Hospitalization and medication
+1939,47,Male,Fatigue,Cough,Fever,80,37.4,178/63,98,Healthy,Mild,Rest and fluids
+1940,43,Female,Headache,Cough,Fever,108,37.8,138/64,97,Healthy,Mild,Rest and fluids
+1941,49,Male,Sore throat,Shortness of breath,Fever,103,39.9,166/107,94,Pneumonia,Severe,Hospitalization and medication
+1942,64,Female,Fatigue,Body ache,Sore throat,118,39.0,99/61,94,Healthy,Mild,Rest and fluids
+1943,63,Female,Cough,Shortness of breath,Fever,118,39.7,116/64,99,Flu,Moderate,Medication and rest
+1944,25,Female,Headache,Shortness of breath,Runny nose,68,36.9,136/79,97,Healthy,Mild,Rest and fluids
+1945,57,Female,Shortness of breath,Headache,Body ache,68,38.9,166/72,94,Healthy,Mild,Rest and fluids
+1946,19,Male,Shortness of breath,Body ache,Fever,103,39.7,96/85,93,Pneumonia,Severe,Hospitalization and medication
+1947,53,Male,Body ache,Fatigue,Sore throat,119,36.4,106/79,94,Healthy,Mild,Rest and fluids
+1948,74,Female,Runny nose,Cough,Sore throat,69,39.7,113/91,92,Bronchitis,Severe,Hospitalization and medication
+1949,37,Male,Fever,Fatigue,Shortness of breath,118,38.1,92/103,93,Pneumonia,Severe,Hospitalization and medication
+1950,45,Male,Sore throat,Body ache,Runny nose,76,38.1,128/101,97,Healthy,Mild,Rest and fluids
+1951,70,Female,Shortness of breath,Sore throat,Body ache,78,37.1,148/72,90,Healthy,Mild,Rest and fluids
+1952,58,Female,Body ache,Fatigue,Shortness of breath,95,40.0,105/116,99,Healthy,Mild,Rest and fluids
+1953,41,Male,Runny nose,Fatigue,Headache,89,35.9,176/115,90,Healthy,Mild,Rest and fluids
+1954,42,Male,Body ache,Runny nose,Headache,105,38.2,173/84,90,Healthy,Mild,Rest and fluids
+1955,42,Male,Shortness of breath,Fatigue,Fever,111,38.6,104/78,96,Flu,Moderate,Medication and rest
+1956,73,Male,Fatigue,Headache,Sore throat,70,37.1,132/113,92,Healthy,Mild,Rest and fluids
+1957,70,Female,Body ache,Fatigue,Shortness of breath,94,37.7,95/85,95,Healthy,Mild,Rest and fluids
+1958,51,Female,Body ache,Cough,Runny nose,102,36.8,91/115,92,Bronchitis,Severe,Hospitalization and medication
+1959,45,Female,Runny nose,Fatigue,Headache,84,36.3,112/113,91,Healthy,Mild,Rest and fluids
+1960,73,Male,Shortness of breath,Headache,Sore throat,108,35.7,134/92,91,Healthy,Mild,Rest and fluids
+1961,52,Female,Fever,Body ache,Fatigue,75,39.0,128/117,90,Flu,Moderate,Medication and rest
+1962,42,Male,Runny nose,Fever,Shortness of breath,99,39.1,99/110,90,Flu,Moderate,Medication and rest
+1963,22,Female,Fever,Body ache,Headache,108,36.9,131/97,93,Healthy,Mild,Rest and fluids
+1964,54,Female,Cough,Fever,Shortness of breath,81,39.5,116/111,97,Flu,Moderate,Medication and rest
+1965,75,Female,Shortness of breath,Headache,Fatigue,95,36.4,116/112,94,Healthy,Mild,Rest and fluids
+1966,57,Male,Fatigue,Headache,Sore throat,62,35.9,117/103,91,Healthy,Mild,Rest and fluids
+1967,18,Female,Headache,Shortness of breath,Sore throat,95,35.9,166/105,92,Healthy,Mild,Rest and fluids
+1968,64,Female,Shortness of breath,Cough,Body ache,62,36.5,136/65,93,Bronchitis,Severe,Hospitalization and medication
+1969,49,Male,Runny nose,Body ache,Shortness of breath,77,39.1,92/100,95,Healthy,Mild,Rest and fluids
+1970,48,Male,Sore throat,Runny nose,Headache,98,39.5,90/102,95,Healthy,Mild,Rest and fluids
+1971,76,Male,Sore throat,Body ache,Cough,67,37.0,154/92,98,Healthy,Mild,Rest and fluids
+1972,44,Female,Body ache,Shortness of breath,Sore throat,67,37.9,92/72,97,Healthy,Mild,Rest and fluids
+1973,42,Male,Body ache,Fatigue,Sore throat,105,36.9,93/67,98,Healthy,Mild,Rest and fluids
+1974,70,Male,Cough,Shortness of breath,Runny nose,116,39.0,140/111,97,Healthy,Mild,Rest and fluids
+1975,71,Female,Headache,Shortness of breath,Body ache,87,38.7,116/100,96,Healthy,Mild,Rest and fluids
+1976,46,Female,Body ache,Headache,Runny nose,72,36.2,92/70,93,Healthy,Mild,Rest and fluids
+1977,75,Male,Body ache,Sore throat,Cough,68,36.9,132/94,91,Bronchitis,Severe,Hospitalization and medication
+1978,75,Female,Body ache,Cough,Fatigue,77,39.3,134/86,90,Bronchitis,Severe,Hospitalization and medication
+1979,63,Male,Runny nose,Fatigue,Sore throat,64,39.7,160/64,99,Healthy,Mild,Rest and fluids
+1980,57,Male,Runny nose,Sore throat,Fatigue,74,36.7,151/91,91,Healthy,Mild,Rest and fluids
+1981,36,Female,Fatigue,Headache,Runny nose,60,37.9,157/69,90,Healthy,Mild,Rest and fluids
+1982,25,Male,Cough,Runny nose,Shortness of breath,60,36.6,172/65,92,Bronchitis,Severe,Hospitalization and medication
+1983,52,Male,Shortness of breath,Fever,Cough,61,35.9,113/93,96,Cold,Mild,Rest and fluids
+1984,78,Female,Body ache,Sore throat,Fatigue,104,36.5,150/69,95,Healthy,Mild,Rest and fluids
+1985,62,Male,Runny nose,Body ache,Headache,97,39.4,179/76,92,Healthy,Mild,Rest and fluids
+1986,57,Male,Runny nose,Shortness of breath,Sore throat,78,36.0,158/78,95,Healthy,Mild,Rest and fluids
+1987,28,Female,Sore throat,Body ache,Fatigue,98,39.2,167/81,93,Healthy,Mild,Rest and fluids
+1988,61,Female,Shortness of breath,Cough,Runny nose,99,39.0,158/66,97,Healthy,Mild,Rest and fluids
+1989,25,Female,Headache,Sore throat,Body ache,62,39.8,128/108,98,Healthy,Mild,Rest and fluids
+1990,29,Female,Runny nose,Shortness of breath,Headache,100,36.2,119/115,97,Cold,Mild,Rest and fluids
+1991,60,Male,Headache,Body ache,Shortness of breath,83,38.2,145/118,96,Healthy,Mild,Rest and fluids
+1992,74,Male,Fatigue,Cough,Fever,102,37.8,140/60,93,Bronchitis,Severe,Hospitalization and medication
+1993,77,Female,Fatigue,Fever,Body ache,112,39.0,112/107,98,Flu,Moderate,Medication and rest
+1994,22,Female,Fever,Sore throat,Runny nose,88,39.9,102/97,90,Flu,Moderate,Medication and rest
+1995,31,Female,Runny nose,Sore throat,Body ache,93,36.4,139/92,99,Cold,Mild,Rest and fluids
+1996,23,Female,Sore throat,Runny nose,Shortness of breath,96,38.2,116/113,98,Healthy,Mild,Rest and fluids
+1997,75,Male,Fatigue,Cough,Sore throat,68,36.1,166/113,97,Cold,Mild,Rest and fluids
+1998,79,Male,Fatigue,Runny nose,Fever,73,36.7,91/103,95,Healthy,Mild,Rest and fluids
+1999,56,Female,Cough,Sore throat,Headache,67,39.1,128/73,91,Bronchitis,Severe,Hospitalization and medication
+2000,45,Female,Fatigue,Body ache,Fever,111,35.8,127/78,94,Healthy,Mild,Rest and fluids
